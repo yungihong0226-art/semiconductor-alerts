@@ -86,5 +86,27 @@
     "first_seen": "2026-08-24",
     "last_checked": "2026-08-24",
     "status": "open"
+  },
+  {
+    "id": "https://ee.hongik.ac.kr/ee/0501.do?articleno=152405",
+    "title": "2026년도 홍익대 첨단산업 인재양성(반도체)부트캠프사업 수혜학생(3학년) 추가선발 안내",
+    "organizer": "홍익대학교 전자전기공학부 반도체부트캠프사업단",
+    "category": "교육",
+    "url": "https://ee.hongik.ac.kr/ee/0501.do?mode=view&articleNo=152405",
+    "deadline": null,
+    "first_seen": "2026-08-24",
+    "last_checked": "2026-08-24",
+    "status": "open"
+  },
+  {
+    "id": "https://www.doowon.ac.kr/bbs/kr/17/8616/artclview.do",
+    "title": "2026 미래기술학교 운영 지원 사업(팹리스 SoC 반도체설계) 교육생 모집",
+    "organizer": "두원공과대학교",
+    "category": "교육",
+    "url": "https://www.doowon.ac.kr/bbs/kr/17/8616/artclView.do",
+    "deadline": null,
+    "first_seen": "2026-08-24",
+    "last_checked": "2026-08-24",
+    "status": "open"
   }
 ]
