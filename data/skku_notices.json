@@ -214,5 +214,23 @@
     "posted_date": "2026-08-24",
     "first_seen": "2026-08-25",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#이공 우수인재 성장경로 지원사업 참여학생 추가모집(~8.25(화) 17시 마감)",
+    "site": "skku",
+    "title": "이공 우수인재 성장경로 지원사업 참여학생 추가모집(~8.25(화) 17시 마감)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-08-26",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[앵커 사업단]「반도체 생태계 및 산업의 거동과 현황」특강 참여 학생 모집(~8/21(금))",
+    "site": "skku",
+    "title": "[앵커 사업단]「반도체 생태계 및 산업의 거동과 현황」특강 참여 학생 모집(~8/21(금))",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-08-26",
+    "notified": true
   }
 ]
