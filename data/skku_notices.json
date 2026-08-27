@@ -232,5 +232,86 @@
     "posted_date": null,
     "first_seen": "2026-08-26",
     "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#정조운 교수 연구팀 2025-2 융합연구학점제 총장상 수상(사용자 친화적 근기능 평가 및 모니터링 시스템 개발)",
+    "site": "eee",
+    "title": "정조운 교수 연구팀 2025-2 융합연구학점제 총장상 수상(사용자 친화적 근기능 평가 및 모니터링 시스템 개발)",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-08-27",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 하계 전체 학위수여식 안내",
+    "site": "skku",
+    "title": "2026 하계 전체 학위수여식 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-04",
+    "first_seen": "2026-08-27",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026-1학기 학업 우수 장학생(성적우수장학생) 선발 결과 안내",
+    "site": "skku",
+    "title": "2026-1학기 학업 우수 장학생(성적우수장학생) 선발 결과 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-04",
+    "first_seen": "2026-08-27",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#발목재활운동프로그램 참여자 모집",
+    "site": "skku",
+    "title": "발목재활운동프로그램 참여자 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-04",
+    "first_seen": "2026-08-27",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#입학사정관(계약직) 채용",
+    "site": "skku",
+    "title": "입학사정관(계약직) 채용",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-04",
+    "first_seen": "2026-08-27",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#AI응용공학과 2027학년도 전기 신입학 입학설명회",
+    "site": "skku",
+    "title": "AI응용공학과 2027학년도 전기 신입학 입학설명회",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-26",
+    "first_seen": "2026-08-27",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026-2학기 데이터분석과AI기초 이론/실습 TA 모집",
+    "site": "skku",
+    "title": "2026-2학기 데이터분석과AI기초 이론/실습 TA 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-26",
+    "first_seen": "2026-08-27",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#자연과학캠퍼스 피지컬AI사업단 행정직원 채용",
+    "site": "skku",
+    "title": "자연과학캠퍼스 피지컬AI사업단 행정직원 채용",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-08-27",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026-2학기 논문제출승인 및 8월 졸업자 추가논문제출 기간 안내",
+    "site": "skku",
+    "title": "2026-2학기 논문제출승인 및 8월 졸업자 추가논문제출 기간 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-08-27",
+    "notified": false
   }
 ]
