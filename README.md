@@ -3,13 +3,20 @@
 전자전기공학부 학생을 위한 반도체 관련 공모전 / 교육·부트캠프 / 지원사업 / 인턴십·채용연계 / 서포터즈 알림 및 성균관대학교 공지사항 저장소입니다.
 매일 자동으로 최신 공고를 수집하여 아래 목록을 갱신합니다.
 
-마지막 업데이트: 2026-08-27 09:26 KST
+마지막 업데이트: 2026-08-28 09:30 KST
 
-## 반도체 공모전/교육/지원사업/인턴십/서포터즈 (전체 11건: 공모전 1건 / 교육 8건 / 지원사업 1건 / 인턴십 1건 / 서포터즈 0건)
+## 반도체 공모전/교육/지원사업/인턴십/서포터즈 (전체 12건: 공모전 2건 / 교육 8건 / 지원사업 1건 / 인턴십 1건 / 서포터즈 0건)
 
-⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캐퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
+⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캠퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
 
 ### 공모전
+
+#### 2026 COSS 차세대반도체 Microcontroller(MCU) 응용 경진대회 [학부 부문] (D-21)
+- 주최: 차세대 반도체 혁신융합대학 사업단
+- 모집기간: ~ 2026-09-18
+- 모집대상: 혁신융합대학 참여대학(강원대·대구대·서울대·숭실대·조선이공대·중앙대·POSTECH 등) 또는 관련 교과목 수강 학부생, 휴학 여부 확인필요
+- 설명: MCU 활용 실생활 시스템 설계·제작 학부생 경진대회
+- 링크: http://www.disu.ac.kr/community/notice?md=v&bbsidx=8716
 
 #### 2026 한국 대학생 반도체 설계 경진대회 (마감일 미정)
 - 주최: 한국반도체공학회(The Institute of Semiconductor Engineers)
@@ -20,7 +27,7 @@
 
 ### 교육
 
-#### SEMI 반도체공정기술교육 2026 기초과정(하반기) (D-43)
+#### SEMI 반도체공정기술교육 2026 기초과정(하반기) (D-42)
 - 주최: SEMI Korea(국제반도체장비재료협회)
 - 모집기간: 2026-09-07 ~ 2026-10-09
 - 모집대상: 반도체 산업 관심 대학생·구직자 (확인필요)
@@ -94,11 +101,13 @@
 - 설명: 확인필요
 - 링크: https://bootcamp.doowon.ac.kr/schedule/bootSchedule.do
 
-이번 실행 기관순환 그룹(institution_rotation_index=2): 경북대 IDEC, 전남대 IDEC, 충북대 IDEC, 아주대 반도체, 두원공과대 반도체부트캠프, 한국화학연구원 인턴, 한화정밀기계 채용선제형 인턴
+이번 실행 기관순환 그룹(institution_rotation_index=3): POSTECH 반도체, GIST 반도체공학, DGIST 반도체, 한국공학대 SETEC 반도체기술장비교육센터, 차세대반도체 혁신융합대학 사업단, 텍사스인스트루먼트(TI) 인턴십, SEMI SEMIgizer 서포터즈 (신규 발견: 차세대반도체 혁신융합대학 사업단 COSS MCU 경진대회 / 나머지는 모집마감 또는 신규 공고 미발견)
 
 ---
 
 ## 성균관대 공지사항
+
+⚠️ 2026-08-28 실행: 네트워크 egress 정책으로 eee.skku.edu / www.skku.edu 접속이 전부 차단되어(WebFetch·WebSearch 모두 실패) 오늘은 신규 공지를 확인하지 못했습니다. 아래 목록은 2026-08-27 기준 마지막으로 확인된 상태이며, 접속이 복구되는 대로 다음 실행에서 갱신됩니다.
 
 ### 전자전기공학부 학부공지 (eee.skku.edu)
 
