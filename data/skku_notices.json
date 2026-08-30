@@ -313,5 +313,59 @@
     "posted_date": null,
     "first_seen": "2026-08-27",
     "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026학년도 2학기 졸업예정자 직권수강신청 안내",
+    "site": "eee",
+    "title": "2026학년도 2학기 졸업예정자 직권수강신청 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-08-14",
+    "first_seen": "2026-08-30",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[총괄지원팀] 카운슬링센터 상담인력(촉탁직원) 채용 공고",
+    "site": "skku",
+    "title": "[총괄지원팀] 카운슬링센터 상담인력(촉탁직원) 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-26",
+    "first_seen": "2026-08-30",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[모두의 창업 2차 모집] 통합 모집공고",
+    "site": "skku",
+    "title": "[모두의 창업 2차 모집] 통합 모집공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-25",
+    "first_seen": "2026-08-30",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#생명물리학과 바이오나노포토닉스 연구실(김인기 교수) 행정직 채용",
+    "site": "skku",
+    "title": "생명물리학과 바이오나노포토닉스 연구실(김인기 교수) 행정직 채용",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-25",
+    "first_seen": "2026-08-30",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#독일어권사회문화연구소 국제 컨퍼런스",
+    "site": "skku",
+    "title": "독일어권사회문화연구소 국제 컨퍼런스",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-25",
+    "first_seen": "2026-08-30",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#Nature × SKKU 글로벌 논문 작성 특강 (8/19~8/21, 삼성학술정보관)",
+    "site": "skku",
+    "title": "Nature × SKKU 글로벌 논문 작성 특강 (8/19~8/21, 삼성학술정보관)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-08-30",
+    "notified": true
   }
 ]
