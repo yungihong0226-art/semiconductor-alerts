@@ -3,7 +3,7 @@
 전자전기공학부 학생을 위한 반도체 관련 공모전 / 교육·부트캠프 / 지원사업 / 인턴십·채용연계 / 서포터즈 알림 및 성균관대학교 공지사항 저장소입니다.
 매일 자동으로 최신 공고를 수집하여 아래 목록을 갱신합니다.
 
-마지막 업데이트: 2026-09-01 09:22 KST
+마지막 업데이트: 2026-09-01 17:34 KST
 
 ## 반도체 공모전/교육/지원사업/인턴십/서포터즈 (전체 16건: 공모전 2건 / 교육 11건 / 지원사업 1건 / 인턴십 2건 / 서포터즈 0건)
 
@@ -157,20 +157,25 @@
 
 ### 성균관대 종합 공지사항 (www.skku.edu)
 
-- 🆕 [[창업지원단] 2026 K-랜딩 챌린지(K-Landing Challenge) 참가자 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-31)
-- 🆕 [[학부대학] 자과캠 학습지도실 대학원생 근로장학생 모집(~9/4, 조기마감 가능)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-31)
+- 🆕 [성균관대학교 경제학과 4단계 BK21 교육연구단 연구교수, 박사후연구원 초빙, 채용공고](https://www.skku.edu/skku/mobile/notice.do?article.offset=0&articleLimit=10&articleNo=85097&mode=view) (2026-09-01)
+- 🆕 [자과캠 건강센터 2026-2학기 금연상담교실 참가자 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-09-01)
+- 🆕 [2026 하반기 졸업선배 릴레이 특강(9월): 롯데웰푸드, 비씨카드, 삼성전자, 롯데백화점](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-09-01)
+- 🆕 [인권센터 2026년 대학원생 마인드힐링(심리상담) 지원 안내(~9/18)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-31)
+- 🆕 [2026 청년도약 인재양성 부트캠프 교육생 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-31)
+- 🆕 [2027학년도 SKK GSB MBA 입학설명회 (9월 7일 월, 국제관)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (날짜 확인필요)
+- 🆕 [2026-2학기 인공지능(AI) 부트캠프 설명회 개최 (참여신청마감 : ~ 9/4 까지)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (날짜 확인필요)
+- [[창업지원단] 2026 K-랜딩 챌린지(K-Landing Challenge) 참가자 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-31)
+- [[학부대학] 자과캠 학습지도실 대학원생 근로장학생 모집(~9/4, 조기마감 가능)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-31)
 - [[총괄지원팀] 카운슬링센터 상담인력(촉탁직원) 채용 공고](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-26)
 - [[모두의 창업 2차 모집] 통합 모집공고](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-25)
 - [생명물리학과 바이오나노포토닉스 연구실(김인기 교수) 행정직 채용](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-25)
 - [독일어권사회문화연구소 국제 컨퍼런스](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-25)
-- [Nature × SKKU 글로벌 논문 작성 특강 (8/19~8/21, 삼성학술정보관)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (날짜 확인필요)
 - [AI응용공학과 2027학년도 전기 신입학 입학설명회](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-26)
 - [2026-2학기 데이터분석과AI기초 이론/실습 TA 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-26)
-- [2026 하계 전체 학위수여식 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-04)
 - [2026-1학기 학업 우수 장학생(성적우수장학생) 선발 결과 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-04)
 - [발목재활운동프로그램 참여자 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-04)
 - [입학사정관(계약직) 채용](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (2026-08-04)
 - [자연과학캠퍼스 피지컬AI사업단 행정직원 채용](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (날짜 확인필요)
 - [2026-2학기 논문제출승인 및 8월 졸업자 추가논문제출 기간 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) (날짜 확인필요)
 
-⚠️ 네트워크 참고: 오늘(2026-09-01)도 eee.skku.edu / www.skku.edu 직접 접속(WebFetch/curl)이 egress 정책으로 완전히 차단되어(모든 외부 도메인 CONNECT가 정책상 거부됨) WebSearch 대체 검색만 사용했습니다. WebSearch 스니펫을 통해 신규 게시글 후보 2건(모두 종합공지 게시판, 🆕 표시)을 확인했으나 게시판을 직접 열람하지 못해 정확한 게시글 번호(articleNo)는 확인하지 못했습니다. 목록이 실제 게시판과 다를 수 있으니 두 게시판을 직접 방문해 최신 글도 확인하시길 권장합니다.
+⚠️ 네트워크 참고: 오늘(2026-09-01) 이 루틴이 09:22 KST에 이어 17:34 KST에 한 번 더 실행되었습니다(2회차). eee.skku.edu / www.skku.edu 직접 접속(WebFetch/curl)이 여전히 egress 정책으로 완전히 차단되어 WebSearch 대체 검색만 사용했습니다. 2회차 실행에서 종합공지 게시판(www.skku.edu)에서 신규 게시글 후보 7건(🆕 표시)을 추가로 확인했으며, 정확한 게시글 번호(articleNo)를 확인하지 못한 항목은 게시판 URL만 링크했습니다. 학부공지(eee.skku.edu)에서는 신규 항목이 없었습니다. PART1(반도체)은 2회차 조사에서도 신규 공고가 발견되지 않아 이번 실행에서는 반도체 관련 푸시 알림을 생략했습니다(같은 날 09:22 알림과 중복 방지).
