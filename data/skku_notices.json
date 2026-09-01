@@ -367,5 +367,23 @@
     "posted_date": null,
     "first_seen": "2026-08-30",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[창업지원단] 2026 K-랜딩 챌린지(K-Landing Challenge) 참가자 모집",
+    "site": "skku",
+    "title": "[창업지원단] 2026 K-랜딩 챌린지(K-Landing Challenge) 참가자 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-31",
+    "first_seen": "2026-09-01",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[학부대학] 자과캠 학습지도실 대학원생 근로장학생 모집(~9/4, 조기마감 가능)",
+    "site": "skku",
+    "title": "[학부대학] 자과캠 학습지도실 대학원생 근로장학생 모집(~9/4, 조기마감 가능)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-31",
+    "first_seen": "2026-09-01",
+    "notified": true
   }
 ]
