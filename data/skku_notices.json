@@ -682,5 +682,32 @@
     "posted_date": null,
     "first_seen": "2026-09-02",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#인공지능혁신융합대학사업단 전문가 특강 참여 신청 안내(9/7)",
+    "site": "skku",
+    "title": "인공지능혁신융합대학사업단 전문가 특강 참여 신청 안내(9/7)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-03",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#자연과학대학 행정조교 모집(~9/6)",
+    "site": "skku",
+    "title": "자연과학대학 행정조교 모집(~9/6)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-03",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026-2학기 장애학생 교육활동 지원인력 모집",
+    "site": "skku",
+    "title": "2026-2학기 장애학생 교육활동 지원인력 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-27",
+    "first_seen": "2026-09-03",
+    "notified": true
   }
 ]
