@@ -709,5 +709,50 @@
     "posted_date": "2026-08-27",
     "first_seen": "2026-09-03",
     "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#삼성전자 DX부문 2026년 상반기 신입사원/대학생인턴 모집 안내",
+    "site": "eee",
+    "title": "삼성전자 DX부문 2026년 상반기 신입사원/대학생인턴 모집 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-05",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#삼성에스원 2026 상반기 3급 신입사원/인턴 채용",
+    "site": "eee",
+    "title": "삼성에스원 2026 상반기 3급 신입사원/인턴 채용",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-05",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 하반기 오픈캠퍼스 개최(9/5, 14:00-17:30)",
+    "site": "skku",
+    "title": "2026학년도 하반기 오픈캠퍼스 개최(9/5, 14:00-17:30)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-05",
+    "first_seen": "2026-09-05",
+    "notified": true
+  },
+  {
+    "id": "https://gradunion.skku.edu/gradunion/index.do#일반대학원 총학생회 운영 안내(9/7~, 다산경제관)",
+    "site": "skku",
+    "title": "일반대학원 총학생회 운영 안내(9/7~, 다산경제관)",
+    "url": "https://gradunion.skku.edu/gradunion/index.do",
+    "posted_date": "2026-09-07",
+    "first_seen": "2026-09-05",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026년 9월 성균관대학교 잡페어 개최 안내",
+    "site": "skku",
+    "title": "2026년 9월 성균관대학교 잡페어 개최 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-05",
+    "notified": true
   }
 ]
