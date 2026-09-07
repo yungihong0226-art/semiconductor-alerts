@@ -826,5 +826,14 @@
     "posted_date": null,
     "first_seen": "2026-09-06",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#넥슨 헬로메이트 2기 멘토단 2차(숭미초등학교) 모집 안내",
+    "site": "skku",
+    "title": "넥슨 헬로메이트 2기 멘토단 2차(숭미초등학교) 모집 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-26",
+    "first_seen": "2026-09-07",
+    "notified": true
   }
 ]

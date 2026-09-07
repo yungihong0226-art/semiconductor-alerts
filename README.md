@@ -1,6 +1,6 @@
 # 반도체 & 성균관대 공지 알리미
 
-마지막 업데이트: 2026-09-06 09:04 KST
+마지막 업데이트: 2026-09-07 09:03 KST
 
 전체 진행중 공고: **31건**
 
@@ -14,7 +14,7 @@
 
 ## 공모전 (2건)
 
-#### 2026 COSS 차세대반도체 Microcontroller(MCU) 응용 경진대회 [학부 부문] (D-12)
+#### 2026 COSS 차세대반도체 Microcontroller(MCU) 응용 경진대회 [학부 부문] (D-11)
 - 주최: 차세대 반도체 혁신융합대학 사업단
 - 모집기간: 2026-09-18
 - 모집대상: 혁신융합대학 참여대학(강원대·대구대·서울대·숭실대·조선이공대·중앙대·POSTECH 등) 또는 관련 교과목 수강 학부생, 휴학 여부 확인필요
@@ -30,28 +30,28 @@
 
 ## 교육 (23건)
 
-#### 성균관대학교 반도체 공정기술과정 교육(재직자 대상) (D-3)
+#### 성균관대학교 반도체 공정기술과정 교육(재직자 대상) (D-2)
 - 주최: 한국반도체산업협회(KSIA) / 성균관대학교
 - 모집기간: 2026-08-14 ~ 2026-09-09
 - 모집대상: 반도체 관련 기업 재직자 (재학생 대상 아닐 가능성 높음, 확인필요)
 - 설명: 반도체 회원사 재직자 대상 반도체 공정기술 실무 교육과정
 - 링크: https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=147
 
-#### 전북대학교 예비취업자 교육 - 반도체 고장 모델링 및 테스트 용이화 설계 기초과정 (D-5)
+#### 전북대학교 예비취업자 교육 - 반도체 고장 모델링 및 테스트 용이화 설계 기초과정 (D-4)
 - 주최: 한국반도체산업협회(KSIA) / 전북대학교
 - 모집기간: 2026-08-31 ~ 2026-09-11
 - 모집대상: 반도체 분야 취업 희망 예비취업자 (재학생 해당 여부 확인필요)
 - 설명: 반도체 고장 모델링·테스트 용이화 설계 기초 실습 예비취업자 교육과정
 - 링크: https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?WO_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=102
 
-#### POSTECH 환동해 글로컬 연합 아카데미 반도체 취업준비형 교육과정 5기 교육생 모집 (D-12)
+#### POSTECH 환동해 글로컬 연합 아카데미 반도체 취업준비형 교육과정 5기 교육생 모집 (D-11)
 - 주최: POSTECH(환동해 글로컬 연합 아카데미)
 - 모집기간: 2026-09-01 ~ 2026-09-18
 - 모집대상: 전문학사 이상 재학생/휴학생·졸업(예정)자, 만 34세 이하 미취업자 (확인필요)
 - 설명: 반도체 공정·직무 실무교육(이론+실습)을 제공하는 취업연계형 교육과정 5기 모집
 - 링크: https://popens.postech.ac.kr/recruitment_guide/
 
-#### SEMI 반도체공정기술교육 2026 기초과정(하반기) (D-33)
+#### SEMI 반도체공정기술교육 2026 기초과정(하반기) (D-32)
 - 주최: SEMI Korea(국제반도체장비재료협회)
 - 모집기간: 2026-09-07 ~ 2026-10-09
 - 모집대상: 반도체 산업 관심 대학생·구직자 (확인필요)
@@ -193,7 +193,7 @@
 
 ## 지원사업 (2건)
 
-#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-116)
+#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-115)
 - 주최: 전남대학교 반도체특성화대학사업단
 - 모집기간: 2026-04-15 ~ 2026-12-31
 - 모집대상: 전남대 반도체융합전공 재학생
@@ -237,10 +237,12 @@
 - 설명: 반도체 공정장비·데이터분석 전문 엔지니어 5기 연수 및 인턴 연계
 - 링크: https://linkareer.com/activity/234143
 
+## 서포터즈 (0건)
+
 ---
 
-오늘의 기관 순환 그룹(institution_rotation_index): **1**
-대상 기관: 서울대 반도체공동연구소, 동국대 반도체부트캠프사업단, 홍익대 반도체부트캠프사업단, 단국대 첨단산업인재양성부트캠프, 인하공업전문대학 부트캠프, GIST 동계/하계 인턴십, DGIST 대학원 동계/하계 인턴 프로그램
+오늘의 기관 순환 그룹(institution_rotation_index): **2**
+대상 기관: 경북대 IDEC, 전남대 IDEC, 충북대 IDEC, 아주대 반도체, 두원공과대 반도체부트캠프, 한국화학연구원 인턴, 한화정밀기계 채용선제형 인턴
 
 ---
 
@@ -255,29 +257,29 @@
 - [Power IT 인력양성센터 Power IT 장학생 선발 안내](https://eee.skku.edu/eee/scholarship.do) — 날짜미상
 - [삼성전자 DX부문 2026년 상반기 신입사원/대학생인턴 모집 안내](https://eee.skku.edu/eee/notice.do) — 날짜미상
 - [삼성에스원 2026 상반기 3급 신입사원/인턴 채용](https://eee.skku.edu/eee/notice.do) — 날짜미상
+- [2026 상반기 현대모비스 미래모빌리티 채용연계 트랙 장학생 모집 안내](https://eee.skku.edu/eee/notice.do) — 2026-03-30
+- [2026년도 대한전기협회장학회 장학생 신청 안내 (마감: 3/27 14:00)](https://eee.skku.edu/eee/notice.do) — 2026-03-13
+- [2026학년도 1학기 미래차 부트캠프 설명회 및 사전신청 안내](https://eee.skku.edu/eee/notice.do) — 2026-04-08
+- [2026학년도 1학기(1차) 미래차 SDV/전동화/자율주행 마이크로디그리 신청 안내 (4/20~24)](https://eee.skku.edu/eee/notice.do) — 2026-04-20
+- [IDEC 제12기 시스템반도체설계실무인력양성 교육생 모집](https://eee.skku.edu/eee/notice.do) — 2026-06-12
+- [IDEC 제13기 시스템반도체설계실무인력양성 교육생 모집](https://eee.skku.edu/eee/notice.do) — 2026-06-29
 - [현대모비스 26년 6월 신입 채용 (~6/25(목) 11:00)](https://eee.skku.edu/eee/notice.do) — 날짜미상
 - [현대모비스 26년 6월 채용전환형 인턴채용 (~7/10(금) 11:00)](https://eee.skku.edu/eee/notice.do) — 날짜미상
-- [삼성메디슨 2025 하반기 3급 신입사원 채용](https://eee.skku.edu/eee/notice.do) — 날짜미상
-- [LIG넥스원 임베디드SW 스쿨 3기 모집](https://eee.skku.edu/eee/notice.do) — 날짜미상
-- [대학원 논문작성 역량 증진 프로그램 특강 신청 안내 (학생성공센터)](https://eee.skku.edu/eee/notice.do) — 날짜미상
-- [융합연구학점제 성과보고회 및 우수 연구팀 발표](https://eee.skku.edu/eee/notice.do) — 날짜미상
-- [정조운 교수 연구팀 2025-2 융합연구학점제 총장상 수상(사용자 친화적 근기능 평가 및 모니터링 시스템 개발)](https://eee.skku.edu/eee/notice.do) — 날짜미상
-- [전자전기공학부, 교육부 '첨단산업 인재양성 부트캠프' AI 분야 사업 선정](https://eee.skku.edu/eee/notice.do) — 날짜미상
 
 ### 성균관대 종합공지 (skku.edu) - 최근 15건
 
-- [일반대학원 총학생회 운영 안내(9/7~, 다산경제관)](https://gradunion.skku.edu/gradunion/index.do) — 2026-09-07
+- [넥슨 헬로메이트 2기 멘토단 2차(숭미초등학교) 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-08-26
+- [[인공지능혁신융합대학사업단] AICOSS Microsoft X SKKU Agenthon 교육 경진대회 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-08-28
 - [2026학년도 2학기 교외장학 지급 일정 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
 - [[인공지능혁신융합대학사업단] 2026 CO-SHOW 연계 AIM 챌린지 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
 - [2026학년도 하반기 오픈캠퍼스 개최(9/5, 14:00-17:30)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-09-05
+- [일반대학원 총학생회 운영 안내(9/7~, 다산경제관)](https://gradunion.skku.edu/gradunion/index.do) — 2026-09-07
 - [2026년 9월 성균관대학교 잡페어 개최 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
 - [인공지능혁신융합대학사업단 전문가 특강 참여 신청 안내(9/7)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
 - [자연과학대학 행정조교 모집(~9/6)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
+- [2026-2학기 장애학생 교육활동 지원인력 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-08-27
 - [2026학년도 수강신청 일정 안내](https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=131774) — 날짜미상
 - [2026학년도 2학기 추가등록 안내 (8/31~9/4)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
 - [2026학년도 2학기 수강신청 확인/변경 안내 (8/31~9/5)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
+- [2026학년도 2학기 대계열 재외국민 및 외국인학생 학과진입 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-06-08
 - [2026학년도 2학기 융합연구학점제(URP Ⅲ형) 시행 안내 (신청 ~5/25)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [2026학년도 2학기 근로장학생 신청 안내 (마감: 8/13~19)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [2026 다우기술 SW 장학생 (마감: 8/21)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [2026년도 GR인재양성플랫폼 2차 장학생 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [2026 상반기 신용회복위원회 CEO 특강 및 채용설명회](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
