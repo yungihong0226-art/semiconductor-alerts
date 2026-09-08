@@ -835,5 +835,104 @@
     "posted_date": "2026-08-26",
     "first_seen": "2026-09-07",
     "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#대학원 영어 논문 작성 특강 신청 안내",
+    "site": "eee",
+    "title": "대학원 영어 논문 작성 특강 신청 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026 학부 학생성공스토리 공모전",
+    "site": "eee",
+    "title": "2026 학부 학생성공스토리 공모전",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#법학전문대학원 행정조교 모집(~9.18.(금), 채용 시 조기 마감)",
+    "site": "skku",
+    "title": "법학전문대학원 행정조교 모집(~9.18.(금), 채용 시 조기 마감)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27)",
+    "site": "skku",
+    "title": "제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균타임즈 60-2기 수습기자 모집 공고(~9/16)",
+    "site": "skku",
+    "title": "성균타임즈 60-2기 수습기자 모집 공고(~9/16)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026년 손태희장학재단 장학생 선발",
+    "site": "skku",
+    "title": "2026년 손태희장학재단 장학생 선발",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 재학생 학자금대출 기등록자 특별승인 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 재학생 학자금대출 기등록자 특별승인 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#수원 율천동 꿈키움 희망장학사업 장학생 선발",
+    "site": "skku",
+    "title": "수원 율천동 꿈키움 희망장학사업 장학생 선발",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026년도 2학기 삼원장학재단 삼원장학생 선발",
+    "site": "skku",
+    "title": "2026년도 2학기 삼원장학재단 삼원장학생 선발",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#세종연구원 \"세종이도인재장학금-핵심인재육성분야(특기적성)\" 장학생 선발",
+    "site": "skku",
+    "title": "세종연구원 \"세종이도인재장학금-핵심인재육성분야(특기적성)\" 장학생 선발",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do?articleNo=123834",
+    "site": "skku",
+    "title": "국제교류팀 근로 장학생 모집",
+    "url": "https://www.skku.edu/skku/mobile/notice.do?articleNo=123834",
+    "posted_date": null,
+    "first_seen": "2026-09-08",
+    "notified": true
   }
 ]
