@@ -67,7 +67,7 @@
     "url": "https://www.semi.org/ko/connect/event/spt-hands-on-2026",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-10",
+    "last_checked": "2026-09-12",
     "status": "open",
     "description": "이공계 학부생 4학년(6학기 이상) 및 졸업(예정)자 대상 반도체공정 실습교육",
     "target": "이공계 학부생 4학년(6학기 이상), 2025~2026년 졸업생 (확인필요)",
@@ -205,7 +205,7 @@
     "period": null,
     "deadline": "2026-09-18",
     "first_seen": "2026-08-28",
-    "last_checked": "2026-09-11",
+    "last_checked": "2026-09-12",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -281,7 +281,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-11",
+    "last_checked": "2026-09-12",
     "status": "open"
   },
   {
@@ -400,8 +400,8 @@
     "period": "2026-08-31 ~ 2026-09-11",
     "deadline": "2026-09-11",
     "first_seen": "2026-09-05",
-    "last_checked": "2026-09-10",
-    "status": "open",
+    "last_checked": "2026-09-12",
+    "status": "closed",
     "source_query_group": "direct"
   },
   {
@@ -475,7 +475,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-10",
+    "last_checked": "2026-09-12",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -490,7 +490,7 @@
     "period": "직무훈련 2026년 10~11월(평일), 현직자 특강 토요일",
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-10",
+    "last_checked": "2026-09-12",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -730,8 +730,8 @@
     "period": null,
     "deadline": "2026-09-11",
     "first_seen": "2026-09-09",
-    "last_checked": "2026-09-10",
-    "status": "open",
+    "last_checked": "2026-09-12",
+    "status": "closed",
     "source_query_group": "general"
   },
   {
@@ -823,5 +823,95 @@
     "first_seen": "2026-09-11",
     "last_checked": "2026-09-11",
     "status": "open"
+  },
+  {
+    "id": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=129",
+    "title": "명지대학교 반도체인프라활용 현장인력양성 교육과정",
+    "organizer": "한국반도체산업협회(KSIA) 반도체인프라활용현장인력양성사업 / 명지대학교",
+    "category": "교육",
+    "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=129",
+    "deadline": "2026-10-08",
+    "first_seen": "2026-09-12",
+    "last_checked": "2026-09-12",
+    "status": "open",
+    "description": "반도체 공정 실습 등 현장 실무 인력양성을 위한 예비취업자 대상 교육과정",
+    "target": "예비취업자(대학생·졸업예정자 추정, 확인필요)",
+    "period": "2026-09-01 ~ 2026-10-08",
+    "source_query_group": "direct"
+  },
+  {
+    "id": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=101",
+    "title": "연세대학교 (기초)반도체 엔지니어를 위한 고체·유체·열역학",
+    "organizer": "한국반도체산업협회(KSIA) 반도체인프라활용현장인력양성사업 / 연세대학교",
+    "category": "교육",
+    "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=101",
+    "deadline": "2026-09-23",
+    "first_seen": "2026-09-12",
+    "last_checked": "2026-09-12",
+    "status": "open",
+    "description": "반도체 엔지니어 기초 소양을 위한 고체·유체·열역학 이론 교육과정",
+    "target": "예비취업자(기초과정, 확인필요)",
+    "period": "2026-09-01 ~ 2026-09-23",
+    "source_query_group": "direct"
+  },
+  {
+    "id": "https://www.samsungcareers.com/hr/?no=21902",
+    "title": "삼성전자 DS부문 2026년 대학생 인턴 모집",
+    "organizer": "삼성전자 DS부문",
+    "category": "인턴십",
+    "url": "https://www.samsungcareers.com/hr/?no=21902",
+    "deadline": "2026-09-15",
+    "first_seen": "2026-09-12",
+    "last_checked": "2026-09-12",
+    "status": "open",
+    "description": "메모리·S.LSI·파운드리 등 반도체 공정·회로설계 직무 대학생 인턴 모집",
+    "target": "확인필요(이공계 학부생, 학년·휴학 조건 공고 확인 필요)",
+    "period": "2026-09-08 ~ 2026-09-15",
+    "source_query_group": "general"
+  },
+  {
+    "id": "https://bespoke.ajou.ac.kr/",
+    "title": "아주대학교 2026-2학기 반도체특성화대학사업 프로그램",
+    "organizer": "아주대학교 반도체사업단(BESPOKE)",
+    "category": "교육",
+    "url": "https://bespoke.ajou.ac.kr/",
+    "deadline": null,
+    "first_seen": "2026-09-12",
+    "last_checked": "2026-09-12",
+    "status": "open",
+    "description": "메모리반도체·패키지공정실습 등 반도체특성화대학사업 연계 교육과정",
+    "target": "2025-2학기 재학생 또는 2026-1학기 복학예정자, 직전학기 누계평점 3.0 이상",
+    "period": null,
+    "source_query_group": "institution"
+  },
+  {
+    "id": "https://tollgate.skku.edu/",
+    "title": "성균관대 반도체특성화대학지원사업단 현장실습(인턴십) 상시 매칭",
+    "organizer": "성균관대학교 반도체특성화대학지원사업단",
+    "category": "인턴십",
+    "url": "https://tollgate.skku.edu/",
+    "deadline": null,
+    "first_seen": "2026-09-12",
+    "last_checked": "2026-09-12",
+    "status": "open",
+    "description": "Tollgate 시스템으로 반도체 기업과 매칭되는 4주 이상 현장실습 상시 지원",
+    "target": "반도체시스템공학과 등 관련 전공 3학년 이상(확인필요)",
+    "period": null,
+    "source_query_group": "school"
+  },
+  {
+    "id": "https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st",
+    "title": "SEMI 반도체공정기술교육 2026(하반기)",
+    "organizer": "SEMI Korea",
+    "category": "교육",
+    "url": "https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st",
+    "deadline": "2026-10-09",
+    "first_seen": "2026-09-12",
+    "last_checked": "2026-09-12",
+    "status": "open",
+    "description": "반도체 제조공정 이해를 위한 기본·심화과정 오프라인 교육(수원컨벤션센터)",
+    "target": "확인필요(업계 실무자 및 이공계 학생 대상 추정)",
+    "period": "2026-09-07 ~ 2026-10-09",
+    "source_query_group": "roundup"
   }
 ]

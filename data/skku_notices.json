@@ -1159,5 +1159,86 @@
     "posted_date": null,
     "first_seen": "2026-09-11",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#양자생명물리과학원 행정직원 채용 공고",
+    "site": "skku",
+    "title": "양자생명물리과학원 행정직원 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-11",
+    "first_seen": "2026-09-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#유학대학 80주년 기념 특별 강연 안내 (9/11~10/23)",
+    "site": "skku",
+    "title": "유학대학 80주년 기념 특별 강연 안내 (9/11~10/23)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-11",
+    "first_seen": "2026-09-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026년 하반기 성균관대학교 교직원(정규직) 신규채용 공고",
+    "site": "skku",
+    "title": "2026년 하반기 성균관대학교 교직원(정규직) 신규채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-09",
+    "first_seen": "2026-09-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2026년 2학기 문행장학금 지급 안내",
+    "site": "skku",
+    "title": "2026년 2학기 문행장학금 지급 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": "2026-08-19",
+    "first_seen": "2026-09-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2026학년도 2학기 국가근로장학사업 희망근로지 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 국가근로장학사업 희망근로지 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": null,
+    "first_seen": "2026-09-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 학부생 연구학점제[URP 1형] 시행 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 학부생 연구학점제[URP 1형] 시행 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 스마트 출석관리시스템(SAM) 관련 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 스마트 출석관리시스템(SAM) 관련 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice05.do#체력증진센터 직원 채용 공고",
+    "site": "skku",
+    "title": "체력증진센터 직원 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do",
+    "posted_date": null,
+    "first_seen": "2026-09-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=58736#법과대학, 법학전문대학원 행정실 근로학생 모집",
+    "site": "skku",
+    "title": "법과대학, 법학전문대학원 행정실 근로학생 모집",
+    "url": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=58736",
+    "posted_date": null,
+    "first_seen": "2026-09-12",
+    "notified": true
   }
 ]
