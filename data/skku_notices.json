@@ -1240,5 +1240,23 @@
     "posted_date": null,
     "first_seen": "2026-09-12",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#청정에너지ICT연구소 이공계열 박사 후 연구원 모집",
+    "site": "skku",
+    "title": "청정에너지ICT연구소 이공계열 박사 후 연구원 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-10",
+    "first_seen": "2026-09-14",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#인공지능혁신융합대학사업단 2026학년도 AICOSS-UNLV 해외교육 모집 안내",
+    "site": "skku",
+    "title": "인공지능혁신융합대학사업단 2026학년도 AICOSS-UNLV 해외교육 모집 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-10",
+    "first_seen": "2026-09-14",
+    "notified": true
   }
 ]
