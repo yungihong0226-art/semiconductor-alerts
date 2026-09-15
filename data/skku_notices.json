@@ -1258,5 +1258,284 @@
     "posted_date": "2026-09-10",
     "first_seen": "2026-09-14",
     "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#IDEC 제13기 시스템반도체설계실무인력양성 교육생 모집(2026)",
+    "site": "eee",
+    "title": "IDEC 제13기 시스템반도체설계실무인력양성 교육생 모집(2026)",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-06-29",
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#현대모비스 26년 6월 신입 채용(~6/25 마감)",
+    "site": "eee",
+    "title": "현대모비스 26년 6월 신입 채용(~6/25 마감)",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-06-18",
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#IDEC 제12기 시스템반도체설계실무인력양성 교육생 모집",
+    "site": "eee",
+    "title": "IDEC 제12기 시스템반도체설계실무인력양성 교육생 모집",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-06-12",
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#현대모비스 채용전환형 인턴채용(마감 7/10)",
+    "site": "eee",
+    "title": "현대모비스 채용전환형 인턴채용(마감 7/10)",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#2026 상반기 미래모빌리티 채용연계 트랙 장학생 모집(미래차부트캠프, 현대모비스)",
+    "site": "eee",
+    "title": "2026 상반기 미래모빌리티 채용연계 트랙 장학생 모집(미래차부트캠프, 현대모비스)",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#삼성메디슨 2025 하반기 3급 신입사원 채용(~11/14)",
+    "site": "eee",
+    "title": "삼성메디슨 2025 하반기 3급 신입사원 채용(~11/14)",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#LIG넥스원 임베디드SW 스쿨 3기 모집",
+    "site": "eee",
+    "title": "LIG넥스원 임베디드SW 스쿨 3기 모집",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#LG CNS 2025 하반기 신입사원 채용",
+    "site": "eee",
+    "title": "LG CNS 2025 하반기 신입사원 채용",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#[삼성전자 DX부문] 2026 대학생 S/W 알고리즘 역량 강화 특강",
+    "site": "eee",
+    "title": "[삼성전자 DX부문] 2026 대학생 S/W 알고리즘 역량 강화 특강",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-01-16",
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026학년도 학부 학생성공스토리 공모전(3/30~4/30 접수)",
+    "site": "eee",
+    "title": "2026학년도 학부 학생성공스토리 공모전(3/30~4/30 접수)",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-03-30",
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026 경기도 대학생 자율주행 경진대회 대상(경기도지사상) 수상 - AutoGang팀",
+    "site": "eee",
+    "title": "2026 경기도 대학생 자율주행 경진대회 대상(경기도지사상) 수상 - AutoGang팀",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#정조운 교수 연구팀, 2025-2 융합연구학점제 총장상 수상",
+    "site": "eee",
+    "title": "정조운 교수 연구팀, 2025-2 융합연구학점제 총장상 수상",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do?mode=download&articleNo=209625&attachNo=179808#학부생연구학점제 신청매뉴얼(GLS)",
+    "site": "eee",
+    "title": "학부생연구학점제 신청매뉴얼(GLS)",
+    "url": "https://eee.skku.edu/eee/notice.do?mode=download&articleNo=209625&attachNo=179808",
+    "posted_date": "2026-01-28",
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#첨단산업 인재양성 부트캠프(AI 분야) 선정 및 운영 안내",
+    "site": "eee",
+    "title": "첨단산업 인재양성 부트캠프(AI 분야) 선정 및 운영 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026학년도 1학기 수강신청 및 부트캠프 관련 안내",
+    "site": "eee",
+    "title": "2026학년도 1학기 수강신청 및 부트캠프 관련 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균관대학교 양자생명물리과학원 행정직원 채용 공고",
+    "site": "skku",
+    "title": "성균관대학교 양자생명물리과학원 행정직원 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-11",
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#법학전문대학원행정실 서류접수 단기 근로학생 모집",
+    "site": "skku",
+    "title": "법학전문대학원행정실 서류접수 단기 근로학생 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-10",
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#체력증진센터 직원 채용 공고(~9/16 마감)",
+    "site": "skku",
+    "title": "체력증진센터 직원 채용 공고(~9/16 마감)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-10",
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 성균가족장학금 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 성균가족장학금 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 국가유공자(자녀) 장학금 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 국가유공자(자녀) 장학금 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 학생성공-투게더장학금 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 학생성공-투게더장학금 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=131774#2026학년도 수강신청 일정 안내 (사전수강신청 첨부파일 필독)",
+    "site": "skku",
+    "title": "2026학년도 수강신청 일정 안내 (사전수강신청 첨부파일 필독)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=131774",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[대학혁신과공유센터] 2026-2학기 팀프로젝트 지원 프로그램(Co-Deep Learning 프로젝트) 참가자 모집",
+    "site": "skku",
+    "title": "[대학혁신과공유센터] 2026-2학기 팀프로젝트 지원 프로그램(Co-Deep Learning 프로젝트) 참가자 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=download&articleNo=134992&attachNo=112121#(재)창강재단 \"등록금장학생\" 공개모집(신규)",
+    "site": "skku",
+    "title": "(재)창강재단 \"등록금장학생\" 공개모집(신규)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=download&articleNo=134992&attachNo=112121",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=119563#성균관대학교 삼성융합의과학원 융합의과학과 전임교원 채용 인재 POOL 모집 공고",
+    "site": "skku",
+    "title": "성균관대학교 삼성융합의과학원 융합의과학과 전임교원 채용 인재 POOL 모집 공고",
+    "url": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=119563",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=125136#[대학일자리플러스센터/학생인재개발팀] 2025년 상반기 취업동아리(직무스터디) 모집",
+    "site": "skku",
+    "title": "[대학일자리플러스센터/학생인재개발팀] 2025년 상반기 취업동아리(직무스터디) 모집",
+    "url": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=125136",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=125390#2025학년도 학부 입학식 거행 안내",
+    "site": "skku",
+    "title": "2025학년도 학부 입학식 거행 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=125390",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 재입학/복학/일반휴학 신청 일정 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 재입학/복학/일반휴학 신청 일정 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 등록금 분할납부 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 등록금 분할납부 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=81228#성균관대학교 교직원(정규직) 채용",
+    "site": "skku",
+    "title": "성균관대학교 교직원(정규직) 채용",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=81228",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=90697#성균관대학교 산학협력단 직원(대체근로) 채용 공고",
+    "site": "skku",
+    "title": "성균관대학교 산학협력단 직원(대체근로) 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=90697",
+    "posted_date": null,
+    "first_seen": "2026-09-15",
+    "notified": true
   }
 ]

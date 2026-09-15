@@ -67,7 +67,7 @@
     "url": "https://www.semi.org/ko/connect/event/spt-hands-on-2026",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "description": "이공계 학부생 4학년(6학기 이상) 및 졸업(예정)자 대상 반도체공정 실습교육",
     "target": "이공계 학부생 4학년(6학기 이상), 2025~2026년 졸업생 (확인필요)",
@@ -281,7 +281,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open"
   },
   {
@@ -370,7 +370,7 @@
     "period": "2026-09-01 ~ 2026-09-18",
     "deadline": "2026-09-18",
     "first_seen": "2026-09-03",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -385,7 +385,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-03",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -550,7 +550,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -655,7 +655,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -685,7 +685,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "source_query_group": "school"
   },
@@ -760,7 +760,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -821,7 +821,7 @@
     "deadline": "2026-09-16",
     "source_query_group": "general",
     "first_seen": "2026-09-11",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open"
   },
   {
@@ -907,7 +907,7 @@
     "url": "https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st",
     "deadline": "2026-10-09",
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "description": "반도체 제조공정 이해를 위한 기본·심화과정 오프라인 교육(수원컨벤션센터)",
     "target": "확인필요(업계 실무자 및 이공계 학생 대상 추정)",
@@ -921,11 +921,11 @@
     "category": "교육",
     "description": "RTL 설계 실무인력 양성 무료 4주 집중 오프라인 교육과정",
     "target": "확인필요 (반도체 설계 취업 희망 대학생·취업준비생)",
-    "url": "https://academy.ksia.or.kr/lecture/offline",
+    "url": "https://academy.ksia.or.kr/lecture/offline/detail/17",
     "period": "2026-10-14 ~ 2026-11-10",
     "deadline": null,
     "first_seen": "2026-09-13",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "source_query_group": "general"
   },
@@ -940,7 +940,7 @@
     "period": "2026-01-01 ~ 2028-12-31",
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-09-14",
+    "last_checked": "2026-09-15",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -988,5 +988,65 @@
     "last_checked": "2026-09-14",
     "status": "open",
     "source_query_group": "roundup"
+  },
+  {
+    "id": "https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040#전북대학교 전력반도체 심화(공정기술) 교육 1차 교육생 모집",
+    "title": "전북대학교 전력반도체 심화(공정기술) 교육 1차 교육생 모집",
+    "organizer": "한국반도체산업협회(KSIA) - 반도체인프라활용 현장인력양성사업 (전북대학교)",
+    "category": "교육",
+    "description": "전북대에서 진행하는 전력반도체 공정기술 심화 실습 교육생 모집",
+    "target": "확인필요 (예비취업자 대상으로 추정, 재학생 지원 가능여부 확인필요)",
+    "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040",
+    "period": "2026-09-28 ~ 2026-10-16",
+    "deadline": "2026-10-16",
+    "first_seen": "2026-09-15",
+    "last_checked": "2026-09-15",
+    "status": "open",
+    "source_query_group": "direct"
+  },
+  {
+    "id": "https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002#전력반도체 소자제작 및 측정분석/HEMT 제작실습 및 분석 (예비취업자 교육)",
+    "title": "전력반도체 소자제작 및 측정분석/HEMT 제작실습 및 분석 (예비취업자 교육)",
+    "organizer": "한국반도체산업협회(KSIA) - 반도체인프라활용현장인력양성사업",
+    "category": "교육",
+    "description": "전력반도체 소자제작과 HEMT 제작실습·측정분석을 다루는 예비취업자 대상 실무교육",
+    "target": "확인필요",
+    "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002",
+    "period": "2026-09-14 ~ 2026-10-02",
+    "deadline": "2026-10-02",
+    "first_seen": "2026-09-15",
+    "last_checked": "2026-09-15",
+    "status": "open",
+    "source_query_group": "institution"
+  },
+  {
+    "id": "https://edu.kontrs.or.kr/",
+    "title": "나노기술교육과정(소자공정·측정분석) 교육생 모집",
+    "organizer": "나노기술연구협의회(KONTRS)",
+    "category": "교육",
+    "description": "나노소자 공정 및 측정분석 분야 이론-실습 연계 전문인력 양성교육",
+    "target": "확인필요 (이공계 대학(원)생 및 관련 전공자 대상으로 추정)",
+    "url": "https://edu.kontrs.or.kr/",
+    "period": null,
+    "deadline": null,
+    "first_seen": "2026-09-15",
+    "last_checked": "2026-09-15",
+    "status": "open",
+    "source_query_group": "institution"
+  },
+  {
+    "id": "https://www.appliedmaterials.com/kr/ko/careers/university-recruiting-programs.html",
+    "title": "어플라이드머티리얼즈코리아 대학생 서포터즈 '리얼즈'",
+    "organizer": "어플라이드머티리얼즈코리아(Applied Materials Korea)",
+    "category": "서포터즈",
+    "description": "반도체·디스플레이 장비기업 체험형 대학생 서포터즈 프로그램(방학중 활동)",
+    "target": "확인필요 (반도체·디스플레이 진로 희망 대학생)",
+    "url": "https://www.appliedmaterials.com/kr/ko/careers/university-recruiting-programs.html",
+    "period": null,
+    "deadline": null,
+    "first_seen": "2026-09-15",
+    "last_checked": "2026-09-15",
+    "status": "open",
+    "source_query_group": "general"
   }
 ]
