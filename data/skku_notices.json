@@ -1834,5 +1834,104 @@
     "posted_date": null,
     "first_seen": "2026-09-16",
     "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#한국장학재단 푸른등대 삼성기부장학금 신청 홍보",
+    "site": "eee",
+    "title": "한국장학재단 푸른등대 삼성기부장학금 신청 홍보",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#전자전기공학부 사임당장학금 신청 안내",
+    "site": "eee",
+    "title": "전자전기공학부 사임당장학금 신청 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2025학년도 대학원 융합연구 ESG포스터 발표대회 개최 안내",
+    "site": "eee",
+    "title": "2025학년도 대학원 융합연구 ESG포스터 발표대회 개최 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[지능형로봇학과] 대학원 설명회 안내(9/17(목) 15:00, 제1공학관 22301호)",
+    "site": "skku",
+    "title": "[지능형로봇학과] 대학원 설명회 안내(9/17(목) 15:00, 제1공학관 22301호)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-17",
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 일반대학원 생활곤란장학금 '명현장학금' 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 일반대학원 생활곤란장학금 '명현장학금' 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-11",
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#금연상담반 참여자 모집(2026학년도 2학기)",
+    "site": "skku",
+    "title": "금연상담반 참여자 모집(2026학년도 2학기)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#인문사회융합인재양성사업단 오리엔테이션 안내",
+    "site": "skku",
+    "title": "인문사회융합인재양성사업단 오리엔테이션 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#법학전문대학원 행정보조원 채용",
+    "site": "skku",
+    "title": "법학전문대학원 행정보조원 채용",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#체육시설(피트니스센터) 직원 채용",
+    "site": "skku",
+    "title": "체육시설(피트니스센터) 직원 채용",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균관대학교 건축토목공학부 SWAT lab 행정직원 모집",
+    "site": "skku",
+    "title": "성균관대학교 건축토목공학부 SWAT lab 행정직원 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-17",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[실험 모집 공고] 가상현실 행동 실험 피험자 모집 공고",
+    "site": "skku",
+    "title": "[실험 모집 공고] 가상현실 행동 실험 피험자 모집 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-09-17",
+    "notified": true
   }
 ]
