@@ -1941,7 +1941,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026-2학기 재학생 및 복학생 등록금 납부 안내(Registration Guide)",
@@ -1950,7 +1950,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 스마트 제조 세미나 안내",
@@ -1959,7 +1959,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#서울미래인재재단 2026년 서울인재해외교환학생장학금 장학생 선발 안내",
@@ -1968,7 +1968,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2학기 동아리 페스타 (9/9~9/10, 인문사회과학캠퍼스 금잔디광장)",
@@ -1977,7 +1977,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#노벨상 수상자 초청 세미나 (9/10)",
@@ -1986,7 +1986,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균문명원(SKCI) 개원식 개최 (9/16)",
@@ -1995,7 +1995,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#Quantum Engineering Week @ SKKU 2026 사전등록 안내 (9/28~10/2)",
@@ -2004,7 +2004,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026년 학생성공역량 및 학습경험 설문조사 안내 (~10/7)",
@@ -2013,7 +2013,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#네이버웍스 클라우드 메일 서비스 오픈 안내 (9/18)",
@@ -2022,6 +2022,6 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-09-18",
     "first_seen": "2026-09-18",
-    "notified": false
+    "notified": true
   }
 ]
