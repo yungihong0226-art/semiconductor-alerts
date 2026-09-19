@@ -206,7 +206,7 @@
     "deadline": "2026-09-18",
     "first_seen": "2026-08-28",
     "last_checked": "2026-09-18",
-    "status": "open",
+    "status": "closed",
     "source_query_group": "institution"
   },
   {
@@ -371,7 +371,7 @@
     "deadline": "2026-09-18",
     "first_seen": "2026-09-03",
     "last_checked": "2026-09-18",
-    "status": "open",
+    "status": "closed",
     "source_query_group": "institution"
   },
   {
@@ -745,7 +745,7 @@
     "period": "2026-09-01 ~ 2026-10-02",
     "deadline": "2026-10-02",
     "first_seen": "2026-09-09",
-    "last_checked": "2026-09-18",
+    "last_checked": "2026-09-19",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -1087,10 +1087,10 @@
     "description": "이공계 대졸 미취업자 대상 나노공정·측정 실무인력 양성 신규 모집 공고",
     "target": "이공계 대학 졸업예정자 또는 졸업자(미취업자), 전기·전자·물리·화학·재료·화공 등 나노 유관학과 우대",
     "url": "https://www.nnfc.re.kr/mayeye/FileViewer.do?atchFileId=FILE_000000004533Fq8&fileSn=0",
-    "period": null,
-    "deadline": null,
+    "period": "2026-09-10 ~ 2026-09-21",
+    "deadline": "2026-09-21",
     "first_seen": "2026-09-17",
-    "last_checked": "2026-09-18",
+    "last_checked": "2026-09-19",
     "status": "open",
     "source_query_group": "direct"
   }
