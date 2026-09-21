@@ -67,11 +67,11 @@
     "url": "https://www.semi.org/ko/connect/event/spt-hands-on-2026",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "description": "이공계 학부생 4학년(6학기 이상) 및 졸업(예정)자 대상 반도체공정 실습교육",
     "target": "이공계 학부생 4학년(6학기 이상), 2025~2026년 졸업생 (확인필요)",
-    "period": null,
+    "period": "2026-03-23 ~ 2026-11-19 (회차별 순차 모집)",
     "source_query_group": "general"
   },
   {
@@ -82,7 +82,7 @@
     "url": "https://academy.ksia.or.kr/lecture/curriculum",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -160,7 +160,7 @@
     "period": "사전등록 2026-09-07 ~ 2026-10-09, 교육 2026-10-20~22",
     "deadline": "2026-10-09",
     "first_seen": "2026-08-25",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "general"
   },
@@ -220,7 +220,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-29",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -281,7 +281,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open"
   },
   {
@@ -341,7 +341,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open"
   },
   {
@@ -385,7 +385,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-03",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -550,7 +550,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -760,7 +760,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -770,12 +770,12 @@
     "organizer": "KAIST IDEC(반도체설계교육센터)",
     "category": "공모전",
     "description": "MPW·대학 SoC 프로젝트 칩 설계 결과물 경진대회 참가 신청",
-    "target": "대학(원)생 반도체 설계 프로젝트 참여자 (확인필요)",
+    "target": "IDEC 참여교수 연구실 소속 대학원생/학부생(팀당 1인 이상)",
     "url": "https://www.idec.or.kr/mpw/cdc/apply/view/?no=48",
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -925,7 +925,7 @@
     "period": "2026-10-14 ~ 2026-11-10",
     "deadline": null,
     "first_seen": "2026-09-13",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "general"
   },
@@ -1039,13 +1039,13 @@
     "title": "어플라이드머티리얼즈코리아 대학생 서포터즈 '리얼즈'",
     "organizer": "어플라이드머티리얼즈코리아(Applied Materials Korea)",
     "category": "서포터즈",
-    "description": "반도체·디스플레이 장비기업 체험형 대학생 서포터즈 프로그램(방학중 활동)",
+    "description": "반도체·디스플레이 장비기업 체험형 대학생 서포터즈'리얼즈'/인턴십'APPLIEDer' 프로그램(방학중 활동)",
     "target": "확인필요 (반도체·디스플레이 진로 희망 대학생)",
     "url": "https://www.appliedmaterials.com/kr/ko/careers/university-recruiting-programs.html",
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "general"
   },
@@ -1060,7 +1060,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-16",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -1108,5 +1108,20 @@
     "last_checked": "2026-09-20",
     "status": "open",
     "source_query_group": "roundup"
+  },
+  {
+    "id": "https://setec.koreatech.ac.kr/sub2-4.php",
+    "title": "SETEC 반도체장비기술교육센터 2026년 연간교육과정",
+    "organizer": "한국공학대학교 반도체장비기술교육센터(SETEC)",
+    "category": "교육",
+    "description": "반도체 장비·공정 실무 교육을 연중 다회차로 운영하는 교육센터 과정",
+    "target": "확인필요",
+    "url": "https://setec.koreatech.ac.kr/sub2-4.php",
+    "period": null,
+    "deadline": null,
+    "first_seen": "2026-09-21",
+    "last_checked": "2026-09-21",
+    "status": "open",
+    "source_query_group": "general"
   }
 ]

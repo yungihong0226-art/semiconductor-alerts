@@ -1,8 +1,8 @@
 # 반도체 공모전/교육/지원사업/인턴십/서포터즈 트래커
 
-마지막 업데이트: 2026-09-20 09:03 KST
+마지막 업데이트: 2026-09-21 09:09 KST
 
-전체 진행중: 62건  (공모전 3건, 교육 40건, 지원사업 6건, 인턴십 9건, 서포터즈 4건)
+전체 진행중: 63건  (공모전 3건, 교육 41건, 지원사업 6건, 인턴십 9건, 서포터즈 4건)
 
 ⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캐퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
 
@@ -19,7 +19,7 @@
 #### IDEC Chip Design Contest(CDC) 참가 신청 (마감일 미정)
 - 주최: KAIST IDEC(반도체설계교육센터)
 - 모집기간: 미정
-- 모집대상: 대학(원)생 반도체 설계 프로젝트 참여자 (확인필요)
+- 모집대상: IDEC 참여교수 연구실 소속 대학원생/학부생(팀당 1인 이상)
 - 설명: MPW·대학 SoC 프로젝트 칩 설계 결과물 경진대회 참가 신청
 - 링크: https://www.idec.or.kr/mpw/cdc/apply/view/?no=48
 
@@ -31,65 +31,65 @@
 - 링크: https://systemiclab.or.kr/DocView.html?menu_seq=23&mode=view&bbs_seq=1431
 
 
-## 교육 (40건)
+## 교육 (41건)
 
-#### 나노전문인력양성 및 일자리지원사업 29기(2026년 하반기) 교육생 모집 (D-1)
+#### 나노전문인력양성 및 일자리지원사업 29기(2026년 하반기) 교육생 모집 (D-0)
 - 주최: 나노종합기술원(NNFC)
 - 모집기간: 2026-09-10 ~ 2026-09-21
 - 모집대상: 이공계 대학 졸업예정자 또는 졸업자(미취업자), 전기·전자·물리·화학·재료·화공 등 나노 유관학과 우대
 - 설명: 이공계 대졸 미취업자 대상 나노공정·측정 실무인력 양성 신규 모집 공고
 - 링크: https://www.nnfc.re.kr/mayeye/FileViewer.do?atchFileId=FILE_000000004533Fq8&fileSn=0
 
-#### 금오공과대학교-명지대학교 반도체 공정 교육과정 (D-3)
+#### 금오공과대학교-명지대학교 반도체 공정 교육과정 (D-2)
 - 주최: 한국반도체산업협회(KSIA)
 - 모집기간: 2026-09-01 ~ 2026-09-23
 - 모집대상: 확인필요
 - 설명: 금오공대·명지대 연계 반도체 공정 실습 교육생 모집
 - 링크: https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=001&CURRENT_MENU_CODE=MENU0045&TOP_MENU_CODE=MENU0039
 
-#### 연세대학교 (기초)반도체 엔지니어를 위한 고체·유체·열역학 (D-3)
+#### 연세대학교 (기초)반도체 엔지니어를 위한 고체·유체·열역학 (D-2)
 - 주최: 한국반도체산업협회(KSIA) 반도체인프라활용현장인력양성사업 / 연세대학교
 - 모집기간: 2026-09-01 ~ 2026-09-23
 - 모집대상: 예비취업자(기초과정, 확인필요)
 - 설명: 반도체 엔지니어 기초 소양을 위한 고체·유체·열역학 이론 교육과정
 - 링크: https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=101
 
-#### 전력반도체 소자제작 및 측정분석/HEMT 제작실습 및 분석 (예비취업자 교육) (D-12)
+#### 전력반도체 소자제작 및 측정분석/HEMT 제작실습 및 분석 (예비취업자 교육) (D-11)
 - 주최: 한국반도체산업협회(KSIA) - 반도체인프라활용현장인력양성사업
 - 모집기간: 2026-09-14 ~ 2026-10-02
 - 모집대상: 확인필요
 - 설명: 전력반도체 소자제작과 HEMT 제작실습·측정분석을 다루는 예비취업자 대상 실무교육
 - 링크: https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002
 
-#### 명지대학교 반도체인프라활용 현장인력양성 교육과정 (D-18)
+#### 명지대학교 반도체인프라활용 현장인력양성 교육과정 (D-17)
 - 주최: 한국반도체산업협회(KSIA) 반도체인프라활용현장인력양성사업 / 명지대학교
 - 모집기간: 2026-09-01 ~ 2026-10-08
 - 모집대상: 예비취업자(대학생·졸업예정자 추정, 확인필요)
 - 설명: 반도체 공정 실습 등 현장 실무 인력양성을 위한 예비취업자 대상 교육과정
 - 링크: https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=129
 
-#### 포항공과대학교 반도체 소자(MOSFET) 분석 이론 및 실습 교육 (D-18)
+#### 포항공과대학교 반도체 소자(MOSFET) 분석 이론 및 실습 교육 (D-17)
 - 주최: 한국반도체산업협회(KSIA) 반도체인프라활용현장인력양성사업 / 포항공과대학교
 - 모집기간: 2026-09-01 ~ 2026-10-08
 - 모집대상: 반도체 관련 산업체 재직자 (모집 15명)
 - 설명: MOSFET 반도체 소자분석 이론 및 실습을 다루는 현장인력양성 교육과정
 - 링크: https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=140
 
-#### SEMI 반도체공정기술교육 2026 기초과정(하반기) (D-19)
+#### SEMI 반도체공정기술교육 2026 기초과정(하반기) (D-18)
 - 주최: SEMI Korea(국제반도체장비재료협회)
 - 모집기간: 사전등록 2026-09-07 ~ 2026-10-09, 교육 2026-10-20~22
 - 모집대상: 반도체 산업 관심 대학생·구직자 (확인필요)
 - 설명: 반도체 공정 기초/심화 및 계측검사 기술교육(하반기, 수원컨벤션센터)
 - 링크: https://semikrprogram.com/
 
-#### SEMI 반도체공정기술교육 2026(하반기) (D-19)
+#### SEMI 반도체공정기술교육 2026(하반기) (D-18)
 - 주최: SEMI Korea
 - 모집기간: 2026-09-07 ~ 2026-10-09
 - 모집대상: 확인필요(업계 실무자 및 이공계 학생 대상 추정)
 - 설명: 반도체 제조공정 이해를 위한 기본·심화과정 오프라인 교육(수원컨벤션센터)
 - 링크: https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st
 
-#### 전북대학교 전력반도체 심화(공정기술) 교육 1차 교육생 모집 (D-26)
+#### 전북대학교 전력반도체 심화(공정기술) 교육 1차 교육생 모집 (D-25)
 - 주최: 한국반도체산업협회(KSIA) - 반도체인프라활용 현장인력양성사업 (전북대학교)
 - 모집기간: 2026-09-28 ~ 2026-10-16
 - 모집대상: 확인필요 (예비취업자 대상으로 추정, 재학생 지원 가능여부 확인필요)
@@ -158,6 +158,13 @@
 - 모집대상: 반도체 분야 취업 희망 학부 졸업(예정)자, 재학생 여부 확인필요
 - 설명: 디지털/아날로그 트랙 반도체 설계 실무인력 양성 교육생 모집
 - 링크: https://academy.idec.or.kr/boards/recruitb/view/?no=351
+
+#### SETEC 반도체장비기술교육센터 2026년 연간교육과정 (마감일 미정)
+- 주최: 한국공학대학교 반도체장비기술교육센터(SETEC)
+- 모집기간: 미정
+- 모집대상: 확인필요
+- 설명: 반도체 장비·공정 실무 교육을 연중 다회차로 운영하는 교육센터 과정
+- 링크: https://setec.koreatech.ac.kr/sub2-4.php
 
 #### SKKU Academy 반도체 공정/설계 무료교육 (마감일 미정)
 - 주최: 성균관대학교(SKKU Academy)
@@ -231,7 +238,7 @@
 
 #### 대학생을 위한 반도체공정실습교육 2026 (마감일 미정)
 - 주최: SEMI Korea
-- 모집기간: 미정
+- 모집기간: 2026-03-23 ~ 2026-11-19 (회차별 순차 모집)
 - 모집대상: 이공계 학부생 4학년(6학기 이상), 2025~2026년 졸업생 (확인필요)
 - 설명: 이공계 학부생 4학년(6학기 이상) 및 졸업(예정)자 대상 반도체공정 실습교육
 - 링크: https://www.semi.org/ko/connect/event/spt-hands-on-2026
@@ -316,7 +323,7 @@
 
 ## 지원사업 (6건)
 
-#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-102)
+#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-101)
 - 주최: 전남대학교 반도체특성화대학사업단
 - 모집기간: 2026-04-15 ~ 2026-12-31
 - 모집대상: 전남대 반도체융합전공 재학생
@@ -361,7 +368,7 @@
 
 ## 인턴십 (9건)
 
-#### DB하이텍 2026년 하반기 신입사원 공채 (D-12)
+#### DB하이텍 2026년 하반기 신입사원 공채 (D-11)
 - 주최: DB하이텍
 - 모집기간: 2026-09-01 ~ 2026-10-02
 - 모집대상: 대졸(4년제) 졸업자/졸업예정자 (재학 중인 3학년 해당 여부 확인필요)
@@ -445,7 +452,7 @@
 - 주최: 어플라이드머티리얼즈코리아(Applied Materials Korea)
 - 모집기간: 미정
 - 모집대상: 확인필요 (반도체·디스플레이 진로 희망 대학생)
-- 설명: 반도체·디스플레이 장비기업 체험형 대학생 서포터즈 프로그램(방학중 활동)
+- 설명: 반도체·디스플레이 장비기업 체험형 대학생 서포터즈'리얼즈'/인턴십'APPLIEDer' 프로그램(방학중 활동)
 - 링크: https://www.appliedmaterials.com/kr/ko/careers/university-recruiting-programs.html
 
 #### 차세대반도체 혁신융합대학 COSS 서포터즈 모집 (마감일 미정)
@@ -456,11 +463,6 @@
 - 링크: https://www.disu.or.kr/community/notice?md=v&bbsidx=6883
 
 
----
-오늘의 기관순환 그룹(institution_rotation_index=0): 연세대 반도체특성화대학 사업단, 고려대 반도체공학, 삼성전자 미래기술육성재단, 한양대 반도체공학과, 경기도 반도체산업전문인력양성사업, 나노기술연구협의회 나노기술교육과정, UST 동계/하계 연구인턴십
-
-
----
 ## 성균관대 공지사항
 
 (반도체 공모전/교육 트래커와는 별개의 신규 감지 섹션입니다)
@@ -468,36 +470,39 @@
 
 ### 전자전기공학부 학부공지 (eee.skku.edu)
 
-- [2026학년도 1학기 미래차 SDV/전동화/자율주행 마이크로디그리(부트캠프) 설명회 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=183773) — 날짜미상
-- [웹방화벽 관련 시스템 공지](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=189701) — 날짜미상
+- [Drive Your Growth 현대자동차 H-모빌리티 클래스 교육생 모집](https://eee.skku.edu/eee/notice_job.do?mode=view&articleNo=189109) — 날짜미상
+- [[두산그룹] 2024 신입사원·채용연계형 인턴 채용](https://eee.skku.edu/eee/notice_job.do?mode=view&articleNo=181219) — 날짜미상
+- [2025 상반기 삼성E&A 3급 신입사원/대학생 인턴 모집](https://eee.skku.edu/eee/notice_job.do?mode=view&articleNo=188458) — 날짜미상
+- [[포스코] 2025년 상반기 포스코 기술연구원 채용](https://eee.skku.edu/eee/notice_job.do?mode=view&articleNo=188315) — 날짜미상
+- [[현대자동차] 2025 현대자동차 서비스엔지니어 채용](https://eee.skku.edu/eee/notice_job.do?mode=view&articleNo=182854) — 날짜미상
+- [[LIG넥스원] 2025년 상반기 LIG넥스원 인재영입](https://eee.skku.edu/eee/notice_job.do?mode=view&articleNo=187922) — 날짜미상
 - [한국장학재단 푸른등대 삼성기부장학금 신청 홍보](https://eee.skku.edu/eee/notice.do) — 날짜미상
 - [전자전기공학부 사임당장학금 신청 안내](https://eee.skku.edu/eee/notice.do) — 날짜미상
 - [2025학년도 대학원 융합연구 ESG포스터 발표대회 개최 안내](https://eee.skku.edu/eee/notice.do) — 날짜미상
-- [2025학년도 1학기 반도체공학(EEE2007-42) 추가개설 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=187412) — 날짜미상
-- [국내외 타대학 취득학점 인정 관련 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=189668) — 날짜미상
-- [[공모전] 2025년 제4회 전기안전 국민 공모전_한국전기안전공사](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=190224) — 날짜미상
-- [스마트 출석관리시스템(SAM)을 통한 수업 출석 방식 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=179845) — 날짜미상
-- [2024학년도 정선용장학금 신청 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=184058) — 날짜미상
-- [2025학년도 신입생 학부 OT 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=186542) — 날짜미상
-- [2024학년도 2학기 공학교육인증(ABEEK) 이수포기 신청](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=182525) — 날짜미상
-- [[LX판토스] 2025 상반기 채용연계형 인턴십 채용](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=184399) — 날짜미상
-- [[미래형자동차] 2025 상반기 현대모비스 미래모빌리티 채용연계 트랙 장학생 설명회](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=188961) — 날짜미상
-- [2025년도 동계 학위복 대여 안내](https://eee.skku.edu/eee/notice_job.do?mode=view&articleNo=186743) — 날짜미상
+- [2026학년도 1학기 미래차 SDV/전동화/자율주행 마이크로디그리(부트캠프) 설명회 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=183773) — 날짜미상
+- [웹방화벽 관련 시스템 공지](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=189701) — 날짜미상
+- [2026년 하반기 JOB FAIR 개최 안내 (9/1(화)~9/4(금))](https://eee.skku.edu/eee/notice.do) — 날짜미상
+- [2026학년도 1학기 중간강의평가 안내(4/20~5/1)](https://eee.skku.edu/eee/notice.do) — 날짜미상
+- [[LIG넥스원] 2025년 상반기 LIG넥스원 인재영입](https://eee.skku.edu/eee/notice.do?mode=view&boardNo=4973&articleNo=187922) — 날짜미상
+- [스마트 출석관리시스템(SAM)을 통한 수업 출석 방식 안내(Attendance System Guide)](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=187893) — 날짜미상
 
 ### 성균관대 종합공지 (skku.edu)
 
-- [< 2026년 STX장학재단 장학생 선발요강 >](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=130122) — 날짜미상
-- [KIST-SKKU 탄소중립 공동연구센터 사업(지정공모) 공모 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=101646) — 날짜미상
-- [성균관대학교 약학/의과대학행정실 행정조교 모집 (마감)](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=115784) — 날짜미상
-- [기숙사 입사 종합 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=134234) — 날짜미상
-- [하계방학 현장실습 프로그램 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=81404) — 날짜미상
 - [사전등록](https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=134945) — 날짜미상
 - [Graduate School Challenge Semester > Art Therapy Program for Graduate Student](https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=118492) — 날짜미상
 - [교환학생/해외수학생 온라인 원서접수 FAQ](https://www.skku.edu/skku/campus/skk_comm/notice02.do?mode=view&articleNo=90180) — 날짜미상
-- [2026학년도 2학기 대학원 신편입생 선수학점/인정학점/인정학기 입력 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [2026-2학기 재학생 및 복학생 등록금 납부 안내(Registration Guide)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [2026학년도 2학기 스마트 제조 세미나 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [서울미래인재재단 2026년 서울인재해외교환학생장학금 장학생 선발 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [2학기 동아리 페스타 (9/9~9/10, 인문사회과학캠퍼스 금잔디광장)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [노벨상 수상자 초청 세미나 (9/10)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
-- [성균문명원(SKCI) 개원식 개최 (9/16)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
+- [[서울미래인재재단] 2026년 서울인재해외교환학생장학금 장학생 선발](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=136747) — 날짜미상
+- [2026-1학기 일반대학원 가계곤란장학금(명현장학금) 신청 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=136711) — 날짜미상
+- [봉룡학사(자연과학캠퍼스) 기숙사 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=134234) — 날짜미상
+- [2026학년도전기 국정전문대학원 일반전형 모집요강](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=130306) — 날짜미상
+- [2026년 STX장학재단 장학생 선발요강](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=130122) — 날짜미상
+- [2026학년도 2학기 등록 및 분할납부 신청 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
+- [2026학년도 2학기 성적우수장학금 신청 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-07-13
+- [2026학년도 2학기 성균가족장학금·국가유공자(자녀)장학금·학생성공-투게더장학금 신청 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-07-20
+- [2026 문행대동제 SKKUTOWN 사업 소개](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
+- [추석 연휴 귀향·귀경 버스 예매 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
+- [2026년 한국장학재단 박사우수장학금(이공계) 선발 안내(~5/29 17시)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
+- [2026년 한국장학재단 푸른등대 삼성기부장학금 선발 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미상
+
+
+오늘의 기관순환 그룹(institution_rotation_index=1): 서울대 반도체공동연구소, 동국대 반도체부트캠프사업단, 홍익대 반도체부트캠프사업단, 단국대 첨단산업인재양성부트캠프, 인하공업전문대학 부트캠프, GIST 동계/하계 인턴십, DGIST 대학원 동계/하계 인턴 프로그램
