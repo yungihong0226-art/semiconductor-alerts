@@ -37,12 +37,13 @@
     "url": "https://semibootcamp.dongguk.edu/",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-22",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
     "period": null,
-    "source_query_group": "general"
+    "source_query_group": "general",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://bootcamp.inhatc.ac.kr/bbs/bootcamp/530/107491/artclview.do",
@@ -82,12 +83,13 @@
     "url": "https://academy.ksia.or.kr/lecture/curriculum",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-21",
+    "last_checked": "2026-09-22",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
     "period": null,
-    "source_query_group": "general"
+    "source_query_group": "general",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://www.skcareers.com/recruit/detail/r260521",
@@ -160,9 +162,10 @@
     "period": "사전등록 2026-09-07 ~ 2026-10-09, 교육 2026-10-20~22",
     "deadline": "2026-10-09",
     "first_seen": "2026-08-25",
-    "last_checked": "2026-09-21",
+    "last_checked": "2026-09-22",
     "status": "open",
-    "source_query_group": "general"
+    "source_query_group": "general",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://www.asic.net/",
@@ -175,9 +178,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-27",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-22",
     "status": "open",
-    "source_query_group": "general"
+    "source_query_group": "general",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://ksti.co.kr/bbs/board.php?bo_table=reqclass",
@@ -190,9 +194,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-27",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-22",
     "status": "open",
-    "source_query_group": "general"
+    "source_query_group": "general",
+    "url_fix_attempts": 1
   },
   {
     "id": "http://www.disu.ac.kr/community/notice?md=v&bbsidx=8716",
@@ -296,7 +301,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-22",
     "status": "open"
   },
   {
@@ -341,7 +346,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-21",
+    "last_checked": "2026-09-22",
     "status": "open"
   },
   {
@@ -385,7 +390,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-03",
-    "last_checked": "2026-09-21",
+    "last_checked": "2026-09-22",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -760,7 +765,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-09-21",
+    "last_checked": "2026-09-22",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -775,7 +780,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-09-21",
+    "last_checked": "2026-09-22",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -806,7 +811,7 @@
     "deadline": "2026-10-08",
     "source_query_group": "school",
     "first_seen": "2026-09-11",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-22",
     "status": "open"
   },
   {
@@ -832,7 +837,7 @@
     "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=129",
     "deadline": "2026-10-08",
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-22",
     "status": "open",
     "description": "반도체 공정 실습 등 현장 실무 인력양성을 위한 예비취업자 대상 교육과정",
     "target": "예비취업자(대학생·졸업예정자 추정, 확인필요)",
@@ -847,7 +852,7 @@
     "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=101",
     "deadline": "2026-09-23",
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-22",
     "status": "open",
     "description": "반도체 엔지니어 기초 소양을 위한 고체·유체·열역학 이론 교육과정",
     "target": "예비취업자(기초과정, 확인필요)",
@@ -1060,7 +1065,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-16",
-    "last_checked": "2026-09-21",
+    "last_checked": "2026-09-22",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -1090,8 +1095,8 @@
     "period": "2026-09-10 ~ 2026-09-21",
     "deadline": "2026-09-21",
     "first_seen": "2026-09-17",
-    "last_checked": "2026-09-20",
-    "status": "open",
+    "last_checked": "2026-09-22",
+    "status": "closed",
     "source_query_group": "direct"
   },
   {
