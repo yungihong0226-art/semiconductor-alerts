@@ -34,16 +34,17 @@
     "title": "2026학년도 첨단산업 반도체 인재양성 부트캠프 참가자 모집",
     "organizer": "동국대학교 반도체 인재양성 부트캠프사업단",
     "category": "교육",
-    "url": "https://semibootcamp.dongguk.edu/",
+    "url": "https://cs.dongguk.edu/article/notice/detail/1375",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-22",
+    "last_checked": "2026-09-23",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
     "period": null,
     "source_query_group": "general",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 1,
+    "url_verified": true
   },
   {
     "id": "https://bootcamp.inhatc.ac.kr/bbs/bootcamp/530/107491/artclview.do",
@@ -83,13 +84,14 @@
     "url": "https://academy.ksia.or.kr/lecture/curriculum",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-22",
+    "last_checked": "2026-09-23",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
     "period": null,
     "source_query_group": "general",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 2,
+    "url_verified": false
   },
   {
     "id": "https://www.skcareers.com/recruit/detail/r260521",
@@ -158,14 +160,15 @@
     "category": "교육",
     "description": "반도체 공정 기초/심화 및 계측검사 기술교육(하반기, 수원컨벤션센터)",
     "target": "반도체 산업 관심 대학생·구직자 (확인필요)",
-    "url": "https://semikrprogram.com/",
+    "url": "https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st",
     "period": "사전등록 2026-09-07 ~ 2026-10-09, 교육 2026-10-20~22",
     "deadline": "2026-10-09",
     "first_seen": "2026-08-25",
-    "last_checked": "2026-09-22",
+    "last_checked": "2026-09-23",
     "status": "open",
     "source_query_group": "general",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 1,
+    "url_verified": true
   },
   {
     "id": "https://www.asic.net/",
@@ -174,14 +177,15 @@
     "category": "교육",
     "description": "산업체 재직자·대학생 대상 반도체/SoC 설계 실무과정을 상시 운영",
     "target": "확인필요",
-    "url": "https://www.asic.net/",
+    "url": "https://www.asic.net/etri/user/train/academyState.do?edcSeCode=20&flag=10&menuId=MNU_0000000000000042",
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-27",
-    "last_checked": "2026-09-22",
+    "last_checked": "2026-09-23",
     "status": "open",
     "source_query_group": "general",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 1,
+    "url_verified": true
   },
   {
     "id": "https://ksti.co.kr/bbs/board.php?bo_table=reqclass",
@@ -190,14 +194,15 @@
     "category": "교육",
     "description": "반도체 8대공정 중 포토공정 기초를 배우는 초급 교육과정",
     "target": "확인필요",
-    "url": "https://ksti.co.kr/bbs/board.php?bo_table=reqclass",
+    "url": "https://ksti.co.kr/bbs/board.php?bo_table=reqclass&mode=view&rm_ix=192",
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-27",
-    "last_checked": "2026-09-22",
+    "last_checked": "2026-09-23",
     "status": "open",
     "source_query_group": "general",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 1,
+    "url_verified": true
   },
   {
     "id": "http://www.disu.ac.kr/community/notice?md=v&bbsidx=8716",
@@ -595,14 +600,15 @@
     "organizer": "광주과학기술원(GIST) 반도체공학과",
     "category": "인턴십",
     "description": "GIST 반도체공학과 학부/대학원 인턴십 프로그램",
-    "target": "확인필요",
-    "url": "https://semi.gist.ac.kr/prog/labMaster/semi/internship/sub04_02_04/list.do",
+    "target": "GIST 또는 국내 대학 학사과정 3~4학년 재학생 및 졸업생, 학점 3.5/4.5(GPA) 이상",
+    "url": "https://semi.gist.ac.kr/prog/bbsArticle/BBSMSTR_000000012232/view.do?nttId=B000000083578Rq9dG3y",
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-20",
+    "last_checked": "2026-09-23",
     "status": "open",
-    "source_query_group": "institution"
+    "source_query_group": "institution",
+    "url_verified": true
   },
   {
     "id": "https://www.disu.or.kr/community/notice?md=v&bbsidx=6883",
@@ -1128,5 +1134,37 @@
     "last_checked": "2026-09-21",
     "status": "open",
     "source_query_group": "general"
+  },
+  {
+    "id": "https://isrc-skku.co.kr/gboard/bbs/board.php?bo_table=notice&wr_id=71",
+    "title": "산학밀착형 차세대 반도체 융합인력 양성 사업단 실무형 인재양성 학부생 모집",
+    "organizer": "성균관대학교 IoT시스템반도체융합인력육성센터",
+    "category": "지원사업",
+    "description": "반도체 전공트랙 실무형 인재양성을 위한 성균관대 학부생 상시 모집(장학·인턴 연계 등 지원)",
+    "target": "성균관대 3,4학년 재학생 (반도체 전공트랙 참여 희망자, 세부 자격 확인필요)",
+    "url": "https://isrc-skku.co.kr/gboard/bbs/board.php?bo_table=notice&wr_id=71",
+    "period": null,
+    "deadline": null,
+    "first_seen": "2026-09-23",
+    "last_checked": "2026-09-23",
+    "status": "open",
+    "source_query_group": "school",
+    "url_verified": true
+  },
+  {
+    "id": "https://nextsemi-skku.co.kr/bbs/board.php?bo_table=skku2_notice&wr_id=81",
+    "title": "반도체설계트랙 마이크로디그리 참여 학생 모집 안내",
+    "organizer": "성균관대학교 산학밀착형 차세대 반도체 융합인력 양성 사업단",
+    "category": "교육",
+    "description": "반도체설계트랙 마이크로디그리 이수를 위한 참여 학생 상시 모집(장학금 등 지원)",
+    "target": "성균관대 3,4학년 재학생 (확인필요)",
+    "url": "https://nextsemi-skku.co.kr/bbs/board.php?bo_table=skku2_notice&wr_id=81",
+    "period": null,
+    "deadline": null,
+    "first_seen": "2026-09-23",
+    "last_checked": "2026-09-23",
+    "status": "open",
+    "source_query_group": "school",
+    "url_verified": true
   }
 ]
