@@ -220,21 +220,6 @@
     "source_query_group": "institution"
   },
   {
-    "id": "https://www.nnfc.re.kr/kor/sub01_03_01_02.do",
-    "title": "나노종합기술원 나노전문인력양성 및 일자리지원사업",
-    "organizer": "나노종합기술원(NNFC)",
-    "category": "교육",
-    "description": "이공계 미취업 대졸(예정)자 대상 반도체 8대공정 실무교육",
-    "target": "이공계 대졸(예정)자·미취업자 (재학 중인 3학년은 대상 아님, 확인필요)",
-    "url": "https://www.nnfc.re.kr/kor/sub01_03_01_02.do",
-    "period": null,
-    "deadline": null,
-    "first_seen": "2026-08-29",
-    "last_checked": "2026-09-24",
-    "status": "open",
-    "source_query_group": "direct"
-  },
-  {
     "id": "https://www.nnfc.re.kr/bbs/bbsmstr_000000000002/list.do",
     "title": "2026년 반도체 글로벌 첨단 팹 연계활용사업 - 해외(imec) 인턴십 하반기 파견자 선정",
     "organizer": "나노종합기술원 / 과학기술정보통신부",
@@ -562,9 +547,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
-    "source_query_group": "direct"
+    "source_query_group": "direct",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://gradsemi.postech.ac.kr/industry-academic-project/recruitment-notice/",
@@ -1016,11 +1002,11 @@
     "period": "2026-09-28 ~ 2026-10-16",
     "deadline": "2026-10-16",
     "first_seen": "2026-09-15",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "direct",
     "url_verified": false,
-    "url_fix_attempts": 1
+    "url_fix_attempts": 2
   },
   {
     "id": "https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002#전력반도체 소자제작 및 측정분석/HEMT 제작실습 및 분석 (예비취업자 교육)",
@@ -1050,9 +1036,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
-    "source_query_group": "institution"
+    "source_query_group": "institution",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://www.appliedmaterials.com/kr/ko/careers/university-recruiting-programs.html",
@@ -1095,9 +1082,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-16",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
-    "source_query_group": "general"
+    "source_query_group": "general",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://www.nnfc.re.kr/mayeye/FileViewer.do?atchFileId=FILE_000000004533Fq8&fileSn=0",
@@ -1286,6 +1274,22 @@
     "last_checked": "2026-09-24",
     "status": "open",
     "source_query_group": "aggregator",
+    "url_verified": true
+  },
+  {
+    "title": "2026 반도체설계 캠퍼스 시즌 3: 반도체 기초 집중 특강",
+    "organizer": "한국반도체공학회(THEISE)",
+    "category": "교육",
+    "description": "학부생 대상 반도체 설계·소자·공정 기초 온라인 집중 특강 시리즈",
+    "target": "대학(원)생 전반 (확인필요)",
+    "url": "https://www.theise.org/?kboard_id=20&mod=document&uid=786",
+    "period": null,
+    "deadline": null,
+    "id": "https://www.theise.org/?kboard_id=20&mod=document&uid=786",
+    "first_seen": "2026-09-25",
+    "last_checked": "2026-09-25",
+    "status": "open",
+    "source_query_group": "institution",
     "url_verified": true
   }
 ]
