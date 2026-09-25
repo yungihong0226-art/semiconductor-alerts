@@ -37,7 +37,7 @@
     "url": "https://cs.dongguk.edu/article/notice/detail/1375",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -54,7 +54,7 @@
     "url": "https://bootcamp.inhatc.ac.kr/bbs/bootcamp/530/107491/artclView.do",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -69,7 +69,7 @@
     "url": "https://www.semi.org/ko/connect/event/spt-hands-on-2026",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "이공계 학부생 4학년(6학기 이상) 및 졸업(예정)자 대상 반도체공정 실습교육",
     "target": "이공계 학부생 4학년(6학기 이상), 2025~2026년 졸업생 (확인필요)",
@@ -116,7 +116,7 @@
     "url": "https://bootcamp.doowon.ac.kr/schedule/bootSchedule.do",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -131,7 +131,7 @@
     "url": "https://ee.hongik.ac.kr/ee/0501.do?mode=view&articleNo=152405",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -146,7 +146,7 @@
     "url": "https://www.doowon.ac.kr/bbs/kr/17/8616/artclView.do",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -164,7 +164,7 @@
     "period": "사전등록 2026-09-07 ~ 2026-10-09, 교육 2026-10-20~22",
     "deadline": "2026-10-09",
     "first_seen": "2026-08-25",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general",
     "url_fix_attempts": 1,
@@ -181,7 +181,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-27",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general",
     "url_fix_attempts": 1,
@@ -198,7 +198,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-27",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general",
     "url_fix_attempts": 1,
@@ -230,7 +230,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-29",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general",
     "url_fix_attempts": 1
@@ -246,7 +246,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-29",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general"
   },
@@ -261,7 +261,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-29",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general"
   },
@@ -277,7 +277,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open"
   },
   {
@@ -292,7 +292,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open"
   },
   {
@@ -307,7 +307,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open"
   },
   {
@@ -337,7 +337,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open"
   },
   {
@@ -352,7 +352,7 @@
     "deadline": "2026-12-31",
     "source_query_group": "institution",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open"
   },
   {
@@ -381,7 +381,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-03",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -426,7 +426,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution",
     "url_fix_attempts": 1
@@ -442,7 +442,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -457,7 +457,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -472,7 +472,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -487,7 +487,7 @@
     "period": "직무훈련 2026년 10~11월(평일), 현직자 특강 토요일",
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -502,7 +502,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -563,7 +563,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -578,7 +578,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -593,7 +593,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution",
     "url_verified": true
@@ -609,7 +609,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -624,7 +624,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -639,7 +639,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general"
   },
@@ -654,7 +654,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -669,7 +669,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -684,7 +684,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "school",
     "url_fix_attempts": 1
@@ -700,7 +700,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "school"
   },
@@ -715,7 +715,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general"
   },
@@ -745,7 +745,7 @@
     "period": "2026-09-01 ~ 2026-10-02",
     "deadline": "2026-10-02",
     "first_seen": "2026-09-09",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution",
     "url_verified": true
@@ -761,7 +761,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -776,7 +776,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -791,7 +791,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -807,7 +807,7 @@
     "deadline": "2026-10-08",
     "source_query_group": "school",
     "first_seen": "2026-09-11",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open"
   },
   {
@@ -833,7 +833,7 @@
     "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=129",
     "deadline": "2026-10-08",
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "반도체 공정 실습 등 현장 실무 인력양성을 위한 예비취업자 대상 교육과정",
     "target": "예비취업자(대학생·졸업예정자 추정, 확인필요)",
@@ -878,7 +878,7 @@
     "url": "https://bespoke.ajou.ac.kr/",
     "deadline": null,
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "메모리반도체·패키지공정실습 등 반도체특성화대학사업 연계 교육과정",
     "target": "2025-2학기 재학생 또는 2026-1학기 복학예정자, 직전학기 누계평점 3.0 이상",
@@ -894,7 +894,7 @@
     "url": "https://tollgate.skku.edu/",
     "deadline": null,
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "Tollgate 시스템으로 반도체 기업과 매칭되는 4주 이상 현장실습 상시 지원",
     "target": "반도체시스템공학과 등 관련 전공 3학년 이상(확인필요)",
@@ -909,7 +909,7 @@
     "url": "https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st",
     "deadline": "2026-10-09",
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "description": "반도체 제조공정 이해를 위한 기본·심화과정 오프라인 교육(수원컨벤션센터)",
     "target": "확인필요(업계 실무자 및 이공계 학생 대상 추정)",
@@ -927,7 +927,7 @@
     "period": "2026-10-14 ~ 2026-11-10",
     "deadline": null,
     "first_seen": "2026-09-13",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general"
   },
@@ -942,7 +942,7 @@
     "period": "2026-01-01 ~ 2028-12-31",
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -957,7 +957,7 @@
     "period": "2026-04 ~ 2027-02 (활동기간, 모집마감일 확인필요)",
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general"
   },
@@ -972,7 +972,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "school"
   },
@@ -987,7 +987,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "roundup"
   },
@@ -1019,7 +1019,7 @@
     "period": "2026-09-14 ~ 2026-10-02",
     "deadline": "2026-10-02",
     "first_seen": "2026-09-15",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution",
     "url_verified": false,
@@ -1052,7 +1052,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general"
   },
@@ -1067,7 +1067,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-16",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -1113,7 +1113,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-20",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "roundup"
   },
@@ -1128,7 +1128,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-21",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "general"
   },
@@ -1143,7 +1143,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-23",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "school",
     "url_verified": true
@@ -1159,7 +1159,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-23",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "school",
     "url_verified": true
@@ -1175,7 +1175,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1191,7 +1191,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1207,7 +1207,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1223,7 +1223,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1239,7 +1239,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1255,7 +1255,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1271,7 +1271,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
