@@ -230,10 +230,11 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-29",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-26",
     "status": "open",
     "source_query_group": "general",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 2,
+    "url_verified": false
   },
   {
     "id": "https://www.theise.org/?kboard_id=20&mod=document&uid=772",
@@ -426,10 +427,11 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-26",
     "status": "open",
     "source_query_group": "institution",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 2,
+    "url_verified": false
   },
   {
     "id": "https://www.nnfc.re.kr/prog/bbsArticle/BBSMSTR_000000000001/view.do?nttId=B000000005312Bp3wI1",
@@ -684,10 +686,11 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-26",
     "status": "open",
     "source_query_group": "school",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 2,
+    "url_verified": false
   },
   {
     "id": "https://www.skkukdt.re.kr/semiconductor",
@@ -878,13 +881,14 @@
     "url": "https://bespoke.ajou.ac.kr/",
     "deadline": null,
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-26",
     "status": "open",
     "description": "메모리반도체·패키지공정실습 등 반도체특성화대학사업 연계 교육과정",
     "target": "2025-2학기 재학생 또는 2026-1학기 복학예정자, 직전학기 누계평점 3.0 이상",
     "period": null,
     "source_query_group": "institution",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 2,
+    "url_verified": false
   },
   {
     "id": "https://tollgate.skku.edu/",
@@ -894,12 +898,14 @@
     "url": "https://tollgate.skku.edu/",
     "deadline": null,
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-26",
     "status": "open",
     "description": "Tollgate 시스템으로 반도체 기업과 매칭되는 4주 이상 현장실습 상시 지원",
     "target": "반도체시스템공학과 등 관련 전공 3학년 이상(확인필요)",
     "period": null,
-    "source_query_group": "school"
+    "source_query_group": "school",
+    "url_fix_attempts": 1,
+    "url_verified": false
   },
   {
     "id": "https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st",
