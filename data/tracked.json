@@ -230,10 +230,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-29",
-    "last_checked": "2026-09-26",
-    "status": "open",
+    "last_checked": "2026-09-27",
+    "status": "closed",
     "source_query_group": "general",
-    "url_fix_attempts": 2,
+    "url_fix_attempts": 3,
     "url_verified": false
   },
   {
@@ -353,7 +353,7 @@
     "deadline": "2026-12-31",
     "source_query_group": "institution",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-27",
     "status": "open"
   },
   {
@@ -427,10 +427,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-26",
-    "status": "open",
+    "last_checked": "2026-09-27",
+    "status": "closed",
     "source_query_group": "institution",
-    "url_fix_attempts": 2,
+    "url_fix_attempts": 3,
     "url_verified": false
   },
   {
@@ -459,7 +459,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-27",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -474,7 +474,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-27",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -489,7 +489,7 @@
     "period": "직무훈련 2026년 10~11월(평일), 현직자 특강 토요일",
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-27",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -504,7 +504,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-27",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -656,7 +656,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-27",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -671,7 +671,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-27",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -686,10 +686,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-26",
-    "status": "open",
+    "last_checked": "2026-09-27",
+    "status": "closed",
     "source_query_group": "school",
-    "url_fix_attempts": 2,
+    "url_fix_attempts": 3,
     "url_verified": false
   },
   {
@@ -881,13 +881,13 @@
     "url": "https://bespoke.ajou.ac.kr/",
     "deadline": null,
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-26",
-    "status": "open",
+    "last_checked": "2026-09-27",
+    "status": "closed",
     "description": "메모리반도체·패키지공정실습 등 반도체특성화대학사업 연계 교육과정",
     "target": "2025-2학기 재학생 또는 2026-1학기 복학예정자, 직전학기 누계평점 3.0 이상",
     "period": null,
     "source_query_group": "institution",
-    "url_fix_attempts": 2,
+    "url_fix_attempts": 3,
     "url_verified": false
   },
   {
@@ -898,13 +898,13 @@
     "url": "https://tollgate.skku.edu/",
     "deadline": null,
     "first_seen": "2026-09-12",
-    "last_checked": "2026-09-26",
+    "last_checked": "2026-09-27",
     "status": "open",
     "description": "Tollgate 시스템으로 반도체 기업과 매칭되는 4주 이상 현장실습 상시 지원",
     "target": "반도체시스템공학과 등 관련 전공 3학년 이상(확인필요)",
     "period": null,
     "source_query_group": "school",
-    "url_fix_attempts": 1,
+    "url_fix_attempts": 2,
     "url_verified": false
   },
   {
@@ -993,7 +993,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-27",
     "status": "open",
     "source_query_group": "roundup"
   },
@@ -1073,7 +1073,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-16",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-27",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -1296,6 +1296,38 @@
     "last_checked": "2026-09-25",
     "status": "open",
     "source_query_group": "institution",
+    "url_verified": true
+  },
+  {
+    "id": "https://www.doowon.ac.kr/bbs/kr/17/8616/artclView.do",
+    "title": "2026 미래기술학교 운영 지원 사업(팹리스 SoC 반도체설계) 교육생 모집",
+    "organizer": "두원공과대학교",
+    "category": "교육",
+    "description": "팹리스 SoC 반도체설계 분야 미래기술학교 교육생 모집",
+    "target": "확인필요",
+    "url": "https://www.doowon.ac.kr/bbs/kr/17/8616/artclView.do",
+    "period": null,
+    "deadline": null,
+    "first_seen": "2026-09-27",
+    "last_checked": "2026-09-27",
+    "status": "open",
+    "source_query_group": "institution",
+    "url_verified": true
+  },
+  {
+    "id": "https://ase.skku.edu/ase/notice.do?mode=view&articleNo=225605",
+    "title": "SPRINT 3기 학생 모집",
+    "organizer": "성균관대학교 차세대반도체공학연계전공",
+    "category": "교육",
+    "description": "차세대반도체공학연계전공 SPRINT 3기 모집 공지(세부내용 확인필요)",
+    "target": "확인필요 (성균관대 차세대반도체공학연계전공 재학생 대상으로 추정)",
+    "url": "https://ase.skku.edu/ase/notice.do?mode=view&articleNo=225605",
+    "period": "2026-09-16 ~ 2026-09-29",
+    "deadline": "2026-09-29",
+    "first_seen": "2026-09-27",
+    "last_checked": "2026-09-27",
+    "status": "open",
+    "source_query_group": "school",
     "url_verified": true
   }
 ]
