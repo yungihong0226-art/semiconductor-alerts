@@ -2878,5 +2878,95 @@
     "posted_date": "2026-09-08",
     "first_seen": "2026-09-26",
     "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#진로특강 \"언론인의 길\" (예필재 하계 특강)",
+    "site": "eee",
+    "title": "진로특강 \"언론인의 길\" (예필재 하계 특강)",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-09-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=137980",
+    "site": "skku",
+    "title": "장학금지급규정",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=137980",
+    "posted_date": null,
+    "first_seen": "2026-09-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/international/globalComm/international01.do?mode=view&articleNo=133530",
+    "site": "skku",
+    "title": "2026-1학기 Global Challenge 장학생 선발 안내",
+    "url": "https://www.skku.edu/skku/international/globalComm/international01.do?mode=view&articleNo=133530",
+    "posted_date": null,
+    "first_seen": "2026-09-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/international/globalComm/international01.do?mode=view&articleNo=123060",
+    "site": "skku",
+    "title": "2025학년도 1학기 Global Challenge 장학생 선발 안내",
+    "url": "https://www.skku.edu/skku/international/globalComm/international01.do?mode=view&articleNo=123060",
+    "posted_date": null,
+    "first_seen": "2026-09-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=120082",
+    "site": "skku",
+    "title": "(학생인재개발팀/대학일자리플러스센터) 2024 하반기 JOB FAIR 개최(9.2(월)~9.10(화))",
+    "url": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=120082",
+    "posted_date": "2024-09-02",
+    "first_seen": "2026-09-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice02.do?mode=view&articleNo=128019",
+    "site": "skku",
+    "title": "2025학년도 2학기 휴학/복학 및 재입학 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice02.do?mode=view&articleNo=128019",
+    "posted_date": null,
+    "first_seen": "2026-09-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=86284",
+    "site": "skku",
+    "title": "[연구기획팀] 해외 신진연구자 초빙사업 공고 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=86284",
+    "posted_date": null,
+    "first_seen": "2026-09-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=80076",
+    "site": "skku",
+    "title": "[학술정보관] 슬기로운 독서생활을 위한 전자도서관(구독) 이용 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=80076",
+    "posted_date": null,
+    "first_seen": "2026-09-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=132182",
+    "site": "skku",
+    "title": "입찰 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=132182",
+    "posted_date": null,
+    "first_seen": "2026-09-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=126273",
+    "site": "skku",
+    "title": "2025년 산업통상자원부 「창의융합형 공학인재 양성지원사업」 창의혁신 DNA-HERO 산학협력 프로젝트 팀 모집 공고",
+    "url": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=126273",
+    "posted_date": null,
+    "first_seen": "2026-09-28",
+    "notified": true
   }
 ]
