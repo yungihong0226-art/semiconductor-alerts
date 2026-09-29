@@ -2,9 +2,9 @@
 
 마지막 업데이트: 2026-09-29 09:05 KST
 
-## 🔌 반도체 공모전/교육/지원사업/인턴십/서포터즈 (전체 61건)
+## 🔌 반도체 공모전/교육/지원사업/인턴십/서포터즈 (전체 59건)
 
-- 공모전 2건 | 교육 44건 | 지원사업 5건 | 인턴십 6건 | 서포터즈 4건
+- 공모전 2건 | 교육 42건 | 지원사업 5건 | 인턴십 6건 | 서포터즈 4건
 
 ⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캐퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
 
@@ -24,7 +24,7 @@
 - 설명: 국내 대학(원)생 대상 반도체 설계 작품 공모전
 - 링크: https://systemiclab.or.kr/DocView.html?menu_seq=23&mode=view&bbs_seq=1431
 
-### 교육 (44건)
+### 교육 (42건)
 
 #### SPRINT 3기 학생 모집 (D-0)
 - 주최: 성균관대학교 차세대반도체공학연계전공
@@ -54,26 +54,12 @@
 - 설명: 반도체 공정 기초/심화 및 계측검사 기술교육(하반기, 수원컨벤션센터)
 - 링크: https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st
 
-#### SEMI 반도체공정기술교육 2026(하반기) (D-10)
-- 주최: SEMI Korea
-- 모집기간: 2026-09-07 ~ 2026-10-09
-- 모집대상: 확인필요(업계 실무자 및 이공계 학생 대상 추정)
-- 설명: 반도체 제조공정 이해를 위한 기본·심화과정 오프라인 교육(수원컨벤션센터)
-- 링크: https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st
-
 #### (재직자 대상 교육) 반도체 단위공정(포토/식각) 실습교육 교육생 모집 (마감일 미정)
 - 주최: 한국반도체산업협회(KSIA)
 - 모집기간: 확인필요
 - 모집대상: 반도체 관련 기업 재직자 (대학생 해당 여부 확인필요)
 - 설명: 반도체 재직자 대상 포토/식각 단위공정 4일 실습 교육과정 교육생 모집
 - 링크: https://www.ksia.or.kr/bbs/board.php?bo_table=notice&wr_id=2436
-
-#### 2026 미래기술학교 운영 지원 사업(팹리스 SoC 반도체설계) 교육생 모집 (마감일 미정)
-- 주최: 두원공과대학교
-- 모집기간: 확인필요
-- 모집대상: 확인필요
-- 설명: 확인필요
-- 링크: https://www.doowon.ac.kr/bbs/kr/17/8616/artclView.do
 
 #### 2026 미래기술학교 운영 지원 사업(팹리스 SoC 반도체설계) 교육생 모집 (마감일 미정)
 - 주최: 두원공과대학교
