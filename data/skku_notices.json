@@ -2976,7 +2976,7 @@
     "url": "https://eee.skku.edu/eee/notice.do",
     "posted_date": null,
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#물리학과 교수 「양자문명」 북토크 안내",
@@ -2985,7 +2985,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice05.do#RISE 사업단 창업레지던시클럽(창업고시반) 「성창재」2기 모집 안내",
@@ -2994,7 +2994,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do",
     "posted_date": null,
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#릴레이 글로벌 취·창업 톡톡톡 특강 안내",
@@ -3003,7 +3003,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice08.do#제2회 ZYXCAD AX 경진대회 안내",
@@ -3012,7 +3012,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice08.do",
     "posted_date": "2026-09-03",
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice08.do#미래산업 취업아카데미 AI 디지털마케팅 과정 모집 안내",
@@ -3021,7 +3021,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice08.do",
     "posted_date": null,
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#기프티콘 증정 | 대학 내 학부연구생(학부인턴)의 연구실 경험 및 진로 인식 설문조사 (~09.30)",
@@ -3030,7 +3030,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-09-30",
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice08.do#주말·공휴일 학생 및 학부모 대상 무료 주차서비스 안내",
@@ -3039,7 +3039,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice08.do",
     "posted_date": null,
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#비교과 프로그램 참여 후기 조사 (~10/12)",
@@ -3048,7 +3048,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-10-12",
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#JW이종호재단 기초과학자 장학생 선발 안내",
@@ -3057,7 +3057,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
     "posted_date": null,
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#인권센터(인문과학캠퍼스) 행정조교 모집 안내",
@@ -3066,6 +3066,6 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-09-29",
-    "notified": false
+    "notified": true
   }
 ]
