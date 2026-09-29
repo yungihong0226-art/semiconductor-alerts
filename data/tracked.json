@@ -693,19 +693,20 @@
     "url_verified": false
   },
   {
-    "id": "https://www.skkukdt.re.kr/semiconductor",
+    "id": "https://www.skkukdt.re.kr/skku_academy1",
     "title": "SKKU Academy 반도체 공정/설계 무료교육",
     "organizer": "성균관대학교(SKKU Academy)",
     "category": "교육",
     "description": "재직자 대상 반도체 공정/설계 무료교육 프로그램",
     "target": "주로 재직자 대상, 재학생 해당 여부 확인필요",
-    "url": "https://www.skkukdt.re.kr/semiconductor",
+    "url": "https://www.skkukdt.re.kr/skku_academy1",
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-29",
     "status": "open",
-    "source_query_group": "school"
+    "source_query_group": "school",
+    "url_verified": true
   },
   {
     "id": "https://linkareer.com/activity/339204",
@@ -1025,28 +1026,28 @@
     "period": "2026-09-14 ~ 2026-10-02",
     "deadline": "2026-10-02",
     "first_seen": "2026-09-15",
-    "last_checked": "2026-09-28",
-    "status": "open",
+    "last_checked": "2026-09-29",
+    "status": "closed",
     "source_query_group": "institution",
     "url_verified": false,
-    "url_fix_attempts": 2
+    "url_fix_attempts": 3
   },
   {
-    "id": "https://edu.kontrs.or.kr/",
+    "id": "https://www.kontrs.or.kr/36/?idx=3120158&bmode=view",
     "title": "나노기술교육과정(소자공정·측정분석) 교육생 모집",
     "organizer": "나노기술연구협의회(KONTRS)",
     "category": "교육",
     "description": "나노소자 공정 및 측정분석 분야 이론-실습 연계 전문인력 양성교육",
     "target": "확인필요 (이공계 대학(원)생 및 관련 전공자 대상으로 추정)",
-    "url": "https://edu.kontrs.or.kr/",
+    "url": "https://www.kontrs.or.kr/36/?idx=3120158&bmode=view",
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_checked": "2026-09-28",
+    "last_checked": "2026-09-29",
     "status": "open",
     "source_query_group": "institution",
     "url_fix_attempts": 2,
-    "url_verified": false
+    "url_verified": true
   },
   {
     "id": "https://www.appliedmaterials.com/kr/ko/careers/university-recruiting-programs.html",
@@ -1089,8 +1090,8 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-16",
-    "last_checked": "2026-09-28",
-    "status": "open",
+    "last_checked": "2026-09-29",
+    "status": "closed",
     "source_query_group": "general",
     "url_fix_attempts": 2,
     "url_verified": false
@@ -1126,19 +1127,20 @@
     "source_query_group": "roundup"
   },
   {
-    "id": "https://setec.koreatech.ac.kr/sub2-4.php",
+    "id": "https://setec.koreatech.ac.kr/bbs/bbs/board.php?bo_table=gongji&wr_id=405",
     "title": "SETEC 반도체장비기술교육센터 2026년 연간교육과정",
     "organizer": "한국공학대학교 반도체장비기술교육센터(SETEC)",
     "category": "교육",
     "description": "반도체 장비·공정 실무 교육을 연중 다회차로 운영하는 교육센터 과정",
     "target": "확인필요",
-    "url": "https://setec.koreatech.ac.kr/sub2-4.php",
+    "url": "https://setec.koreatech.ac.kr/bbs/bbs/board.php?bo_table=gongji&wr_id=405",
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-21",
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-29",
     "status": "open",
-    "source_query_group": "general"
+    "source_query_group": "general",
+    "url_verified": true
   },
   {
     "id": "https://isrc-skku.co.kr/gboard/bbs/board.php?bo_table=notice&wr_id=71",
