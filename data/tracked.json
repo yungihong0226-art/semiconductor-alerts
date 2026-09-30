@@ -1303,5 +1303,21 @@
     "status": "closed",
     "source_query_group": "school",
     "url_verified": true
+  },
+  {
+    "id": "http://www.disu.ac.kr/community/notice?md=v&bbsidx=8383",
+    "title": "(사)반도체공학회 「정진용장학생」 신청",
+    "organizer": "반도체공학회(The Institute of Semiconductor Engineers)",
+    "category": "지원사업",
+    "description": "반도체공학 전공 학부·대학원생 대상 정진용장학금 지원자 모집",
+    "target": "반도체공학 전공 학부생·대학원생 (세부 자격요건 확인필요)",
+    "url": "http://www.disu.ac.kr/community/notice?md=v&bbsidx=8383",
+    "period": "~2026-10-20 접수",
+    "deadline": "2026-10-20",
+    "first_seen": "2026-09-30",
+    "last_checked": "2026-09-30",
+    "status": "open",
+    "source_query_group": "general",
+    "url_verified": true
   }
 ]
