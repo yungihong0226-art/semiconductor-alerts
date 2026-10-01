@@ -1171,7 +1171,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-01",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1187,7 +1187,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-01",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1203,7 +1203,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-01",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1219,7 +1219,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-01",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1318,6 +1318,22 @@
     "last_checked": "2026-09-30",
     "status": "open",
     "source_query_group": "general",
+    "url_verified": true
+  },
+  {
+    "id": "https://boottent.com/camps/thein-semicon_20260929170931637",
+    "title": "AI를 활용한 반도체 공정 장비 데이터 분석 전문가 양성과정",
+    "organizer": "더인에듀(Thein) / AI+X(융합) 아카데미",
+    "category": "교육",
+    "description": "AI로 반도체 공정·장비 데이터를 분석하는 전문가 양성, 인턴십 연계 과정",
+    "target": "취업준비생 대상 공고(교육비 무료, 인턴십 연계), 재학생 해당여부 확인필요",
+    "url": "https://boottent.com/camps/thein-semicon_20260929170931637",
+    "period": null,
+    "deadline": null,
+    "first_seen": "2026-10-01",
+    "last_checked": "2026-10-01",
+    "status": "open",
+    "source_query_group": "aggregator",
     "url_verified": true
   }
 ]
