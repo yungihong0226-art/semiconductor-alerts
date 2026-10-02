@@ -1,12 +1,12 @@
-# 반도체 대외활동 & 성균관대 공지 알리미
+# 반도체 공모전/교육/지원사업/인턴십/서포터즈 + 성균관대 공지 트래커
 
-마지막 업데이트: 2026-10-01 09:12 KST
+마지막 업데이트: 2026-10-02 09:04 KST
 
-## 🔌 반도체 공모전/교육/지원사업/인턴십/서포터즈 (전체 60건)
+**전체 진행중: 61건** (공모전 2건 · 교육 43건 · 지원사업 6건 · 인턴십 6건 · 서포터즈 4건)
 
-- 공모전 2건 | 교육 42건 | 지원사업 6건 | 인턴십 6건 | 서포터즈 4건
+⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캐퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
 
-⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캠퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
+## 🔌 반도체 소식
 
 ### 공모전 (2건)
 
@@ -24,28 +24,35 @@
 - 설명: 국내 대학(원)생 대상 반도체 설계 작품 공모전
 - 링크: https://systemiclab.or.kr/DocView.html?menu_seq=23&mode=view&bbs_seq=1431
 
-### 교육 (42건)
+### 교육 (43건)
 
-#### 포항공과대학교 반도체 소자(MOSFET) 분석 이론 및 실습 교육 (D-7)
+#### 포항공과대학교 반도체 소자(MOSFET) 분석 이론 및 실습 교육 (D-6)
 - 주최: 한국반도체산업협회(KSIA) 반도체인프라활용현장인력양성사업 / 포항공과대학교
 - 모집기간: 2026-09-01 ~ 2026-10-08
 - 모집대상: 반도체 관련 산업체 재직자 (모집 15명)
 - 설명: MOSFET 반도체 소자분석 이론 및 실습을 다루는 현장인력양성 교육과정
 - 링크: https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=140
 
-#### 명지대학교 반도체인프라활용 현장인력양성 교육과정 (D-7)
+#### 명지대학교 반도체인프라활용 현장인력양성 교육과정 (D-6)
 - 주최: 한국반도체산업협회(KSIA) 반도체인프라활용현장인력양성사업 / 명지대학교
 - 모집기간: 2026-09-01 ~ 2026-10-08
 - 모집대상: 예비취업자(대학생·졸업예정자 추정, 확인필요)
 - 설명: 반도체 공정 실습 등 현장 실무 인력양성을 위한 예비취업자 대상 교육과정
 - 링크: https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=129
 
-#### SEMI 반도체공정기술교육 2026 기초과정(하반기) (D-8)
+#### SEMI 반도체공정기술교육 2026 기초과정(하반기) (D-7)
 - 주최: SEMI Korea(국제반도체장비재료협회)
 - 모집기간: 사전등록 2026-09-07 ~ 2026-10-09, 교육 2026-10-20~22
 - 모집대상: 반도체 산업 관심 대학생·구직자 (확인필요)
 - 설명: 반도체 공정 기초/심화 및 계측검사 기술교육(하반기, 수원컨벤션센터)
 - 링크: https://www.semi.org/ko/connect/events/spt-tutorial-2026-1st
+
+#### 반도체협회 회원사 재직자 대상 반도체 공정기술 이론과정(무료) 신청 안내 (D-33)
+- 주최: 한국반도체산업협회(KSIA)
+- 모집기간: 2026-11-04
+- 모집대상: 한국반도체산업협회 회원사(중소기업) 재직자 (재학생 해당 없음)
+- 설명: 반도체협회 중소기업 재직자 대상 2일간 무료 공정기술 이론과정 신청(선착순 마감)
+- 링크: https://www.ksia.or.kr/bbs/board.php?bo_table=notice&wr_id=2141
 
 #### 2026학년도 첨단산업 반도체 인재양성 부트캠프 참가자 모집 (마감일 미정)
 - 주최: 동국대학교 반도체 인재양성 부트캠프사업단
@@ -322,14 +329,14 @@
 
 ### 지원사업 (6건)
 
-#### (사)반도체공학회 「정진용장학생」 신청 (D-19)
+#### (사)반도체공학회 「정진용장학생」 신청 (D-18)
 - 주최: 반도체공학회(The Institute of Semiconductor Engineers)
 - 모집기간: ~2026-10-20 접수
 - 모집대상: 반도체공학 전공 학부생·대학원생 (세부 자격요건 확인필요)
 - 설명: 반도체공학 전공 학부·대학원생 대상 정진용장학금 지원자 모집
 - 링크: http://www.disu.ac.kr/community/notice?md=v&bbsidx=8383
 
-#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-91)
+#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-90)
 - 주최: 전남대학교 반도체특성화대학사업단
 - 모집기간: 2026-04-15 ~ 2026-12-31
 - 모집대상: 전남대 반도체융합전공 재학생
@@ -366,7 +373,7 @@
 
 ### 인턴십 (6건)
 
-#### DB하이텍 2026년 하반기 신입사원 공채 (D-1)
+#### DB하이텍 2026년 하반기 신입사원 공채 (D-0)
 - 주최: DB하이텍
 - 모집기간: 2026-09-01 ~ 2026-10-02
 - 모집대상: 대졸(4년제) 졸업자/졸업예정자 (재학 중인 3학년 해당 여부 확인필요)
@@ -439,44 +446,42 @@
 - 링크: https://www.appliedmaterials.com/kr/ko/careers/university-recruiting-programs.html
 
 ---
-오늘의 기관순환 그룹(institution_rotation_index): 1 — 서울대 반도체공동연구소 / 동국대 반도체부트캠프사업단 / 홍익대 반도체부트캠프사업단 / 단국대 첨단산업인재양성부트캠프 / 인하공업전문대학 부트캠프 / GIST 동계·하계 인턴십 / DGIST 대학원 동계·하계 인턴 프로그램
+이번 실행 institution_rotation_index: 2 (경북대 IDEC, 전남대 IDEC, 충북대 IDEC, 아주대 반도체, 두원공과대 반도체부트캠프, 한국화학연구원 인턴, 한화정밀기계 채용선제형 인턴)
 
-## 🏫 성균관대학교 공지사항
+## 🏫 성균관대 공지사항
 
-반도체 관련 대외활동과는 별개로, 전자전기공학부 학부공지 및 학교 종합공지 게시판의 신규 게시물을 매일 감지하여 안내합니다 (한 번 알려드린 공지는 다시 표시하지 않습니다).
+### 전자전기공학부 학부공지 (eee.skku.edu) — 최근 15건
 
-### 전자전기공학부 학부공지 (eee.skku.edu, 최근 15건)
-
-- [[학생성공센터] 2026 학생성공 교수멘토링: 교수님과 나누는 진로, 학업 그리고 인생 이야기](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138885&itemId=FEE371F4E7BFBC593AF76F992DB29BB6EUNSHJ) — 2026-09-30
-- [[학생인재개발팀] 전국 지역인재 7급 수습직원 선발시험 향후 변경사항 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138883&itemId=9F08B24AA37DBFB6AA6FE2728DE5226CTPDXMT) — 2026-09-30
-- [[학생인재개발팀/대학일자리플러스센터] 2026 하반기 AI 취업 지원 서비스 나임(NAIM) 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=F3CE0EF67FBCA210D824B9FE2143297FTSPISA) — 2026-09-30
-- [2026학년도 2학기 대학원 한마당 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138885&itemId=9177EE5C932EF9CA2738E3D650B01DAAXJVSRM) — 2026-09-30
-- [[학생인재개발팀/대학일자리플러스센터] 10월 집단상담-면접 첫 걸음](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=B5023477AA64C78EBBDD77B9DA091FC1JFZAZJ) — 2026-09-30
-- [[학생인재개발팀/대학일자리플러스센터] (자과캠) [한화솔루션 케미칼부문] 2026년 채용 설명회](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=44F73011B39F6EC8970FF6F4F53BD261TTPKIM) — 2026-09-30
-- [2026학년도 Adobe 소프트웨어(Shared Device License) 이용 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138886&itemId=0B4E22F002FC87EFDABCEAA543BB7B5DIFCQZC) — 2026-09-30
-- [[학생인재개발팀/대학일자리플러스센터] 2026 한국투자증권 CEO 채용설명회](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=97D9AA30D2F760DAB5B2284990ED2748NCTOVV) — 2026-09-30
-- [[학생인재개발팀/대학일자리플러스센터] 2026 하반기 바이오헬스산업 일자리 아카데미](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=D1106D465D27889B27E98D8145595F2FHWHBVW) — 2026-09-30
 - [[현대자동차그룹] K-뉴딜 아카데미 HINT(HMG Incubation of New Talent) 교육생 모집](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138883&itemId=B92581107D8C72B8F2E1D17545BC278DLPTIXR) — 2026-09-30
-- [마이크로디그리 이수자 대상 성적우수장학금 지급 안내](https://eee.skku.edu/eee/notice.do) — 날짜 확인필요
-- [진로특강 "언론인의 길" (예필재 하계 특강)](https://eee.skku.edu/eee/notice.do) — 날짜 확인필요
-- [국내외 타 대학 학점교류 및 교환학생 성적인정 절차 안내(GLS)](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=225333) — 2026-09-10
-- [(필독) 장학금 추천서 작성 및 날인 요청 절차 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=225163) — 2026-09-09
+- [[학생인재개발팀/대학일자리플러스센터] 2026 하반기 바이오헬스산업 일자리 아카데미](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=D1106D465D27889B27E98D8145595F2FHWHBVW) — 2026-09-30
+- [[학생인재개발팀/대학일자리플러스센터] 2026 한국투자증권 CEO 채용설명회](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=97D9AA30D2F760DAB5B2284990ED2748NCTOVV) — 2026-09-30
+- [2026학년도 Adobe 소프트웨어(Shared Device License) 이용 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138886&itemId=0B4E22F002FC87EFDABCEAA543BB7B5DIFCQZC) — 2026-09-30
+- [[학생인재개발팀/대학일자리플러스센터] (자과캠) [한화솔루션 케미칼부문] 2026년 채용 설명회](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=44F73011B39F6EC8970FF6F4F53BD261TTPKIM) — 2026-09-30
+- [[학생인재개발팀/대학일자리플러스센터] 10월 집단상담-면접 첫 걸음](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=B5023477AA64C78EBBDD77B9DA091FC1JFZAZJ) — 2026-09-30
+- [2026학년도 2학기 대학원 한마당 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138885&itemId=9177EE5C932EF9CA2738E3D650B01DAAXJVSRM) — 2026-09-30
+- [[학생인재개발팀/대학일자리플러스센터] 2026 하반기 AI 취업 지원 서비스 나임(NAIM) 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=F3CE0EF67FBCA210D824B9FE2143297FTSPISA) — 2026-09-30
+- [[학생인재개발팀] 전국 지역인재 7급 수습직원 선발시험 향후 변경사항 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138883&itemId=9F08B24AA37DBFB6AA6FE2728DE5226CTPDXMT) — 2026-09-30
+- [[학생성공센터] 2026 학생성공 교수멘토링: 교수님과 나누는 진로, 학업 그리고 인생 이야기](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138885&itemId=FEE371F4E7BFBC593AF76F992DB29BB6EUNSHJ) — 2026-09-30
+- [마이크로디그리 이수자 대상 성적우수장학금 지급 안내](https://eee.skku.edu/eee/notice.do) — 게시일 미상
+- [진로특강 "언론인의 길" (예필재 하계 특강)](https://eee.skku.edu/eee/notice.do) — 게시일 미상
+- [[두산에너빌리티] 2026 두산에너빌리티 신입사원 채용](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=225090) — 2026-09-08
 - [2026-2 전자전기컴퓨터공학과 진학설명회 안내(9/29(화), 13:30/ 사전접수: 9/22(화))](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=225102) — 2026-09-08
+- [(필독) 장학금 추천서 작성 및 날인 요청 절차 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=225163) — 2026-09-09
 
-### 성균관대 종합공지 (skku.edu, 최근 15건)
+### 성균관대 종합공지 (skku.edu) — 최근 15건
 
-- [물리학과 교수 「양자문명」 북토크 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜 확인필요
-- [RISE 사업단 창업레지던시클럽(창업고시반) 「성창재」2기 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice05.do) — 날짜 확인필요
-- [릴레이 글로벌 취·창업 톡톡톡 특강 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜 확인필요
-- [제2회 ZYXCAD AX 경진대회 안내](https://www.skku.edu/skku/campus/skk_comm/notice08.do) — 2026-09-03
-- [미래산업 취업아카데미 AI 디지털마케팅 과정 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice08.do) — 날짜 확인필요
-- [기프티콘 증정 | 대학 내 학부연구생(학부인턴)의 연구실 경험 및 진로 인식 설문조사 (~09.30)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-09-30
-- [주말·공휴일 학생 및 학부모 대상 무료 주차서비스 안내](https://www.skku.edu/skku/campus/skk_comm/notice08.do) — 날짜 확인필요
+- [인권센터(인문과학캠퍼스) 행정조교 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 게시일 미상
+- [JW이종호재단 기초과학자 장학생 선발 안내](https://www.skku.edu/skku/campus/skk_comm/notice06.do) — 게시일 미상
 - [비교과 프로그램 참여 후기 조사 (~10/12)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-12
-- [JW이종호재단 기초과학자 장학생 선발 안내](https://www.skku.edu/skku/campus/skk_comm/notice06.do) — 날짜 확인필요
-- [인권센터(인문과학캠퍼스) 행정조교 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜 확인필요
-- [장학금지급규정](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=137980) — 날짜 확인필요
-- [2026-1학기 Global Challenge 장학생 선발 안내](https://www.skku.edu/skku/international/globalComm/international01.do?mode=view&articleNo=133530) — 날짜 확인필요
-- [2025학년도 1학기 Global Challenge 장학생 선발 안내](https://www.skku.edu/skku/international/globalComm/international01.do?mode=view&articleNo=123060) — 날짜 확인필요
-- [(학생인재개발팀/대학일자리플러스센터) 2024 하반기 JOB FAIR 개최(9.2(월)~9.10(화))](https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=120082) — 2024-09-02
-- [2025학년도 2학기 휴학/복학 및 재입학 신청 안내](https://www.skku.edu/skku/campus/skk_comm/notice02.do?mode=view&articleNo=128019) — 날짜 확인필요
+- [주말·공휴일 학생 및 학부모 대상 무료 주차서비스 안내](https://www.skku.edu/skku/campus/skk_comm/notice08.do) — 게시일 미상
+- [기프티콘 증정 | 대학 내 학부연구생(학부인턴)의 연구실 경험 및 진로 인식 설문조사 (~09.30)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-09-30
+- [미래산업 취업아카데미 AI 디지털마케팅 과정 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice08.do) — 게시일 미상
+- [제2회 ZYXCAD AX 경진대회 안내](https://www.skku.edu/skku/campus/skk_comm/notice08.do) — 2026-09-03
+- [릴레이 글로벌 취·창업 톡톡톡 특강 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 게시일 미상
+- [RISE 사업단 창업레지던시클럽(창업고시반) 「성창재」2기 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice05.do) — 게시일 미상
+- [물리학과 교수 「양자문명」 북토크 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 게시일 미상
+- [2025년 산업통상자원부 「창의융합형 공학인재 양성지원사업」 창의혁신 DNA-HERO 산학협력 프로젝트 팀 모집 공고](https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=126273) — 게시일 미상
+- [입찰 공고](https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=132182) — 게시일 미상
+- [[학술정보관] 슬기로운 독서생활을 위한 전자도서관(구독) 이용 안내](https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=80076) — 게시일 미상
+- [[연구기획팀] 해외 신진연구자 초빙사업 공고 안내](https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=86284) — 게시일 미상
+- [2025학년도 2학기 휴학/복학 및 재입학 신청 안내](https://www.skku.edu/skku/campus/skk_comm/notice02.do?mode=view&articleNo=128019) — 게시일 미상
