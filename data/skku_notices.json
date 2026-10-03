@@ -3157,5 +3157,50 @@
     "posted_date": "2026-09-30",
     "first_seen": "2026-10-01",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 하나금융나눔재단 국내 하나장학생 모집 (마감 10/6(화) 09:00)",
+    "site": "skku",
+    "title": "2026학년도 하나금융나눔재단 국내 하나장학생 모집 (마감 10/6(화) 09:00)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-02",
+    "first_seen": "2026-10-03",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용] 소노케어랩 의료기기 개발 담당자 채용공고",
+    "site": "skku",
+    "title": "[채용] 소노케어랩 의료기기 개발 담당자 채용공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-03",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용] 경영지원부 회계 담당자 채용공고",
+    "site": "skku",
+    "title": "[채용] 경영지원부 회계 담당자 채용공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-03",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=125629",
+    "site": "skku",
+    "title": "[인공지능혁신융합대학사업단] AICOSS 5기 서포터즈모집 안내",
+    "url": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=125629",
+    "posted_date": null,
+    "first_seen": "2026-10-03",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=104799",
+    "site": "skku",
+    "title": "성균관대학교 LINC 3.0 산학공동 기술개발과제 공모",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=104799",
+    "posted_date": null,
+    "first_seen": "2026-10-03",
+    "notified": true
   }
 ]
