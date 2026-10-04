@@ -69,7 +69,7 @@
     "url": "https://www.semi.org/ko/connect/event/spt-hands-on-2026",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-04",
     "status": "open",
     "description": "이공계 학부생 4학년(6학기 이상) 및 졸업(예정)자 대상 반도체공정 실습교육",
     "target": "이공계 학부생 4학년(6학기 이상), 2025~2026년 졸업생 (확인필요)",
@@ -1351,6 +1351,38 @@
     "last_checked": "2026-10-03",
     "status": "open",
     "source_query_group": "direct",
+    "url_verified": true
+  },
+  {
+    "id": "https://www.semi.org/ko/connect/event/spt-hands-on-packaging-2026",
+    "title": "SPT Hands-on Packaging 2026 (2차, 10월)",
+    "organizer": "SEMI Korea",
+    "category": "교육",
+    "description": "반도체 패키징 기초·중급 공정을 다루는 실무 교육과정(수원컨벤션센터)",
+    "target": "이공계 학생 및 반도체 장비·재료 업계 실무자 (확인필요)",
+    "url": "https://www.semi.org/ko/connect/event/spt-hands-on-packaging-2026",
+    "period": "2026-10-12 ~ 2026-10-14",
+    "deadline": null,
+    "first_seen": "2026-10-04",
+    "last_checked": "2026-10-04",
+    "status": "open",
+    "source_query_group": "general",
+    "url_verified": true
+  },
+  {
+    "id": "https://www.gamemeca.com/view.php?gid=502565",
+    "title": "제4회 램리서치코리아 대학(원)생 논문공모전",
+    "organizer": "램리서치코리아 (후원: 한국반도체산업협회)",
+    "category": "공모전",
+    "description": "반도체 시장동향 분석 또는 식각·박막증착·세정 공정 연구 주제의 논문 공모전",
+    "target": "전국 대학(원)생, 전공 무관 (휴학 가능 여부 확인필요)",
+    "url": "https://www.gamemeca.com/view.php?gid=502565",
+    "period": "~ 2026-10-31",
+    "deadline": "2026-10-31",
+    "first_seen": "2026-10-04",
+    "last_checked": "2026-10-04",
+    "status": "open",
+    "source_query_group": "roundup",
     "url_verified": true
   }
 ]

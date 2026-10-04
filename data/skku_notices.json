@@ -3202,5 +3202,266 @@
     "posted_date": null,
     "first_seen": "2026-10-03",
     "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026학년도 2학기 자율주행캡스톤디자인 졸업평가 일정 안내",
+    "site": "eee",
+    "title": "2026학년도 2학기 자율주행캡스톤디자인 졸업평가 일정 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-21",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026학년도 2학기 종합설계프로젝트 졸업평가 일정 안내",
+    "site": "eee",
+    "title": "2026학년도 2학기 종합설계프로젝트 졸업평가 일정 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-21",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026학년도 2학기 연구논문/작품 졸업평가 일정 안내",
+    "site": "eee",
+    "title": "2026학년도 2학기 연구논문/작품 졸업평가 일정 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-21",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#복수전공·연계전공 및 융합트랙 C/L 교과목 학점 인정과 졸업요건 안내",
+    "site": "eee",
+    "title": "복수전공·연계전공 및 융합트랙 C/L 교과목 학점 인정과 졸업요건 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-16",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026학년도 현장실습 전공적합성 확인서 제출 안내",
+    "site": "eee",
+    "title": "2026학년도 현장실습 전공적합성 확인서 제출 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-16",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#한화솔루션 케미칼부문 2026 채용설명회 안내",
+    "site": "eee",
+    "title": "한화솔루션 케미칼부문 2026 채용설명회 안내",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-09-22",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#코리아인베스트먼트증권 CEO 채용설명회 안내",
+    "site": "eee",
+    "title": "코리아인베스트먼트증권 CEO 채용설명회 안내",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-09-16",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#HD현대건설기계 2026년 하반기 신입사원 온라인 채용설명회 안내",
+    "site": "eee",
+    "title": "HD현대건설기계 2026년 하반기 신입사원 온라인 채용설명회 안내",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-09-16",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026년 하반기 현대모비스-성균관대학교 미래모빌리티 채용연계 트랙 장학생 모집",
+    "site": "eee",
+    "title": "2026년 하반기 현대모비스-성균관대학교 미래모빌리티 채용연계 트랙 장학생 모집",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#IDEC 시스템반도체 설계실무인력양성사업 13기 모집",
+    "site": "eee",
+    "title": "IDEC 시스템반도체 설계실무인력양성사업 13기 모집",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-06-18",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#현대모비스 전환형 인턴 모집 (~7/10 마감)",
+    "site": "eee",
+    "title": "현대모비스 전환형 인턴 모집 (~7/10 마감)",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-06-01",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#삼성전자 DX부문 2026 대학생 S/W 알고리즘 역량 강화 특강 안내",
+    "site": "eee",
+    "title": "삼성전자 DX부문 2026 대학생 S/W 알고리즘 역량 강화 특강 안내",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-01-16",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#IDEC 시스템반도체 설계실무인력양성사업 12기 모집",
+    "site": "eee",
+    "title": "IDEC 시스템반도체 설계실무인력양성사업 12기 모집",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-02-10",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#LG CNS 2025년 하반기 신입사원 채용",
+    "site": "eee",
+    "title": "LG CNS 2025년 하반기 신입사원 채용",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2025-09-05",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#포스코 2025년 하반기 대졸 신입사원 채용",
+    "site": "eee",
+    "title": "포스코 2025년 하반기 대졸 신입사원 채용",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2025-09-04",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#(주)소노케어랩 의료기기 하드웨어 개발 담당자 채용 공고",
+    "site": "skku",
+    "title": "(주)소노케어랩 의료기기 하드웨어 개발 담당자 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-02",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#(주)소노케어랩 경영지원부 회계 및 국가과제 관리 담당자 채용 공고",
+    "site": "skku",
+    "title": "(주)소노케어랩 경영지원부 회계 및 국가과제 관리 담당자 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-02",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 하나금융나눔재단 국내 하나장학생 모집 안내 (~10/06)",
+    "site": "skku",
+    "title": "2026학년도 하나금융나눔재단 국내 하나장학생 모집 안내 (~10/06)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-02",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 QCenter & D-Wave 양자컴퓨터 교육 및 실습 프로그램 참가자 모집",
+    "site": "skku",
+    "title": "2026 QCenter & D-Wave 양자컴퓨터 교육 및 실습 프로그램 참가자 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-02",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 일반대학원 학위과정 변경 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 일반대학원 학위과정 변경 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-02",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 자연과학기반영역(BSM) 공동시험(중간) 일정 및 장소 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 자연과학기반영역(BSM) 공동시험(중간) 일정 및 장소 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-02",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 탑골공원 학생 도슨트 프로그램 신청자 모집 안내 (~10/12)",
+    "site": "skku",
+    "title": "2026학년도 탑골공원 학생 도슨트 프로그램 신청자 모집 안내 (~10/12)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-02",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk) 특강 신청 안내",
+    "site": "skku",
+    "title": "랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk) 특강 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-29",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 건학기념제 ESKARA: 초록의 파도 행사 안내",
+    "site": "skku",
+    "title": "2026학년도 건학기념제 ESKARA: 초록의 파도 행사 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-29",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#제39회 학생성공스토리 특강: \"창업을 배우고 도전을 만나다\"",
+    "site": "skku",
+    "title": "제39회 학생성공스토리 특강: \"창업을 배우고 도전을 만나다\"",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09-29",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 국가근로장학사업 희망근로지 신청 안내 (08.13~08.19)",
+    "site": "skku",
+    "title": "2026학년도 2학기 국가근로장학사업 희망근로지 신청 안내 (08.13~08.19)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-13",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 교내 성균가족 장학금 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 교내 성균가족 장학금 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-07-20",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 교내 국가유공자(자녀) 장학금 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 교내 국가유공자(자녀) 장학금 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-07-20",
+    "first_seen": "2026-10-04",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 교내 학생성공-투게더장학금 신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 교내 학생성공-투게더장학금 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-07-20",
+    "first_seen": "2026-10-04",
+    "notified": true
   }
 ]
