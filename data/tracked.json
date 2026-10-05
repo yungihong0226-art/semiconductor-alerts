@@ -116,12 +116,13 @@
     "url": "https://bootcamp.doowon.ac.kr/schedule/bootSchedule.do",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-05",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
     "period": null,
-    "source_query_group": "general"
+    "source_query_group": "general",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://ee.hongik.ac.kr/ee/0501.do?articleno=152405",
@@ -309,8 +310,9 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-10-03",
-    "status": "open"
+    "last_checked": "2026-10-05",
+    "status": "open",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://academy.idec.or.kr/track/apply/view/?no=7",
@@ -567,9 +569,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-05",
     "status": "open",
-    "source_query_group": "institution"
+    "source_query_group": "institution",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://gradsemi.postech.ac.kr/notice/포스텍-삼성전자-반도체-교육-프로그램psep-2026년-상반기/",
@@ -705,10 +708,11 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-05",
     "status": "open",
     "source_query_group": "school",
-    "url_verified": true
+    "url_verified": true,
+    "url_fix_attempts": 1
   },
   {
     "id": "https://linkareer.com/activity/339204",
@@ -1047,9 +1051,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-05",
     "status": "open",
-    "source_query_group": "general"
+    "source_query_group": "general",
+    "url_fix_attempts": 1
   },
   {
     "id": "https://academy.idec.or.kr/boards/recruitb/view/?no=351",
@@ -1384,5 +1389,20 @@
     "status": "open",
     "source_query_group": "roundup",
     "url_verified": true
+  },
+  {
+    "id": "https://www.theteams.kr/activities/page/334310/lc",
+    "title": "2026 COSS 차세대반도체 Microcontroller(MCU) 응용경진대회",
+    "organizer": "차세대반도체 혁신융합대학사업단(COSS)",
+    "category": "공모전",
+    "url": "https://www.theteams.kr/activities/page/334310/lc",
+    "deadline": "2026-11-21",
+    "first_seen": "2026-10-05",
+    "last_checked": "2026-10-05",
+    "status": "open",
+    "description": "AVR/STM32/RP2040 MCU로 실생활 시스템 설계·제작하는 경진대회",
+    "target": "전국 대학교 학부생 (휴학생·대학원생 제외)",
+    "period": "2026-07-08 ~ 2026-11-21",
+    "source_query_group": "general"
   }
 ]
