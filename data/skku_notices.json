@@ -3471,7 +3471,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-10-02",
     "first_seen": "2026-10-05",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[학사][창의품/FYE] 2026학년도 2학기 인성함양 실천프로그램 흥인, 돈의, 숭례, 홍지 온라인 시행",
@@ -3480,7 +3480,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-10-02",
     "first_seen": "2026-10-05",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[행사/세미나] 2026-2학기 의료 인공지능 특화 융합인재 양성 사업 참여 학생 모집 설명회 개최 및 참가 신청 안내",
@@ -3489,6 +3489,6 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-10-03",
     "first_seen": "2026-10-05",
-    "notified": false
+    "notified": true
   }
 ]
