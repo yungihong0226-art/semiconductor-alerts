@@ -817,8 +817,9 @@
     "deadline": "2026-10-08",
     "source_query_group": "school",
     "first_seen": "2026-09-11",
-    "last_checked": "2026-10-03",
-    "status": "open"
+    "last_checked": "2026-10-06",
+    "status": "open",
+    "url_verified": true
   },
   {
     "id": "https://www.jobkorea.co.kr/Recruit/GI_Read/47645218",
@@ -1241,7 +1242,7 @@
     "period": "2026-09-21 ~ 2026-10-16",
     "deadline": "2026-10-16",
     "first_seen": "2026-09-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-06",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1385,7 +1386,7 @@
     "period": "~ 2026-10-31",
     "deadline": "2026-10-31",
     "first_seen": "2026-10-04",
-    "last_checked": "2026-10-04",
+    "last_checked": "2026-10-06",
     "status": "open",
     "source_query_group": "roundup",
     "url_verified": true
@@ -1404,5 +1405,21 @@
     "target": "전국 대학교 학부생 (휴학생·대학원생 제외)",
     "period": "2026-07-08 ~ 2026-11-21",
     "source_query_group": "general"
+  },
+  {
+    "id": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=112",
+    "title": "서울대학교 반도체 장비 전기 안전 실무편(심화)",
+    "organizer": "한국반도체산업협회(KSIA) / 서울대학교 반도체인프라활용현장인력양성사업",
+    "category": "교육",
+    "description": "반도체 장비 전기안전 심화 실무교육, 재직자 대상 모집중(15/70명)",
+    "target": "반도체 장비 전기안전 관련 업무 재직자 (심화과정)",
+    "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=112",
+    "period": "2026-09-28 ~ 2026-10-08",
+    "deadline": "2026-10-08",
+    "first_seen": "2026-10-06",
+    "last_checked": "2026-10-06",
+    "status": "open",
+    "source_query_group": "direct",
+    "url_verified": true
   }
 ]
