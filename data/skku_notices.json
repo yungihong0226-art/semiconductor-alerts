@@ -3742,5 +3742,59 @@
     "posted_date": null,
     "first_seen": "2026-10-06",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#전자전기공학부 자체계약직원 채용 공고 (~10/12(월) 12:00 마감)",
+    "site": "skku",
+    "title": "전자전기공학부 자체계약직원 채용 공고 (~10/12(월) 12:00 마감)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-06",
+    "first_seen": "2026-10-07",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 공학페스티벌 공대생 심사위원단 모집 (~10/21(수))",
+    "site": "skku",
+    "title": "2026 공학페스티벌 공대생 심사위원단 모집 (~10/21(수))",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-06",
+    "first_seen": "2026-10-07",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2026학년도 벽송회장학금 장학생 선발안내 (~10/9(금) 17:00 마감)",
+    "site": "skku",
+    "title": "2026학년도 벽송회장학금 장학생 선발안내 (~10/9(금) 17:00 마감)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": null,
+    "first_seen": "2026-10-07",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2027학년도 1학기 신(新)대학원우수장학금 선발 안내 (추천서 접수 9/23~10/13)",
+    "site": "skku",
+    "title": "2027학년도 1학기 신(新)대학원우수장학금 선발 안내 (추천서 접수 9/23~10/13)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": null,
+    "first_seen": "2026-10-07",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2026학년도 2학기 일반대학원 가계곤란장학금 '명현 장학금' (신청기간 9/15~10/2, 400만원)",
+    "site": "skku",
+    "title": "2026학년도 2학기 일반대학원 가계곤란장학금 '명현 장학금' (신청기간 9/15~10/2, 400만원)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": null,
+    "first_seen": "2026-10-07",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 하반기 졸업선배 릴레이 특강 (삼성전자·우리카드 참여)",
+    "site": "skku",
+    "title": "2026 하반기 졸업선배 릴레이 특강 (삼성전자·우리카드 참여)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-06",
+    "first_seen": "2026-10-07",
+    "notified": true
   }
 ]

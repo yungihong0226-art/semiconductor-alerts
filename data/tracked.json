@@ -37,7 +37,7 @@
     "url": "https://cs.dongguk.edu/article/notice/detail/1375",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -54,7 +54,7 @@
     "url": "https://bootcamp.inhatc.ac.kr/bbs/bootcamp/530/107491/artclView.do",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -69,7 +69,7 @@
     "url": "https://www.semi.org/ko/connect/event/spt-hands-on-2026",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-10-04",
+    "last_checked": "2026-10-07",
     "status": "open",
     "description": "이공계 학부생 4학년(6학기 이상) 및 졸업(예정)자 대상 반도체공정 실습교육",
     "target": "이공계 학부생 4학년(6학기 이상), 2025~2026년 졸업생 (확인필요)",
@@ -116,7 +116,7 @@
     "url": "https://bootcamp.doowon.ac.kr/schedule/bootSchedule.do",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-10-05",
+    "last_checked": "2026-10-07",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -132,7 +132,7 @@
     "url": "https://ee.hongik.ac.kr/ee/0501.do?mode=view&articleNo=152405",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
@@ -147,7 +147,7 @@
     "url": "https://www.doowon.ac.kr/bbs/kr/17/8616/artclView.do",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "description": "팹리스 SoC 반도체설계 분야 미래기술학교 교육생 모집",
     "target": "확인필요",
@@ -166,7 +166,7 @@
     "period": "사전등록 2026-09-07 ~ 2026-10-09, 교육 2026-10-20~22",
     "deadline": "2026-10-09",
     "first_seen": "2026-08-25",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general",
     "url_fix_attempts": 1,
@@ -183,7 +183,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-27",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general",
     "url_fix_attempts": 1,
@@ -200,7 +200,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-27",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general",
     "url_fix_attempts": 1,
@@ -249,7 +249,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-29",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general"
   },
@@ -264,7 +264,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-08-29",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general"
   },
@@ -280,7 +280,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open"
   },
   {
@@ -295,7 +295,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open"
   },
   {
@@ -310,7 +310,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-10-05",
+    "last_checked": "2026-10-07",
     "status": "open",
     "url_fix_attempts": 1
   },
@@ -341,7 +341,7 @@
     "deadline": null,
     "source_query_group": "direct",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open"
   },
   {
@@ -356,7 +356,7 @@
     "deadline": "2026-12-31",
     "source_query_group": "institution",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open"
   },
   {
@@ -385,7 +385,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-03",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -447,7 +447,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -462,7 +462,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -477,7 +477,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -492,7 +492,7 @@
     "period": "직무훈련 2026년 10~11월(평일), 현직자 특강 토요일",
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -507,7 +507,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-06",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -569,7 +569,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-05",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "institution",
     "url_fix_attempts": 1
@@ -585,7 +585,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -600,7 +600,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "institution",
     "url_verified": true
@@ -616,7 +616,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -631,7 +631,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -646,7 +646,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general"
   },
@@ -661,7 +661,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -676,7 +676,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator"
   },
@@ -708,7 +708,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-05",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "school",
     "url_verified": true,
@@ -725,7 +725,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general"
   },
@@ -771,7 +771,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -801,7 +801,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-10",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -817,7 +817,7 @@
     "deadline": "2026-10-08",
     "source_query_group": "school",
     "first_seen": "2026-09-11",
-    "last_checked": "2026-10-06",
+    "last_checked": "2026-10-07",
     "status": "open",
     "url_verified": true
   },
@@ -844,7 +844,7 @@
     "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=129",
     "deadline": "2026-10-08",
     "first_seen": "2026-09-12",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "description": "반도체 공정 실습 등 현장 실무 인력양성을 위한 예비취업자 대상 교육과정",
     "target": "예비취업자(대학생·졸업예정자 추정, 확인필요)",
@@ -926,7 +926,7 @@
     "period": "2026-10-14 ~ 2026-11-10",
     "deadline": null,
     "first_seen": "2026-09-13",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general"
   },
@@ -941,7 +941,7 @@
     "period": "2026-01-01 ~ 2028-12-31",
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "institution"
   },
@@ -956,7 +956,7 @@
     "period": "2026-04 ~ 2027-02 (활동기간, 모집마감일 확인필요)",
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general"
   },
@@ -971,7 +971,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "school"
   },
@@ -986,7 +986,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "roundup"
   },
@@ -1035,7 +1035,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "institution",
     "url_fix_attempts": 2,
@@ -1052,7 +1052,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_checked": "2026-10-05",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general",
     "url_fix_attempts": 1
@@ -1068,7 +1068,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-16",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "direct"
   },
@@ -1115,7 +1115,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-20",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "roundup"
   },
@@ -1130,7 +1130,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-21",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general",
     "url_verified": true
@@ -1146,7 +1146,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-23",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "school",
     "url_verified": true
@@ -1162,7 +1162,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-23",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "school",
     "url_verified": true
@@ -1178,7 +1178,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1194,7 +1194,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1210,7 +1210,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1226,7 +1226,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1242,7 +1242,7 @@
     "period": "2026-09-21 ~ 2026-10-16",
     "deadline": "2026-10-16",
     "first_seen": "2026-09-24",
-    "last_checked": "2026-10-06",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1258,7 +1258,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1274,7 +1274,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1290,7 +1290,7 @@
     "deadline": null,
     "id": "https://www.theise.org/?kboard_id=20&mod=document&uid=786",
     "first_seen": "2026-09-25",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "institution",
     "url_verified": true
@@ -1322,7 +1322,7 @@
     "period": "~2026-10-20 접수",
     "deadline": "2026-10-20",
     "first_seen": "2026-09-30",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general",
     "url_verified": true
@@ -1338,7 +1338,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1354,7 +1354,7 @@
     "period": null,
     "deadline": "2026-11-04",
     "first_seen": "2026-10-02",
-    "last_checked": "2026-10-03",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "direct",
     "url_verified": true
@@ -1370,7 +1370,7 @@
     "period": "2026-10-12 ~ 2026-10-14",
     "deadline": null,
     "first_seen": "2026-10-04",
-    "last_checked": "2026-10-04",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "general",
     "url_verified": true
@@ -1386,7 +1386,7 @@
     "period": "~ 2026-10-31",
     "deadline": "2026-10-31",
     "first_seen": "2026-10-04",
-    "last_checked": "2026-10-06",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "roundup",
     "url_verified": true
@@ -1399,7 +1399,7 @@
     "url": "https://www.theteams.kr/activities/page/334310/lc",
     "deadline": "2026-11-21",
     "first_seen": "2026-10-05",
-    "last_checked": "2026-10-05",
+    "last_checked": "2026-10-07",
     "status": "open",
     "description": "AVR/STM32/RP2040 MCU로 실생활 시스템 설계·제작하는 경진대회",
     "target": "전국 대학교 학부생 (휴학생·대학원생 제외)",
@@ -1417,7 +1417,7 @@
     "period": "2026-09-28 ~ 2026-10-08",
     "deadline": "2026-10-08",
     "first_seen": "2026-10-06",
-    "last_checked": "2026-10-06",
+    "last_checked": "2026-10-07",
     "status": "open",
     "source_query_group": "direct",
     "url_verified": true
