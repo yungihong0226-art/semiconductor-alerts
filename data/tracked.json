@@ -116,13 +116,13 @@
     "url": "https://bootcamp.doowon.ac.kr/schedule/bootSchedule.do",
     "deadline": null,
     "first_seen": "2026-08-24",
-    "last_checked": "2026-10-07",
+    "last_checked": "2026-10-08",
     "status": "open",
     "description": "확인필요",
     "target": "확인필요",
     "period": null,
     "source_query_group": "general",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 2
   },
   {
     "id": "https://ee.hongik.ac.kr/ee/0501.do?articleno=152405",
@@ -1052,10 +1052,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_checked": "2026-10-07",
+    "last_checked": "2026-10-08",
     "status": "open",
     "source_query_group": "general",
-    "url_fix_attempts": 1
+    "url_fix_attempts": 2
   },
   {
     "id": "https://academy.idec.or.kr/boards/recruitb/view/?no=351",
@@ -1418,6 +1418,22 @@
     "deadline": "2026-10-08",
     "first_seen": "2026-10-06",
     "last_checked": "2026-10-07",
+    "status": "open",
+    "source_query_group": "direct",
+    "url_verified": true
+  },
+  {
+    "id": "https://www.idec.or.kr/edu/apply/view/?campus=%ED%95%9C%EC%96%91%EB%8C%80&no=954",
+    "title": "IDEC 한양대 캠퍼스 단기강의: 디스플레이 회로설계 기초",
+    "organizer": "KAIST IDEC(반도체설계교육센터) / 한양대학교",
+    "category": "교육",
+    "description": "반도체 회로설계 기초를 다루는 IDEC 한양대 캠퍼스 단기 대면 강의, 신청중",
+    "target": "석박사과정 우선이나 제한 없이 신청 가능(학부생 포함 추정, 확인필요)",
+    "url": "https://www.idec.or.kr/edu/apply/view/?campus=%ED%95%9C%EC%96%91%EB%8C%80&no=954",
+    "period": "신청 2026-10-03 ~ 2026-10-18, 교육 2026-10-20 ~ 2026-10-22",
+    "deadline": "2026-10-18",
+    "first_seen": "2026-10-08",
+    "last_checked": "2026-10-08",
     "status": "open",
     "source_query_group": "direct",
     "url_verified": true
