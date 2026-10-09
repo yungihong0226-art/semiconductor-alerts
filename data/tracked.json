@@ -817,8 +817,8 @@
     "deadline": "2026-10-08",
     "source_query_group": "school",
     "first_seen": "2026-09-11",
-    "last_checked": "2026-10-07",
-    "status": "open",
+    "last_checked": "2026-10-09",
+    "status": "closed",
     "url_verified": true
   },
   {
@@ -844,8 +844,8 @@
     "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=001&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0039&WO_SEQ=129",
     "deadline": "2026-10-08",
     "first_seen": "2026-09-12",
-    "last_checked": "2026-10-07",
-    "status": "open",
+    "last_checked": "2026-10-09",
+    "status": "closed",
     "description": "반도체 공정 실습 등 현장 실무 인력양성을 위한 예비취업자 대상 교육과정",
     "target": "예비취업자(대학생·졸업예정자 추정, 확인필요)",
     "period": "2026-09-01 ~ 2026-10-08",
@@ -1417,8 +1417,8 @@
     "period": "2026-09-28 ~ 2026-10-08",
     "deadline": "2026-10-08",
     "first_seen": "2026-10-06",
-    "last_checked": "2026-10-07",
-    "status": "open",
+    "last_checked": "2026-10-09",
+    "status": "closed",
     "source_query_group": "direct",
     "url_verified": true
   },
@@ -1437,5 +1437,37 @@
     "status": "open",
     "source_query_group": "direct",
     "url_verified": true
+  },
+  {
+    "title": "LX세미콘 반도체 설계평가 체험형 인턴 채용 (서울)",
+    "organizer": "LX세미콘",
+    "category": "인턴십",
+    "description": "LX세미콘 반도체 설계평가 분야 체험형 인턴 채용 공고",
+    "target": "확인필요",
+    "url": "https://lx.recruiter.co.kr/career/jobs/129561",
+    "period": null,
+    "deadline": "2026-10-12",
+    "source_query_group": "school",
+    "url_verified": true,
+    "id": "https://lx.recruiter.co.kr/career/jobs/129561",
+    "first_seen": "2026-10-09",
+    "last_checked": "2026-10-09",
+    "status": "open"
+  },
+  {
+    "title": "도쿄일렉트론코리아 2026년 하반기 채용연계형 인턴/경력사원 채용",
+    "organizer": "도쿄일렉트론코리아(TEL Korea)",
+    "category": "인턴십",
+    "description": "반도체 장비기업의 채용연계형 인턴 및 경력사원 상시 모집",
+    "target": "이공계 전공자 등, 직무별 상이(확인필요)",
+    "url": "https://linkareer.com/activity/354839",
+    "period": "2026-10-05 ~ 2026-10-18",
+    "deadline": "2026-10-18",
+    "source_query_group": "aggregator",
+    "url_verified": true,
+    "id": "https://linkareer.com/activity/354839",
+    "first_seen": "2026-10-09",
+    "last_checked": "2026-10-09",
+    "status": "open"
   }
 ]
