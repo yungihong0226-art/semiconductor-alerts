@@ -4147,5 +4147,32 @@
     "posted_date": "2026-10-07",
     "first_seen": "2026-10-09",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[성균관대학교 청정에너지ICT연구소] 이공계열 석사졸업이상 연구원 모집(1명)",
+    "site": "skku",
+    "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 석사졸업이상 연구원 모집(1명)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-10",
+    "first_seen": "2026-10-11",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[성균관대학교 청정에너지ICT연구소] 이공계열 박사 후 연구원 모집(2명 이상)",
+    "site": "skku",
+    "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 박사 후 연구원 모집(2명 이상)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-10",
+    "first_seen": "2026-10-11",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#정보통신대학 전자전기공학부 행정직원(연구원) 모집_(~10/12(월))",
+    "site": "skku",
+    "title": "정보통신대학 전자전기공학부 행정직원(연구원) 모집_(~10/12(월))",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-11",
+    "notified": true
   }
 ]
