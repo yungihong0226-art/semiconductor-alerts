@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://eee.skku.edu/eee/notice.do#학부-대학원 연계과정 신청 안내",
-    "site": "eee",
-    "title": "학부-대학원 연계과정 신청 안내",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": "2026-06-02",
-    "first_seen": "2026-08-25",
-    "notified": true
-  },
-  {
     "id": "https://eee.skku.edu/eee/notice.do#전자전기공학부, 교육부 '첨단산업 인재양성 부트캠프' AI 분야 사업 선정",
     "site": "eee",
     "title": "전자전기공학부, 교육부 '첨단산업 인재양성 부트캠프' AI 분야 사업 선정",
@@ -4173,6 +4164,339 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-10-11",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[장학] 사임당장학금 신청 안내 (~10/19(금) 15:00)",
+    "site": "eee",
+    "title": "[장학] 사임당장학금 신청 안내 (~10/19(금) 15:00)",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-21",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[필독-전자전기공학부] 2026-2학기 졸업평가 안내",
+    "site": "eee",
+    "title": "[필독-전자전기공학부] 2026-2학기 졸업평가 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-16",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026-2학기 전자전기공학부 자율주행캡스톤디자인 졸업평가 일정",
+    "site": "eee",
+    "title": "2026-2학기 전자전기공학부 자율주행캡스톤디자인 졸업평가 일정",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-21",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026-2학기 전자전기공학부 종합설계프로젝트 졸업평가 일정",
+    "site": "eee",
+    "title": "2026-2학기 전자전기공학부 종합설계프로젝트 졸업평가 일정",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-21",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026-2학기 전자전기공학부 연구논문/작품 졸업평가 일정",
+    "site": "eee",
+    "title": "2026-2학기 전자전기공학부 연구논문/작품 졸업평가 일정",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-21",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[학사] 복수·연계전공, 융합트랙 C/L 교과목 학점 인정 및 졸업 요건 안내",
+    "site": "eee",
+    "title": "[학사] 복수·연계전공, 융합트랙 C/L 교과목 학점 인정 및 졸업 요건 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-16",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[학사] 2026학년도 현장실습 전공적합성 확인서 제출 안내",
+    "site": "eee",
+    "title": "[학사] 2026학년도 현장실습 전공적합성 확인서 제출 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-16",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[장학] 2026년 하반기 현대모비스-성균관대학교 미래모빌리티 채용연계 트랙 장학생 모집 (No.337)",
+    "site": "eee",
+    "title": "[장학] 2026년 하반기 현대모비스-성균관대학교 미래모빌리티 채용연계 트랙 장학생 모집 (No.337)",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[장학] (필독) 장학금 추천서 작성 및 날인 요청 절차 안내",
+    "site": "eee",
+    "title": "[장학] (필독) 장학금 추천서 작성 및 날인 요청 절차 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#『2027 경기도 대학생 자율주행 경진대회』 공고 및 신청 안내 (~10/5 17시)",
+    "site": "eee",
+    "title": "『2027 경기도 대학생 자율주행 경진대회』 공고 및 신청 안내 (~10/5 17시)",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-09-23",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_total.do#[취업][학생인재개발팀/대학일자리플러스센터](자과캠) 한화솔루션 케미칼부문 2026년 채용 설명회",
+    "site": "eee",
+    "title": "[취업][학생인재개발팀/대학일자리플러스센터](자과캠) 한화솔루션 케미칼부문 2026년 채용 설명회",
+    "url": "https://eee.skku.edu/eee/notice_total.do",
+    "posted_date": "2026-09-22",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_total.do#2026 한국투자증권 CEO 채용설명회",
+    "site": "eee",
+    "title": "2026 한국투자증권 CEO 채용설명회",
+    "url": "https://eee.skku.edu/eee/notice_total.do",
+    "posted_date": "2026-09-16",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#한화에너지 채용 공고",
+    "site": "eee",
+    "title": "한화에너지 채용 공고",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-09-02",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#현대HD 건설기계 채용설명회 안내",
+    "site": "eee",
+    "title": "현대HD 건설기계 채용설명회 안내",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": "2026-09-16",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#KT&G 2026년 하반기 신입/경력 공채 (서류마감 8/26)",
+    "site": "eee",
+    "title": "KT&G 2026년 하반기 신입/경력 공채 (서류마감 8/26)",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": null,
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_total.do#지역인재 공무직 채용시험 변경 공지 (No.3005)",
+    "site": "eee",
+    "title": "지역인재 공무직 채용시험 변경 공지 (No.3005)",
+    "url": "https://eee.skku.edu/eee/notice_total.do",
+    "posted_date": "2026-09-30",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_total.do#하반기 AI 취업 지원 서비스(NAIM) 안내",
+    "site": "eee",
+    "title": "하반기 AI 취업 지원 서비스(NAIM) 안내",
+    "url": "https://eee.skku.edu/eee/notice_total.do",
+    "posted_date": "2026-09-29",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_total.do#학생성공센터 교수멘토링 프로그램 안내",
+    "site": "eee",
+    "title": "학생성공센터 교수멘토링 프로그램 안내",
+    "url": "https://eee.skku.edu/eee/notice_total.do",
+    "posted_date": "2026-09-30",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_total.do#2026학년도 2학기 대학원 한마당 안내",
+    "site": "eee",
+    "title": "2026학년도 2학기 대학원 한마당 안내",
+    "url": "https://eee.skku.edu/eee/notice_total.do",
+    "posted_date": "2026-09-29",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집][인공지능혁신융합대학사업단] 2026년 10월 전문가 특강 안내",
+    "site": "skku",
+    "title": "[채용/모집][인공지능혁신융합대학사업단] 2026년 10월 전문가 특강 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집][성균관대학교 청정에너지ICT연구소] 이공계열 박사후연구원 모집(2명 이상)",
+    "site": "skku",
+    "title": "[채용/모집][성균관대학교 청정에너지ICT연구소] 이공계열 박사후연구원 모집(2명 이상)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-10",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집][성균관대학교 청정에너지ICT연구소] 이공계열 석사졸업이상 연구원 모집(1명)",
+    "site": "skku",
+    "title": "[채용/모집][성균관대학교 청정에너지ICT연구소] 이공계열 석사졸업이상 연구원 모집(1명)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-10",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 하반기 교직원(정규직) 신규채용 서류전형 결과 및 필기전형 안내",
+    "site": "skku",
+    "title": "2026 하반기 교직원(정규직) 신규채용 서류전형 결과 및 필기전형 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-06",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 구름톤 아레나 참가자 모집 안내",
+    "site": "skku",
+    "title": "2026 구름톤 아레나 참가자 모집 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[입학] AI응용공학과(일반대학원) 2027학년도 전기 대학원 신입생 모집",
+    "site": "skku",
+    "title": "[입학] AI응용공학과(일반대학원) 2027학년도 전기 대학원 신입생 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-07",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[행사/세미나] 스웨덴 왕립과학한림원 원장 특별 강연 안내 (10/30(금) 14:00)",
+    "site": "skku",
+    "title": "[행사/세미나] 스웨덴 왕립과학한림원 원장 특별 강연 안내 (10/30(금) 14:00)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-07",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[행사/세미나] 2026 미래형자동차 인재페스티벌(미래차 부트캠프 라운드업 연계) 개최 및 사전 신청안내 (~10/11)",
+    "site": "skku",
+    "title": "[행사/세미나] 2026 미래형자동차 인재페스티벌(미래차 부트캠프 라운드업 연계) 개최 및 사전 신청안내 (~10/11)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-07",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#풀브라이트 미국유학/연구 장학금 설명회 안내 (11/6(금) 14:00, 건국대)",
+    "site": "skku",
+    "title": "풀브라이트 미국유학/연구 장학금 설명회 안내 (11/6(금) 14:00, 건국대)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-08",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[교수학습혁신센터] 제2회 AI in Higher Education 컨퍼런스 참여 안내",
+    "site": "skku",
+    "title": "[교수학습혁신센터] 제2회 AI in Higher Education 컨퍼런스 참여 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 SKKU 프리 텍스코어(10/13~14) 참가자 모집 (라마다 호텔 수원, 총상금 350만원)",
+    "site": "skku",
+    "title": "2026 SKKU 프리 텍스코어(10/13~14) 참가자 모집 (라마다 호텔 수원, 총상금 350만원)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-08",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#학생성공센터행정실 촉탁직원 채용 공고",
+    "site": "skku",
+    "title": "학생성공센터행정실 촉탁직원 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-06",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#학생인재개발팀 자체계약직 채용 공고",
+    "site": "skku",
+    "title": "학생인재개발팀 자체계약직 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-06",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#문화예술미디어융합원 계약직 연구원 채용 공고",
+    "site": "skku",
+    "title": "문화예술미디어융합원 계약직 연구원 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-08",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#BK21 대학원혁신센터 행정직원 채용 공고",
+    "site": "skku",
+    "title": "BK21 대학원혁신센터 행정직원 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-08",
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#정보통신대학 전자전기공학부 행정직원(연구원) 모집 (마감 10/12)",
+    "site": "skku",
+    "title": "정보통신대학 전자전기공학부 행정직원(연구원) 모집 (마감 10/12)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#인공지능 플러스 K건설인프라 레질리언스 연구센터(ERC) 행정직원 모집 (마감 10/13)",
+    "site": "skku",
+    "title": "인공지능 플러스 K건설인프라 레질리언스 연구센터(ERC) 행정직원 모집 (마감 10/13)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-12",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#교육대학원 행정보조원 모집 (마감 10/14)",
+    "site": "skku",
+    "title": "교육대학원 행정보조원 모집 (마감 10/14)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-12",
     "notified": true
   }
 ]
