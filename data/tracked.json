@@ -1488,5 +1488,37 @@
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
+  },
+  {
+    "id": "https://academy.ksia.or.kr/lecture/offline/detail/420",
+    "title": "공정 시뮬레이터를 활용한 AI 반도체 공정 설계 교육",
+    "organizer": "한국반도체산업협회(한국반도체아카데미)",
+    "category": "교육",
+    "description": "AI 반도체 공정 설계 오프라인 교육, 서류선발로 수강생 모집",
+    "target": "확인필요(서류선발, 미취업자·취업준비생 대상 추정)",
+    "url": "https://academy.ksia.or.kr/lecture/offline/detail/420",
+    "period": "2026-10-08 ~ 2026-10-21",
+    "deadline": "2026-10-21",
+    "url_verified": true,
+    "source_query_group": "direct",
+    "first_seen": "2026-10-15",
+    "last_checked": "2026-10-15",
+    "status": "open"
+  },
+  {
+    "id": "https://www.theteams.kr/activities/page/339627/le",
+    "title": "2026년 과학기술 역량 강화 온라인 교육 (반도체 등 50개 과정)",
+    "organizer": "WISET(한국여성과학기술인육성재단)",
+    "category": "교육",
+    "description": "AI·데이터·반도체 등 50개 분야 온라인 VOD 교육, 신청 10/31까지",
+    "target": "과학기술분야 미취업자 중심 (여성 대상 프로그램일 가능성, 확인필요)",
+    "url": "https://www.theteams.kr/activities/page/339627/le",
+    "period": "~ 2026-10-31",
+    "deadline": "2026-10-31",
+    "url_verified": true,
+    "source_query_group": "general",
+    "first_seen": "2026-10-15",
+    "last_checked": "2026-10-15",
+    "status": "open"
   }
 ]
