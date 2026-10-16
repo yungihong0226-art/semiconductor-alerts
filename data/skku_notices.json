@@ -1,68 +1,5 @@
 [
   {
-    "id": "https://eee.skku.edu/eee/notice.do#현대모비스 26년 6월 채용전환형 인턴채용 (~7/10(금) 11:00)",
-    "site": "eee",
-    "title": "현대모비스 26년 6월 채용전환형 인턴채용 (~7/10(금) 11:00)",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#삼성메디슨 2025 하반기 3급 신입사원 채용",
-    "site": "eee",
-    "title": "삼성메디슨 2025 하반기 3급 신입사원 채용",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#LIG넥스원 임베디드SW 스쿨 3기 모집",
-    "site": "eee",
-    "title": "LIG넥스원 임베디드SW 스쿨 3기 모집",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#대학원 논문작성 역량 증진 프로그램 특강 신청 안내 (학생성공센터)",
-    "site": "eee",
-    "title": "대학원 논문작성 역량 증진 프로그램 특강 신청 안내 (학생성공센터)",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#융합연구학점제 성과보고회 및 우수 연구팀 발표",
-    "site": "eee",
-    "title": "융합연구학점제 성과보고회 및 우수 연구팀 발표",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=131774",
-    "site": "skku",
-    "title": "2026학년도 수강신청 일정 안내",
-    "url": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=131774",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 추가등록 안내 (8/31~9/4)",
-    "site": "skku",
-    "title": "2026학년도 2학기 추가등록 안내 (8/31~9/4)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 수강신청 확인/변경 안내 (8/31~9/5)",
     "site": "skku",
     "title": "2026학년도 2학기 수강신청 확인/변경 안내 (8/31~9/5)",
@@ -4497,6 +4434,69 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
     "posted_date": null,
     "first_seen": "2026-10-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#외국인유학생지원팀 관련 촉탁직원 채용 공고",
+    "site": "skku",
+    "title": "외국인유학생지원팀 관련 촉탁직원 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-16",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#외대부고캠프 대학생 멘토 모집",
+    "site": "skku",
+    "title": "외대부고캠프 대학생 멘토 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-16",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집][3D융합산업협회] 현대자동차와 함께하는 직무설명회 개최 안내 (사전신청 ~10/7(수))",
+    "site": "skku",
+    "title": "[채용/모집][3D융합산업협회] 현대자동차와 함께하는 직무설명회 개최 안내 (사전신청 ~10/7(수))",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09",
+    "first_seen": "2026-10-16",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[학생인재개발팀/대학일자리플러스센터] 삼양그룹 임원 설명회",
+    "site": "skku",
+    "title": "[학생인재개발팀/대학일자리플러스센터] 삼양그룹 임원 설명회",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09",
+    "first_seen": "2026-10-16",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[공지] 장학생 추천서 총장 직인 날인 신청 안내 (GLS 신청)",
+    "site": "skku",
+    "title": "[공지] 장학생 추천서 총장 직인 날인 신청 안내 (GLS 신청)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09",
+    "first_seen": "2026-10-16",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[공통] 장학금 수혜계좌 등록 안내",
+    "site": "skku",
+    "title": "[공통] 장학금 수혜계좌 등록 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-09",
+    "first_seen": "2026-10-16",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[한국장학재단] 2026학년도 2학기 주거안정장학금 지원 자체기준 안내",
+    "site": "skku",
+    "title": "[한국장학재단] 2026학년도 2학기 주거안정장학금 지원 자체기준 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-08-14",
+    "first_seen": "2026-10-16",
     "notified": true
   }
 ]
