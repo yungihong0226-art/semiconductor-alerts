@@ -4479,7 +4479,7 @@
     "url": "https://eee.skku.edu/eee/notice.do",
     "posted_date": "2026-10-16",
     "first_seen": "2026-10-17",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://eee.skku.edu/eee/notice.do#[ABEEK] 공학교육인증(ABEEK) 이수를 위한 학점 취득 인정 심사 신청 안내",
@@ -4488,7 +4488,7 @@
     "url": "https://eee.skku.edu/eee/notice.do",
     "posted_date": "2026-10-16",
     "first_seen": "2026-10-17",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#(대학원)2026년도 동진장학연구재단 동진장학금 선발 안내",
@@ -4497,6 +4497,6 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-10-14",
     "first_seen": "2026-10-17",
-    "notified": false
+    "notified": true
   }
 ]
