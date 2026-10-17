@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 수강신청 확인/변경 안내 (8/31~9/5)",
-    "site": "skku",
-    "title": "2026학년도 2학기 수강신청 확인/변경 안내 (8/31~9/5)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 대계열 재외국민 및 외국인학생 학과진입 안내",
-    "site": "skku",
-    "title": "2026학년도 2학기 대계열 재외국민 및 외국인학생 학과진입 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": "2026-06-08",
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 융합연구학점제(URP Ⅲ형) 시행 안내 (신청 ~5/25)",
-    "site": "skku",
-    "title": "2026학년도 2학기 융합연구학점제(URP Ⅲ형) 시행 안내 (신청 ~5/25)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 캠퍼스 교차수강생(고명북, 창융디)을 위한 인-자 셔틀버스 운영 안내",
     "site": "skku",
     "title": "2026학년도 2학기 캠퍼스 교차수강생(고명북, 창융디)을 위한 인-자 셔틀버스 운영 안내",
@@ -4498,5 +4471,32 @@
     "posted_date": "2026-08-14",
     "first_seen": "2026-10-16",
     "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[ABEEK] 전자전기공학부 학번별 공학교육인증(ABEEK) 이수 기준 안내",
+    "site": "eee",
+    "title": "[ABEEK] 전자전기공학부 학번별 공학교육인증(ABEEK) 이수 기준 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "notified": false
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[ABEEK] 공학교육인증(ABEEK) 이수를 위한 학점 취득 인정 심사 신청 안내",
+    "site": "eee",
+    "title": "[ABEEK] 공학교육인증(ABEEK) 이수를 위한 학점 취득 인정 심사 신청 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#(대학원)2026년도 동진장학연구재단 동진장학금 선발 안내",
+    "site": "skku",
+    "title": "(대학원)2026년도 동진장학연구재단 동진장학금 선발 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-14",
+    "first_seen": "2026-10-17",
+    "notified": false
   }
 ]
