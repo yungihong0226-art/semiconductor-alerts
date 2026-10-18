@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 캠퍼스 교차수강생(고명북, 창융디)을 위한 인-자 셔틀버스 운영 안내",
-    "site": "skku",
-    "title": "2026학년도 2학기 캠퍼스 교차수강생(고명북, 창융디)을 위한 인-자 셔틀버스 운영 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": "2026-08-28",
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#교수학습혁신센터 성균튜터링 35기 모집",
-    "site": "skku",
-    "title": "교수학습혁신센터 성균튜터링 35기 모집",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": "2026-08-27",
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 자유전공계열대상 학생성공센터 \"나의 대학 생활 길잡이\" 특강 참여 안내",
-    "site": "skku",
-    "title": "2026 자유전공계열대상 학생성공센터 \"나의 대학 생활 길잡이\" 특강 참여 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": "2026-08-21",
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#신/편입생 및 대학원 신입생 학생증 발급 신청기간 안내",
-    "site": "skku",
-    "title": "신/편입생 및 대학원 신입생 학생증 발급 신청기간 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": "2026-08-28",
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#기숙사 명륜학사 공석 모집 안내",
     "site": "skku",
     "title": "기숙사 명륜학사 공석 모집 안내",
@@ -4498,5 +4462,41 @@
     "posted_date": "2026-10-14",
     "first_seen": "2026-10-17",
     "notified": true
+  },
+  {
+    "site": "eee",
+    "title": "[ABEEK] 전자전기공학부 학번별 공학교육인증(ABEEK) 이수 기준 안내",
+    "url": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227002",
+    "posted_date": "2026-10-16",
+    "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227002",
+    "first_seen": "2026-10-18",
+    "notified": false
+  },
+  {
+    "site": "eee",
+    "title": "[ABEEK] 공학교육인증(ABEEK) 이수를 위한 학점 취득 인정 심사 신청 안내",
+    "url": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227001",
+    "posted_date": "2026-10-16",
+    "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227001",
+    "first_seen": "2026-10-18",
+    "notified": false
+  },
+  {
+    "site": "eee",
+    "title": "2026학년도 2학기 공학교육인증(ABEEK) 이수포기 신청(10/12(월)~10/30(금))",
+    "url": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=226814",
+    "posted_date": "2026-10-12",
+    "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=226814",
+    "first_seen": "2026-10-18",
+    "notified": false
+  },
+  {
+    "site": "eee",
+    "title": "2026학년도 2학기 편입생/복수전공자 공학교육인증(ABEEK) 이수 신청(10/12(월)~10/30(금))",
+    "url": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=226804",
+    "posted_date": "2026-10-12",
+    "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=226804",
+    "first_seen": "2026-10-18",
+    "notified": false
   }
 ]
