@@ -4470,7 +4470,7 @@
     "posted_date": "2026-10-16",
     "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227002",
     "first_seen": "2026-10-18",
-    "notified": false
+    "notified": true
   },
   {
     "site": "eee",
@@ -4479,7 +4479,7 @@
     "posted_date": "2026-10-16",
     "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227001",
     "first_seen": "2026-10-18",
-    "notified": false
+    "notified": true
   },
   {
     "site": "eee",
@@ -4488,7 +4488,7 @@
     "posted_date": "2026-10-12",
     "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=226814",
     "first_seen": "2026-10-18",
-    "notified": false
+    "notified": true
   },
   {
     "site": "eee",
@@ -4497,6 +4497,6 @@
     "posted_date": "2026-10-12",
     "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=226804",
     "first_seen": "2026-10-18",
-    "notified": false
+    "notified": true
   }
 ]
