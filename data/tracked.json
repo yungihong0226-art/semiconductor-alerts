@@ -1436,8 +1436,8 @@
     "period": "신청 2026-10-03 ~ 2026-10-18, 교육 2026-10-20 ~ 2026-10-22",
     "deadline": "2026-10-18",
     "first_seen": "2026-10-08",
-    "last_checked": "2026-10-18",
-    "status": "open",
+    "last_checked": "2026-10-19",
+    "status": "closed",
     "source_query_group": "direct",
     "url_verified": true
   },
@@ -1470,8 +1470,8 @@
     "url_verified": true,
     "id": "https://linkareer.com/activity/354839",
     "first_seen": "2026-10-09",
-    "last_checked": "2026-10-18",
-    "status": "open"
+    "last_checked": "2026-10-19",
+    "status": "closed"
   },
   {
     "id": "https://www.campuspick.com/education/view?id=35331",

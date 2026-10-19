@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#기숙사 명륜학사 공석 모집 안내",
-    "site": "skku",
-    "title": "기숙사 명륜학사 공석 모집 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": "2026-08-28",
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 근로장학생 신청 안내 (마감: 8/13~19)",
-    "site": "skku",
-    "title": "2026학년도 2학기 근로장학생 신청 안내 (마감: 8/13~19)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 다우기술 SW 장학생 (마감: 8/21)",
-    "site": "skku",
-    "title": "2026 다우기술 SW 장학생 (마감: 8/21)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026년도 GR인재양성플랫폼 2차 장학생 모집",
-    "site": "skku",
-    "title": "2026년도 GR인재양성플랫폼 2차 장학생 모집",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 상반기 신용회복위원회 CEO 특강 및 채용설명회",
-    "site": "skku",
-    "title": "2026 상반기 신용회복위원회 CEO 특강 및 채용설명회",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-02",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#인공지능혁신융합대학사업단 전문가 특강 참여 신청 안내(9/7)",
     "site": "skku",
     "title": "인공지능혁신융합대학사업단 전문가 특강 참여 신청 안내(9/7)",
@@ -4497,6 +4452,51 @@
     "posted_date": "2026-10-12",
     "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=226804",
     "first_seen": "2026-10-18",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 학사과정 융합트랙 이수신청 안내",
+    "site": "skku",
+    "title": "2026학년도 2학기 학사과정 융합트랙 이수신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-15",
+    "first_seen": "2026-10-19",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#인문사회융합인재양성사업 마이크로디그리 신청 안내(2학기 1차)",
+    "site": "skku",
+    "title": "인문사회융합인재양성사업 마이크로디그리 신청 안내(2학기 1차)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-14",
+    "first_seen": "2026-10-19",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#배터리학과 행정직원 모집(~10/21(수) 오전 11시까지)",
+    "site": "skku",
+    "title": "배터리학과 행정직원 모집(~10/21(수) 오전 11시까지)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-19",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#교내 근로학생 모집(~10/11(일)까지)",
+    "site": "skku",
+    "title": "교내 근로학생 모집(~10/11(일)까지)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-19",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#반도체융합공학과 2학기 복수전공 사전심사 신청 안내",
+    "site": "skku",
+    "title": "반도체융합공학과 2학기 복수전공 사전심사 신청 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-10-19",
     "notified": true
   }
 ]
