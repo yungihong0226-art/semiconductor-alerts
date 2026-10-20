@@ -2,11 +2,11 @@
 
 마지막 업데이트: 2026-10-20 09:06 KST
 
-전체 진행중: 55건  (공모전 3건, 교육 42건, 지원사업 4건, 인턴십 4건, 서포터즈 2건)
+전체 진행중: 56건  (공모전 4건, 교육 42건, 지원사업 4건, 인턴십 4건, 서포터즈 2건)
 
 ⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캐퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
 
-## 공모전 (3건)
+## 공모전 (4건)
 
 #### 제4회 램리서치코리아 대학(원)생 논문공모전 (D-11)
 - 주최: 램리서치코리아 (후원: 한국반도체산업협회)
@@ -14,6 +14,13 @@
 - 모집대상: 전국 대학(원)생, 전공 무관 (휴학 가능 여부 확인필요)
 - 설명: 반도체 시장동향 분석 또는 식각·박막증착·세정 공정 연구 주제의 논문 공모전
 - 링크: https://www.gamemeca.com/view.php?gid=502565
+
+#### 2026 COSS 차세대반도체 Microcontroller(MCU) 응용경진대회 (D-32)
+- 주최: 차세대반도체 혁신융합대학사업단(COSS)
+- 모집기간: 2026-07-08 ~ 2026-11-21
+- 모집대상: 전국 대학교 학부생 (휴학생·대학원생 제외)
+- 설명: AVR/STM32/RP2040 MCU로 실생활 시스템 설계·제작하는 경진대회
+- 링크: https://www.theteams.kr/activities/page/334310/lc
 
 #### 2026년 Deep Learning Hardware 설계 경진대회 (D-?)
 - 주최: 차세대 반도체 혁신융합대학 사업단
@@ -28,6 +35,7 @@
 - 모집대상: 국내 대학 반도체설계 분야 학부·대학원생(개인/팀)
 - 설명: 국내 대학(원)생 대상 반도체 설계 작품 공모전
 - 링크: https://systemiclab.or.kr/DocView.html?menu_seq=23&mode=view&bbs_seq=1431
+
 
 ## 교육 (42건)
 
@@ -325,6 +333,7 @@
 - 설명: RDL 공정부터 패키징·검사까지 실습하는 반도체 패키징 기술교육(3차)
 - 링크: https://www.semi.org/ko/connect/event/spt-hands-on-packaging-2026
 
+
 ## 지원사업 (4건)
 
 #### (사)반도체공학회 「정진용장학생」 신청 (D-0)
@@ -354,6 +363,7 @@
 - 모집대상: 성균관대 3,4학년 재학생 (반도체 전공트랙 참여 희망자, 세부 자격 확인필요)
 - 설명: 반도체 전공트랙 실무형 인재양성을 위한 성균관대 학부생 상시 모집(장학·인턴 연계 등 지원)
 - 링크: https://isrc-skku.co.kr/gboard/bbs/board.php?bo_table=notice&wr_id=71
+
 
 ## 인턴십 (4건)
 
@@ -385,6 +395,7 @@
 - 설명: SK하이닉스 하반기 기술사무직 신입 채용 연계 설명회
 - 링크: https://linkareer.com/activity/339204
 
+
 ## 서포터즈 (2건)
 
 #### 차세대반도체 혁신융합대학 COSS 서포터즈 모집 (D-?)
@@ -401,9 +412,9 @@
 - 설명: 첨단소재·나노융합(반도체 소재 포함) 사업단을 홍보하는 대학생 서포터즈 모집
 - 링크: https://tourism.kangwon.ac.kr/tourism/community/notice.do?mode=view&articleNo=551055
 
+
 ---
 오늘 기관순환(institution_rotation_index): 0 → 연세대 반도체특성화대학 사업단, 고려대 반도체공학, 삼성전자 미래기술육성재단, 한양대 반도체공학과, 경기도 반도체산업전문인력양성사업, 나노기술연구협의회 나노기술교육과정, UST 동계/하계 연구인턴십
-
 ## 🏫 성균관대 공지사항
 
 ### 전자전기공학부 학부공지 (최근 15건)
