@@ -4498,5 +4498,32 @@
     "posted_date": null,
     "first_seen": "2026-10-19",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집] 성균관대학교 BK21교육연구단 박사후연구원 채용 공고",
+    "site": "skku",
+    "title": "[채용/모집] 성균관대학교 BK21교육연구단 박사후연구원 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-15",
+    "first_seen": "2026-10-20",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균관대학교 지능형정밀헬스케어교육연구단 연구교수 채용 공고",
+    "site": "skku",
+    "title": "성균관대학교 지능형정밀헬스케어교육연구단 연구교수 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-15",
+    "first_seen": "2026-10-20",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#법학전문대학원 행정조교 모집 안내(~10.28.(수))",
+    "site": "skku",
+    "title": "법학전문대학원 행정조교 모집 안내(~10.28.(수))",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-19",
+    "first_seen": "2026-10-20",
+    "notified": true
   }
 ]
