@@ -4488,7 +4488,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
     "posted_date": "2026-10-22",
     "first_seen": "2026-10-26",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2026년 2학기 송화재단 장학생 선발 안내(~2026.10.07 마감)",
@@ -4497,6 +4497,6 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
     "posted_date": "2026-10-01",
     "first_seen": "2026-10-26",
-    "notified": false
+    "notified": true
   }
 ]
