@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#넥슨 헬로메이트 2기 멘토단 2차(숭미초등학교) 모집 안내",
-    "site": "skku",
-    "title": "넥슨 헬로메이트 2기 멘토단 2차(숭미초등학교) 모집 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": "2026-08-26",
-    "first_seen": "2026-09-07",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#대학원 영어 논문 작성 특강 신청 안내",
-    "site": "eee",
-    "title": "대학원 영어 논문 작성 특강 신청 안내",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
     "id": "https://eee.skku.edu/eee/notice.do#2026 학부 학생성공스토리 공모전",
     "site": "eee",
     "title": "2026 학부 학생성공스토리 공모전",
@@ -4498,5 +4480,23 @@
     "posted_date": null,
     "first_seen": "2026-10-25",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#[발전협력팀] 2026학년도 수원지역동문회 장학생 선발 안내(~11/13)",
+    "site": "skku",
+    "title": "[발전협력팀] 2026학년도 수원지역동문회 장학생 선발 안내(~11/13)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": "2026-10-22",
+    "first_seen": "2026-10-26",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2026년 2학기 송화재단 장학생 선발 안내(~2026.10.07 마감)",
+    "site": "skku",
+    "title": "2026년 2학기 송화재단 장학생 선발 안내(~2026.10.07 마감)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": "2026-10-01",
+    "first_seen": "2026-10-26",
+    "notified": false
   }
 ]
