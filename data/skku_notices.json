@@ -1,59 +1,5 @@
 [
   {
-    "id": "https://eee.skku.edu/eee/notice.do#2026 학부 학생성공스토리 공모전",
-    "site": "eee",
-    "title": "2026 학부 학생성공스토리 공모전",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#법학전문대학원 행정조교 모집(~9.18.(금), 채용 시 조기 마감)",
-    "site": "skku",
-    "title": "법학전문대학원 행정조교 모집(~9.18.(금), 채용 시 조기 마감)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27)",
-    "site": "skku",
-    "title": "제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균타임즈 60-2기 수습기자 모집 공고(~9/16)",
-    "site": "skku",
-    "title": "성균타임즈 60-2기 수습기자 모집 공고(~9/16)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026년 손태희장학재단 장학생 선발",
-    "site": "skku",
-    "title": "2026년 손태희장학재단 장학생 선발",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 2학기 재학생 학자금대출 기등록자 특별승인 신청 안내",
-    "site": "skku",
-    "title": "2026학년도 2학기 재학생 학자금대출 기등록자 특별승인 신청 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#수원 율천동 꿈키움 희망장학사업 장학생 선발",
     "site": "skku",
     "title": "수원 율천동 꿈키움 희망장학사업 장학생 선발",
@@ -4497,6 +4443,60 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
     "posted_date": "2026-10-01",
     "first_seen": "2026-10-26",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[취업] IDEC 제14기 시스템반도체설계실무인력양성 교육생 모집",
+    "site": "eee",
+    "title": "[취업] IDEC 제14기 시스템반도체설계실무인력양성 교육생 모집",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-10-23",
+    "first_seen": "2026-10-27",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#[안내] 복수전공 허용 인원 제한 학부 지정",
+    "site": "eee",
+    "title": "[안내] 복수전공 허용 인원 제한 학부 지정",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-10-23",
+    "first_seen": "2026-10-27",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#2026학년도 2학기 미래차 SDV/전동화/자율주행 마이크로디그리 신청 안내 (10/19~10/23)",
+    "site": "eee",
+    "title": "2026학년도 2학기 미래차 SDV/전동화/자율주행 마이크로디그리 신청 안내 (10/19~10/23)",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-10-19",
+    "first_seen": "2026-10-27",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=134428",
+    "site": "skku",
+    "title": "[교내학술연구지원사업] 2026학년도 SKKU President Fellowship 교내 연수지원 사업 공고 (舊 박사후 교내 연수지원 사업)",
+    "url": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=134428",
+    "posted_date": null,
+    "first_seen": "2026-10-27",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=133191",
+    "site": "skku",
+    "title": "용운장학재단 2026년 용운장학생 대학원 선발안내 (~2026.1.25.까지)",
+    "url": "https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=133191",
+    "posted_date": null,
+    "first_seen": "2026-10-27",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
+    "site": "skku",
+    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-20",
+    "first_seen": "2026-10-27",
     "notified": true
   }
 ]
