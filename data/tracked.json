@@ -1373,7 +1373,7 @@
     "period": "2026-11-16 ~ 2026-11-26",
     "deadline": null,
     "first_seen": "2026-10-04",
-    "last_checked": "2026-10-27",
+    "last_checked": "2026-10-28",
     "status": "open",
     "source_query_group": "general",
     "url_verified": true
@@ -1535,6 +1535,22 @@
     "last_checked": "2026-10-27",
     "status": "open",
     "source_query_group": "direct",
+    "url_verified": true
+  },
+  {
+    "id": "https://linkareer.com/activity/358934",
+    "title": "ARM코어 기반 반도체 설계제어 전문인력 양성 2기 교육생 모집",
+    "organizer": "대한상공회의소 광주인력개발원",
+    "category": "교육",
+    "description": "ARM 아키텍처·RTOS·SoC설계 실무를 배우는 국비 교육과정",
+    "target": "전문대졸 이상 또는 반도체 관심자, 전자·컴퓨터·임베디드 전공 우대(확인필요)",
+    "url": "https://linkareer.com/activity/358934",
+    "period": "2026-11-03 ~ 2027-05-11",
+    "deadline": "2026-11-02",
+    "first_seen": "2026-10-28",
+    "last_checked": "2026-10-28",
+    "status": "open",
+    "source_query_group": "aggregator",
     "url_verified": true
   }
 ]

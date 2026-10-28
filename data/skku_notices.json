@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#수원 율천동 꿈키움 희망장학사업 장학생 선발",
-    "site": "skku",
-    "title": "수원 율천동 꿈키움 희망장학사업 장학생 선발",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026년도 2학기 삼원장학재단 삼원장학생 선발",
-    "site": "skku",
-    "title": "2026년도 2학기 삼원장학재단 삼원장학생 선발",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#세종연구원 \"세종이도인재장학금-핵심인재육성분야(특기적성)\" 장학생 선발",
-    "site": "skku",
-    "title": "세종연구원 \"세종이도인재장학금-핵심인재육성분야(특기적성)\" 장학생 선발",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/mobile/notice.do?articleNo=123834",
-    "site": "skku",
-    "title": "국제교류팀 근로 장학생 모집",
-    "url": "https://www.skku.edu/skku/mobile/notice.do?articleNo=123834",
-    "posted_date": null,
-    "first_seen": "2026-09-08",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#대학원 논문작성 역량 증진 프로그램(2): 질적연구자료수집(인터뷰, 관찰) 특강 신청 안내",
-    "site": "eee",
-    "title": "대학원 논문작성 역량 증진 프로그램(2): 질적연구자료수집(인터뷰, 관찰) 특강 신청 안내",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-09",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#제1회 SKKU 국제한국학포럼 개최",
     "site": "skku",
     "title": "제1회 SKKU 국제한국학포럼 개최",
@@ -4497,6 +4452,51 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-10-20",
     "first_seen": "2026-10-27",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#LG디스플레이 2026 하반기 신입사원/LGenius Master 채용 안내",
+    "site": "eee",
+    "title": "[취업] LG Display 2026 하반기 신입사원/LGenius Master 채용 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-10-28",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#현대모비스 2026년 하반기 신입 채용 공고",
+    "site": "eee",
+    "title": "[취업] 현대모비스 2026년 하반기 신입 채용 공고",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": null,
+    "first_seen": "2026-10-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=130397",
+    "site": "skku",
+    "title": "두산연강 대학 장학생 지원 관련 자주 묻는 질문(Q&A)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=130397",
+    "posted_date": null,
+    "first_seen": "2026-10-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=130556",
+    "site": "skku",
+    "title": "『인공지능혁신융합대학사업단』 AICOSS 산학협력 실습중심 딥러닝 겨울부트캠프 및 경진대회 개최 계획",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=130556",
+    "posted_date": null,
+    "first_seen": "2026-10-28",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=135729",
+    "site": "skku",
+    "title": "2026학년도 2학기 新대학원우수장학금 선발 안내(추천서 접수: 3.24.(화)~4.8.(수))",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=135729",
+    "posted_date": null,
+    "first_seen": "2026-10-28",
     "notified": true
   }
 ]
