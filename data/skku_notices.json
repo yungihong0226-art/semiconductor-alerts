@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#게스트 특강: Working with Humanities Data (Prof. Meredith Martin, 9/18 금 10:30)",
-    "site": "skku",
-    "title": "게스트 특강: Working with Humanities Data (Prof. Meredith Martin, 9/18 금 10:30)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-11",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#미래인문학기반사회혁신창업교육연구단 BK연구교수 채용",
-    "site": "skku",
-    "title": "미래인문학기반사회혁신창업교육연구단 BK연구교수 채용",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-11",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=download&articleNo=138102&attachNo=115579#Qualcomm Innovation Fellowship Korea 2026 Applicant manual",
     "site": "skku",
     "title": "Qualcomm Innovation Fellowship Korea 2026 Applicant manual",
@@ -4497,6 +4479,24 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-08-31",
     "first_seen": "2026-10-30",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집] 2026학년도 국제동계학기(WISE) 조교(TA/OA/HA) 모집 안내",
+    "site": "skku",
+    "title": "[채용/모집] 2026학년도 국제동계학기(WISE) 조교(TA/OA/HA) 모집 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-28",
+    "first_seen": "2026-10-31",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 학부모(동반자) 공감 프로그램 신청 모집",
+    "site": "skku",
+    "title": "2026학년도 학부모(동반자) 공감 프로그램 신청 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-28",
+    "first_seen": "2026-10-31",
     "notified": true
   }
 ]
