@@ -1357,7 +1357,7 @@
     "period": null,
     "deadline": "2026-11-04",
     "first_seen": "2026-10-02",
-    "last_checked": "2026-10-31",
+    "last_checked": "2026-11-01",
     "status": "open",
     "source_query_group": "direct",
     "url_verified": true
@@ -1373,7 +1373,7 @@
     "period": "2026-11-16 ~ 2026-11-26",
     "deadline": null,
     "first_seen": "2026-10-04",
-    "last_checked": "2026-10-31",
+    "last_checked": "2026-11-01",
     "status": "open",
     "source_query_group": "general",
     "url_verified": true
@@ -1390,7 +1390,7 @@
     "deadline": "2026-10-31",
     "first_seen": "2026-10-04",
     "last_checked": "2026-10-31",
-    "status": "open",
+    "status": "closed",
     "source_query_group": "roundup",
     "url_verified": true
   },
@@ -1402,7 +1402,7 @@
     "url": "https://www.theteams.kr/activities/page/334310/lc",
     "deadline": "2026-11-21",
     "first_seen": "2026-10-05",
-    "last_checked": "2026-10-31",
+    "last_checked": "2026-11-01",
     "status": "open",
     "description": "AVR/STM32/RP2040 MCU로 실생활 시스템 설계·제작하는 경진대회",
     "target": "전국 대학교 학부생 (휴학생·대학원생 제외)",
@@ -1485,7 +1485,7 @@
     "deadline": "2026-10-31",
     "first_seen": "2026-10-12",
     "last_checked": "2026-10-31",
-    "status": "open",
+    "status": "closed",
     "source_query_group": "aggregator",
     "url_verified": true
   },
@@ -1519,7 +1519,7 @@
     "source_query_group": "general",
     "first_seen": "2026-10-15",
     "last_checked": "2026-10-31",
-    "status": "open"
+    "status": "closed"
   },
   {
     "id": "https://www.idec.or.kr/edu/apply/view/?page=54&no=882",
