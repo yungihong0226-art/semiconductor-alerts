@@ -1,13 +1,8 @@
-# 반도체 공모전/교육/지원사업/인턴십/서포터즈 + 성균관대 공지 알리미
+# 반도체 공모전/교육/지원사업/인턴십/서포터즈 트래커
 
-마지막 업데이트: 2026-11-02 09:04 KST
+마지막 업데이트: 2026-11-02 09:08 KST
 
-## 전체 현황: 진행중 38건
-- 공모전: 2건
-- 교육: 27건
-- 지원사업: 3건
-- 인턴십: 4건
-- 서포터즈: 2건
+전체 진행중: **38건**  공모전 2건 / 교육 27건 / 지원사업 3건 / 인턴십 4건 / 서포터즈 2건
 
 ⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캐퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
 
@@ -288,40 +283,43 @@
 - 링크: https://tourism.kangwon.ac.kr/tourism/community/notice.do?mode=view&articleNo=551055
 
 ---
-institution_rotation_index: 2 (경북대 IDEC, 전남대 IDEC, 충북대 IDEC, 아주대 반도체, 두원공과대 반도체부트캠프, 한국화학연구원 인턴, 한화정밀기계 채용선제형 인턴)
+
+오늘의 institution_rotation_index: **2** (경북대 IDEC, 전남대 IDEC, 충북대 IDEC, 아주대 반도체, 두원공과대 반도체부트캠프, 한국화학연구원 인턴, 한화정밀기계 채용선제형 인턴) — 조사 결과 현재 모집 중인 공고 없음
 
 ## 성균관대 공지사항
 
-### 전자전기공학부 학부공지 (eee.skku.edu) - 최근 15건
-- [전자전기공학부 학생들, RISE 글로벌캡스톤디자인을 통해 미국 현지 대학·산업체 탐방](https://eee.skku.edu/eee/notice_total.do) — 2026-08-24
+### 전자전기공학부 학부공지 (최근 15건)
+
 - [[취업] LG Display 2026 하반기 신입사원/LGenius Master 채용 안내](https://eee.skku.edu/eee/notice.do) — 날짜미확인
 - [[취업] 현대모비스 2026년 하반기 신입 채용 공고](https://eee.skku.edu/eee/notice.do) — 날짜미확인
 - [[취업] IDEC 제14기 시스템반도체설계실무인력양성 교육생 모집](https://eee.skku.edu/eee/notice.do) — 2026-10-23
 - [[안내] 복수전공 허용 인원 제한 학부 지정](https://eee.skku.edu/eee/notice.do) — 2026-10-23
 - [2026학년도 2학기 미래차 SDV/전동화/자율주행 마이크로디그리 신청 안내 (10/19~10/23)](https://eee.skku.edu/eee/notice.do) — 2026-10-19
-- [[ABEEK] 전자전기공학부 학번별 공학교육인증(ABEEK) 이수 기준 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227002) — 2026-10-16
-- [[ABEEK] 공학교육인증(ABEEK) 이수를 위한 학점 취득 인정 심사 신청 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227001) — 2026-10-16
-- [2026학년도 2학기 공학교육인증(ABEEK) 이수포기 신청(10/12(월)~10/30(금))](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=226814) — 2026-10-12
-- [2026학년도 2학기 편입생/복수전공자 공학교육인증(ABEEK) 이수 신청(10/12(월)~10/30(금))](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=226804) — 2026-10-12
 - [[ABEEK] 전자전기공학부 학번별 공학교육인증(ABEEK) 이수 기준 안내](https://eee.skku.edu/eee/notice.do) — 2026-10-16
 - [[ABEEK] 공학교육인증(ABEEK) 이수를 위한 학점 취득 인정 심사 신청 안내](https://eee.skku.edu/eee/notice.do) — 2026-10-16
+- [[ABEEK] 전자전기공학부 학번별 공학교육인증(ABEEK) 이수 기준 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227002) — 2026-10-16
+- [[ABEEK] 공학교육인증(ABEEK) 이수를 위한 학점 취득 인정 심사 신청 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227001) — 2026-10-16
 - ['26년 하반기 신입사원 온라인 채용설명회 홍보 (HD현대 건설기계부문)](https://eee.skku.edu/eee/notice_job.do) — 날짜미확인
 - [[장학] [전자전기공학부] 사임당장학금 신청 (~10/19(금) 15:00)](https://eee.skku.edu/eee/notice.do) — 날짜미확인
 - [[취업] 현대모비스 26년 6월 채용전환형 인턴채용(~7/10(금) 11:00)](https://eee.skku.edu/eee/notice_job.do) — 날짜미확인
+- [한화에너지 2026년 하반기 신입사원 공개채용 (~9/21 마감)](https://eee.skku.edu/eee/notice_job.do) — 날짜미확인
+- [KT&G 하반기 신입·경력 채용 (~8/26 마감)](https://eee.skku.edu/eee/notice_job.do) — 날짜미확인
+- [[행사/세미나] 2026학년도 2학기 대학원 한마당 안내](https://eee.skku.edu/eee/notice.do) — 날짜미확인
 
-### 성균관대 종합공지 (www.skku.edu) - 최근 15건
-- [[채용/모집] 2026학년도 국제동계학기(WISE) 조교(TA/OA/HA) 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
-- [2026학년도 학부모(동반자) 공감 프로그램 신청 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
+### 성균관대 종합공지 (최근 15건)
+
+- [2027년도 제16회 변호사시험 시험관리원(재학생) 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미확인
+- [PHP의 중대한 취약점 공개에 따른 학내 홈페이지 긴급 점검 및 조치 요청](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미확인
 - [(연장) 2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~11.02(월) 09:00까지)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미확인
-- [(내용변경-대학원) 2026년도 동진장학연구재단 동진장학금 선발 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-27
-- [2026학년도 2학기 의료인공지능특화융합인재양성사업 연구우수 장학생 선발 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-23
-- [2026학년도 2학기 의료인공지능특화융합인재양성사업 연구우수 장학생 2차 선발 결과 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
 - [(신청기간 연장) 2026년 2학기 한국선원복지고용센터 "선원가족장학" 신청 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미확인
 - [사회과학대학 행정조교 채용(~10/12(월) 16:00)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미확인
 - [통증 예측과 뇌 반응 연구 참여자 모집 공고](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 날짜미확인
-- [2027학년도 수시 원서접수 및 서류제출 마감 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-08-31
-- [[성균융합원] 2027학년도 1학기 융합연구학점제 시행 안내(신청 ~11/25)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
-- [[앵커사업단] 글로벌 창업경진대회 Soulmate Pioneers 참가팀 모집(~11/15, 총 상금 900만원)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
 - [두산연강 대학 장학생 지원 관련 자주 묻는 질문(Q&A)](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=130397) — 날짜미확인
 - [『인공지능혁신융합대학사업단』 AICOSS 산학협력 실습중심 딥러닝 겨울부트캠프 및 경진대회 개최 계획](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=130556) — 날짜미확인
 - [2026학년도 2학기 新대학원우수장학금 선발 안내(추천서 접수: 3.24.(화)~4.8.(수))](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=135729) — 날짜미확인
+- [[성균융합원] 2027학년도 1학기 융합연구학점제 시행 안내(신청 ~11/25)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
+- [[앵커사업단] 글로벌 창업경진대회 Soulmate Pioneers 참가팀 모집(~11/15, 총 상금 900만원)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
+- [2026학년도 2학기 의료인공지능특화융합인재양성사업 연구우수 장학생 2차 선발 결과 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
+- [[채용/모집] 2026학년도 국제동계학기(WISE) 조교(TA/OA/HA) 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
+- [2026학년도 학부모(동반자) 공감 프로그램 신청 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-10-28
+- [[교내학술연구지원사업] 2026학년도 SKKU President Fellowship 교내 연수지원 사업 공고 (舊 박사후 교내 연수지원 사업)](https://www.skku.edu/skku/mobile/notice.do?mode=view&articleNo=134428) — 날짜미확인

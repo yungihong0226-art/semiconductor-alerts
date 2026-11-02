@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=download&articleNo=138102&attachNo=115579#Qualcomm Innovation Fellowship Korea 2026 Applicant manual",
-    "site": "skku",
-    "title": "Qualcomm Innovation Fellowship Korea 2026 Applicant manual",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=download&articleNo=138102&attachNo=115579",
-    "posted_date": null,
-    "first_seen": "2026-09-11",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=download&articleNo=138121&attachNo=115603#2026 Youth Camp for ASEAN & Friends' Engagement (YCAFE) Recruitment Guidelines",
-    "site": "skku",
-    "title": "2026 Youth Camp for ASEAN & Friends' Engagement (YCAFE) Recruitment Guidelines",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=download&articleNo=138121&attachNo=115603",
-    "posted_date": null,
-    "first_seen": "2026-09-11",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=download&articleNo=137063&attachNo=114446#2026년 대한의료정보학회 춘계학술대회 세부 안내 (2026.6.24-26)",
     "site": "skku",
     "title": "2026년 대한의료정보학회 춘계학술대회 세부 안내 (2026.6.24-26)",
@@ -4497,6 +4479,24 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-10-28",
     "first_seen": "2026-10-31",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2027년도 제16회 변호사시험 시험관리원(재학생) 모집",
+    "site": "skku",
+    "title": "2027년도 제16회 변호사시험 시험관리원(재학생) 모집",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-11-02",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#PHP의 중대한 취약점 공개에 따른 학내 홈페이지 긴급 점검 및 조치 요청",
+    "site": "skku",
+    "title": "PHP의 중대한 취약점 공개에 따른 학내 홈페이지 긴급 점검 및 조치 요청",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-11-02",
     "notified": true
   }
 ]
