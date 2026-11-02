@@ -4480,23 +4480,5 @@
     "posted_date": "2026-10-28",
     "first_seen": "2026-10-31",
     "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2027년도 제16회 변호사시험 시험관리원(재학생) 모집",
-    "site": "skku",
-    "title": "2027년도 제16회 변호사시험 시험관리원(재학생) 모집",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-11-02",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#PHP의 중대한 취약점 공개에 따른 학내 홈페이지 긴급 점검 및 조치 요청",
-    "site": "skku",
-    "title": "PHP의 중대한 취약점 공개에 따른 학내 홈페이지 긴급 점검 및 조치 요청",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-11-02",
-    "notified": true
   }
 ]
