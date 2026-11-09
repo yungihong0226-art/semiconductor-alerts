@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=107053",
-    "site": "skku",
-    "title": "[학술정보관] AR 콘텐츠 제작 특강 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=107053",
-    "posted_date": null,
-    "first_seen": "2026-09-16",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=126994",
-    "site": "skku",
-    "title": "팀앙트레프레너십 워크샵 참가자 추가 모집",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=126994",
-    "posted_date": null,
-    "first_seen": "2026-09-16",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=117542",
-    "site": "skku",
-    "title": "학술정보관 정보활용교육 Dissertation Week 신청 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=117542",
-    "posted_date": null,
-    "first_seen": "2026-09-16",
-    "notified": true
-  },
-  {
     "id": "https://eee.skku.edu/eee/notice.do#한국장학재단 푸른등대 삼성기부장학금 신청 홍보",
     "site": "eee",
     "title": "한국장학재단 푸른등대 삼성기부장학금 신청 홍보",
@@ -4497,6 +4470,33 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=133977",
     "posted_date": "2026-01-12",
     "first_seen": "2026-11-07",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026년 그린리모델링 취업특강 안내",
+    "site": "skku",
+    "title": "2026년 그린리모델링 취업특강 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-04",
+    "first_seen": "2026-11-09",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2027 SKKU Chinese Creators(SCC) 모집 안내",
+    "site": "skku",
+    "title": "2027 SKKU Chinese Creators(SCC) 모집 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-06",
+    "first_seen": "2026-11-09",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2027 SKKU Global Creators(SGC) Recruitment Announcement",
+    "site": "skku",
+    "title": "2027 SKKU Global Creators(SGC) Recruitment Announcement",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-06",
+    "first_seen": "2026-11-09",
     "notified": true
   }
 ]
