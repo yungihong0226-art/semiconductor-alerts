@@ -1402,7 +1402,7 @@
     "url": "https://www.theteams.kr/activities/page/334310/lc",
     "deadline": "2026-11-21",
     "first_seen": "2026-10-05",
-    "last_checked": "2026-11-06",
+    "last_checked": "2026-11-11",
     "status": "open",
     "description": "AVR/STM32/RP2040 MCU로 실생활 시스템 설계·제작하는 경진대회",
     "target": "전국 대학교 학부생 (휴학생·대학원생 제외)",
@@ -1599,6 +1599,22 @@
     "last_checked": "2026-11-06",
     "status": "open",
     "source_query_group": "school",
+    "url_verified": true
+  },
+  {
+    "id": "https://www.mju.ac.kr/bbs/mjukr/141/236856/artclView.do",
+    "title": "[KDT사업단] AI 반도체 설계 교육과정 훈련생 모집(2기)",
+    "organizer": "명지대학교 산학협력단 KDT사업단(K-디지털트레이닝)",
+    "category": "교육",
+    "description": "실습 중심 AI반도체 설계 인재를 기르는 무료 교육과정 훈련생 모집",
+    "target": "명지대 4학년 재학생·졸업자, 타대학 졸업자(미취업자), 국민내일배움카드 대상자(전국 단위, 재학생 지원 가능 여부 확인필요)",
+    "url": "https://www.mju.ac.kr/bbs/mjukr/141/236856/artclView.do",
+    "period": "2026-11-02 ~ 2026-11-13",
+    "deadline": "2026-11-13",
+    "first_seen": "2026-11-11",
+    "last_checked": "2026-11-11",
+    "status": "open",
+    "source_query_group": "general",
     "url_verified": true
   }
 ]
