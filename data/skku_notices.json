@@ -4317,7 +4317,7 @@
     "url": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228392",
     "posted_date": "2026-11-11",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228293",
@@ -4326,7 +4326,7 @@
     "url": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228293",
     "posted_date": "2026-11-10",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228329",
@@ -4335,7 +4335,7 @@
     "url": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228329",
     "posted_date": "2026-11-10",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228219",
@@ -4344,7 +4344,7 @@
     "url": "https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228219",
     "posted_date": "2026-11-09",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141803",
@@ -4353,7 +4353,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141803",
     "posted_date": "2026-11-11",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141802",
@@ -4362,7 +4362,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141802",
     "posted_date": "2026-11-11",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141794",
@@ -4371,7 +4371,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141794",
     "posted_date": "2026-11-11",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141791",
@@ -4380,7 +4380,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141791",
     "posted_date": "2026-11-11",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141790",
@@ -4389,7 +4389,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141790",
     "posted_date": "2026-11-11",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141789",
@@ -4398,7 +4398,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141789",
     "posted_date": "2026-11-11",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141782",
@@ -4407,7 +4407,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141782",
     "posted_date": "2026-11-11",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141767",
@@ -4416,7 +4416,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141767",
     "posted_date": "2026-11-11",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141749",
@@ -4425,7 +4425,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141749",
     "posted_date": "2026-11-10",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141726",
@@ -4434,7 +4434,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141726",
     "posted_date": "2026-11-10",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141723",
@@ -4443,7 +4443,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141723",
     "posted_date": "2026-11-10",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141722",
@@ -4452,7 +4452,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141722",
     "posted_date": "2026-11-10",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141717",
@@ -4461,7 +4461,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141717",
     "posted_date": "2026-11-10",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141677",
@@ -4470,7 +4470,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141677",
     "posted_date": "2026-11-06",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141659",
@@ -4479,7 +4479,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141659",
     "posted_date": "2026-11-06",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141647",
@@ -4488,7 +4488,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141647",
     "posted_date": "2026-11-06",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141646",
@@ -4497,6 +4497,6 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141646",
     "posted_date": "2026-11-06",
     "first_seen": "2026-11-12",
-    "notified": false
+    "notified": true
   }
 ]
