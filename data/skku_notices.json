@@ -1,68 +1,5 @@
 [
   {
-    "id": "https://eee.skku.edu/eee/notice.do#2026년 상반기 현대모비스 미래모빌리티 채용연계장학생 모집",
-    "site": "eee",
-    "title": "2026년 상반기 현대모비스 미래모빌리티 채용연계장학생 모집",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#성균경영포럼 근로장학생 모집",
-    "site": "eee",
-    "title": "성균경영포럼 근로장학생 모집",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#현대모비스 전환형 인턴십 모집(~7/10)",
-    "site": "eee",
-    "title": "현대모비스 전환형 인턴십 모집(~7/10)",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#삼성전자 DX부문 2026 SW알고리즘 역량강화 세미나",
-    "site": "eee",
-    "title": "삼성전자 DX부문 2026 SW알고리즘 역량강화 세미나",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#삼성메디슨 신입 채용",
-    "site": "eee",
-    "title": "삼성메디슨 신입 채용",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#2026 Future Car Bootcamp 채용 설명회(4/8 15:00)",
-    "site": "eee",
-    "title": "2026 Future Car Bootcamp 채용 설명회(4/8 15:00)",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice.do#학부생연구학점제 신청매뉴얼(GLS) 안내",
-    "site": "eee",
-    "title": "학부생연구학점제 신청매뉴얼(GLS) 안내",
-    "url": "https://eee.skku.edu/eee/notice.do",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
     "id": "https://eee.skku.edu/eee/notice.do#2025학년도 2학기 수강신청 일정 안내",
     "site": "eee",
     "title": "2025학년도 2학기 수강신청 일정 안내",
@@ -4497,6 +4434,60 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-03",
     "first_seen": "2026-11-14",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/mobile/notice.do#[인사캠] 2026년 11월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
+    "site": "skku",
+    "title": "[인사캠] 2026년 11월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
+    "url": "https://www.skku.edu/skku/mobile/notice.do",
+    "posted_date": "2026-10-27",
+    "first_seen": "2026-11-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집] 2026 하반기 교직원(정규직) 신규채용 2차 면접전형 합격자 발표",
+    "site": "skku",
+    "title": "[채용/모집] 2026 하반기 교직원(정규직) 신규채용 2차 면접전형 합격자 발표",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-13",
+    "first_seen": "2026-11-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집] 대학원혁신센터 촉탁직원 채용 공고",
+    "site": "skku",
+    "title": "[채용/모집] 대학원혁신센터 촉탁직원 채용 공고",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-11-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#자연과학대학 행정조교 채용(~11/26(목))",
+    "site": "skku",
+    "title": "자연과학대학 행정조교 채용(~11/26(목))",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-13",
+    "first_seen": "2026-11-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#자연과학대학 수학과사무실 행정업무 조교 채용 (~11/18(수)까지)",
+    "site": "skku",
+    "title": "자연과학대학 수학과사무실 행정업무 조교 채용 (~11/18(수)까지)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-13",
+    "first_seen": "2026-11-15",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[취업][학생인재개발팀/대학일자리플러스센터] 2026 하반기 실전 모의면접[인사캠 추가 모집: 인성/마케팅]",
+    "site": "skku",
+    "title": "[취업][학생인재개발팀/대학일자리플러스센터] 2026 하반기 실전 모의면접[인사캠 추가 모집: 인성/마케팅]",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-05",
+    "first_seen": "2026-11-15",
     "notified": true
   }
 ]
