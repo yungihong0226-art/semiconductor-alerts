@@ -1,6 +1,6 @@
 # 반도체 공모전/교육/지원사업/인턴십/서포터즈 & 성균관대 공지사항
 
-마지막 업데이트: 2026-11-15 09:03 KST
+마지막 업데이트: 2026-11-16 09:03 KST
 
 **전체 진행중: 17건** | 공모전: 1건 | 교육: 14건 | 지원사업: 2건 | 인턴십: 0건 | 서포터즈: 0건
 
@@ -10,7 +10,7 @@
 
 ### 공모전 (1건)
 
-#### 2026 COSS 차세대반도체 Microcontroller(MCU) 응용경진대회 (D-6)
+#### 2026 COSS 차세대반도체 Microcontroller(MCU) 응용경진대회 (D-5)
 - 주최: 차세대반도체 혁신융합대학사업단(COSS)
 - 모집기간: 2026-07-08 ~ 2026-11-21
 - 모집대상: 전국 대학교 학부생 (휴학생·대학원생 제외)
@@ -19,7 +19,7 @@
 
 ### 교육 (14건)
 
-#### KAIST IDEC 한양대 캠퍼스 단기강의: AI 시대의 반도체 메모리 기술과 미래 (D-7)
+#### KAIST IDEC 한양대 캠퍼스 단기강의: AI 시대의 반도체 메모리 기술과 미래 (D-6)
 - 주최: KAIST IDEC(반도체설계교육센터) / 한양대학교 캠퍼스
 - 모집기간: 2026-10-21 ~ 2026-11-22
 - 모집대상: 대학(원)생 및 반도체 설계 교육 희망자 (확인필요)
@@ -119,7 +119,7 @@
 
 ### 지원사업 (2건)
 
-#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-46)
+#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-45)
 - 주최: 전남대학교 반도체특성화대학사업단
 - 모집기간: 2026-04-15 ~ 2026-12-31
 - 모집대상: 전남대 반도체융합전공 재학생
@@ -133,7 +133,11 @@
 - 설명: 반도체 전공트랙 실무형 인재양성을 위한 성균관대 학부생 상시 모집(장학·인턴 연계 등 지원)
 - 링크: https://isrc-skku.co.kr/gboard/bbs/board.php?bo_table=notice&wr_id=71
 
-하단 참고: 오늘(institution_rotation_index=0)은 기관순환 그룹 0을 확인했습니다 — 연세대 반도체특성화대학 사업단, 고려대 반도체공학, 삼성전자 미래기술육성재단, 한양대 반도체공학과, 경기도 반도체산업전문인력양성사업, 나노기술연구협의회 나노기술교육과정, UST 동계/하계 연구인턴십 (새로 확인된 공고 없음, 상세는 커밋 로그 참고).
+### 인턴십 (0건)
+
+### 서포터즈 (0건)
+
+하단 참고: 오늘(institution_rotation_index=1)은 기관순환 그룹 1을 확인했습니다 — 서울대 반도체공동연구소, 동국대 반도체부트캠프사업단, 홍익대 반도체부트캠프사업단, 단국대 첨단산업인재양성부트캠프, 인하공업전문대학 부트캠프, GIST 동계/하계 인턴십, DGIST 대학원 동계/하계 인턴 프로그램 (새로 확인된 공고 없음, 상세는 커밋 로그 참고).
 
 ## 🏫 성균관대학교 공지사항
 
@@ -145,17 +149,17 @@ _반도체 공모전/교육/지원사업과는 별개로, 성균관대 전자전
 - [2026학년도 동계 학부생 연구학점제 시행 안내(11/25~12/2)](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228293) — 2026-11-10
 - [2027학년도 학사과정 교직과정 이수 예정자 선발 및 신청 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228329) — 2026-11-10
 - [[성균융합원] 2027학년도 1학기 융합연구학점제 시행 안내(신청 ~11/25)](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228219) — 2026-11-09
-- [[장학][외부] (재)전기공사공제조합장학회 2027년도 제22기 장학생 선발 안내](https://eee.skku.edu/eee/notice.do) — 2026-11-03
 - [[외부] (재)전기공사공제조합장학회 2027년도 제22기 장학생 선발 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227977) — 2026-11-03
+- [[장학][외부] (재)전기공사공제조합장학회 2027년도 제22기 장학생 선발 안내](https://eee.skku.edu/eee/notice.do) — 2026-11-03
 - [2026학년도 학사과정 겨울 계절수업 운영 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138880&itemId=C0DB1C7E7045AB20EA824AD4A32E1B39DMAFEJ) — 2026-11-02
 - [[기숙사] 2026 기숙사 생활 콘텐츠 공모전 실시 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138886&itemId=E92195667D089AEDE45F1F7B19BF7DD1VQFHXT) — 2026-11-02
-- [2026학년도 2학기 학생성공 창의장학생 신청 안내](https://eee.skku.edu/eee/notice.do) — 2026-10-30
-- [[장학] 2026학년도 2학기 정용지 창의장학생 신청 안내](https://eee.skku.edu/eee/notice.do) — 2026-10-30
 - [2026학년도 2학기 학생성공 창의장학생 신청 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227600) — 2026-10-30
 - [2026학년도 2학기 정용지 창의장학생 신청 안내](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227599) — 2026-10-30
-- [2027학년도 1학기 융합연구학점제[URP 3형] 신청 안내 (11/1~11/25)](https://eee.skku.edu/eee/notice.do) — 2026-10-29
+- [2026학년도 2학기 학생성공 창의장학생 신청 안내](https://eee.skku.edu/eee/notice.do) — 2026-10-30
+- [[장학] 2026학년도 2학기 정용지 창의장학생 신청 안내](https://eee.skku.edu/eee/notice.do) — 2026-10-30
 - [2027학년도 1학기 융합연구학점제[URP 3형] 신청 안내(11/1~11/25)](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227583) — 2026-10-29
 - [[학생성공센터 대학원] 양적 연구 실무 워크숍(가설검정&기술통계) 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138885&itemId=DEF86439EAC4E23A37512F2D8C22198DOKVWQZ) — 2026-10-29
+- [2027학년도 1학기 융합연구학점제[URP 3형] 신청 안내 (11/1~11/25)](https://eee.skku.edu/eee/notice.do) — 2026-10-29
 
 ### 종합공지 (skku.edu) — 최근 15건
 
