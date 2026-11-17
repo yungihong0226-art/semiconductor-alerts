@@ -4452,7 +4452,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-16",
     "first_seen": "2026-11-17",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균관대학교 배터리학과 행정직원 모집(~11/20)",
@@ -4461,7 +4461,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-16",
     "first_seen": "2026-11-17",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균융합원행정실 자체계약직원 채용 공고",
@@ -4470,7 +4470,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-16",
     "first_seen": "2026-11-17",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#(사)한국건설교통신기술협회 \"미래 건설교통신기술인\" 장학생 선발 안내",
@@ -4479,7 +4479,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-16",
     "first_seen": "2026-11-17",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#SKKU UNITE 프리 텍스코어 참가자 모집(11/28~29)",
@@ -4488,7 +4488,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-16",
     "first_seen": "2026-11-17",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#제28차 대학교육혁신 워크숍 안내",
@@ -4497,6 +4497,6 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-16",
     "first_seen": "2026-11-17",
-    "notified": false
+    "notified": true
   }
 ]
