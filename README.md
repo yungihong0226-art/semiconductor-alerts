@@ -157,7 +157,7 @@
 
 _반도체 공모전/교육/지원사업과는 별개로, 성균관대 전자전기공학부 학부공지 및 종합공지에서 신규 게시물을 감지해 알려드립니다. 한 번 알려드린 공지는 다시 알리지 않습니다._
 
-### 전자전기공학부 학부공지 (eee.skku.edu) — 최근 15건
+### 전자전기공학부 학부공지 (eee.skku.edu)
 
 - [[DB하이텍] '26(하) 성균관대학교 반도체 인력양성 Course 모집](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228392) — 2026-11-11
 - [2026학년도 동계 학부생 연구학점제 시행 안내(11/25~12/2)](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=228293) — 2026-11-10
@@ -175,7 +175,7 @@ _반도체 공모전/교육/지원사업과는 별개로, 성균관대 전자전
 - [2027학년도 1학기 융합연구학점제[URP 3형] 신청 안내(11/1~11/25)](https://eee.skku.edu/eee/notice.do?mode=view&articleNo=227583) — 2026-10-29
 - [[학생성공센터 대학원] 양적 연구 실무 워크숍(가설검정&기술통계) 안내](https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138885&itemId=DEF86439EAC4E23A37512F2D8C22198DOKVWQZ) — 2026-10-29
 
-### 종합공지 (skku.edu) — 최근 15건
+### 성균관대 종합공지 (skku.edu)
 
 - [삼성SDI-SKKU 이차전지산학협력연구센터 행정직원 모집(~11/20)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-16
 - [성균관대학교 배터리학과 행정직원 모집(~11/20)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-16
@@ -183,12 +183,12 @@ _반도체 공모전/교육/지원사업과는 별개로, 성균관대 전자전
 - [(사)한국건설교통신기술협회 "미래 건설교통신기술인" 장학생 선발 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-16
 - [SKKU UNITE 프리 텍스코어 참가자 모집(11/28~29)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-16
 - [제28차 대학교육혁신 워크숍 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-16
+- [2026 제2회 성균관대학교 삼성융합의과학원 국제심포지엄 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-13
 - [[채용/모집] 2026 하반기 교직원(정규직) 신규채용 2차 면접전형 합격자 발표](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-13
 - [자연과학대학 행정조교 채용(~11/26(목))](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-13
 - [자연과학대학 수학과사무실 행정업무 조교 채용 (~11/18(수)까지)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-13
+- [[성균관대·POSTECH 공동주최] 행정혁신포럼「AI시대의 대학행정」안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-12
 - [[행사][공학교육혁신센터] 2026 공학페스티벌「청년뉴턴(NEW:TURN) 2026」개최 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141803) — 2026-11-11
 - [[학사][채용모집] 성균관대 문과대학 비교문화협동과정 연계전공 행정조교 모집](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141802) — 2026-11-11
 - [탄소중립연구소 행정인력 모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141794) — 2026-11-11
 - [[채용] 동아시아학술원 존경각 촉탁직원 채용 공고](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141791) — 2026-11-11
-- [[채용] 인재교육원행정실(자연과학캠퍼스) 촉탁직원 채용](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141790) — 2026-11-11
-- [[동아시아미래가치연구소] 2026 성균 생명학 CLASS 「엔트로피와 생명」 안내 (2026.11.19)](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=141789) — 2026-11-11

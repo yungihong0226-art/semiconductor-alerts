@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 도전학기 시행 안내",
-    "site": "skku",
-    "title": "2026학년도 도전학기 시행 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=131774#2026학년도 수강신청 일정 안내 *사전수강신청 첨부파일 필독*",
-    "site": "skku",
-    "title": "2026학년도 수강신청 일정 안내 *사전수강신청 첨부파일 필독*",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=131774",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=123512#2025학년도 수강신청 일정 안내 *사전수강신청 첨부파일 필독*",
     "site": "skku",
     "title": "2025학년도 수강신청 일정 안내 *사전수강신청 첨부파일 필독*",
@@ -4497,6 +4479,24 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-16",
     "first_seen": "2026-11-17",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026 제2회 성균관대학교 삼성융합의과학원 국제심포지엄 안내",
+    "site": "skku",
+    "title": "2026 제2회 성균관대학교 삼성융합의과학원 국제심포지엄 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-13",
+    "first_seen": "2026-11-18",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[성균관대·POSTECH 공동주최] 행정혁신포럼「AI시대의 대학행정」안내",
+    "site": "skku",
+    "title": "[성균관대·POSTECH 공동주최] 행정혁신포럼「AI시대의 대학행정」안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-12",
+    "first_seen": "2026-11-18",
     "notified": true
   }
 ]
