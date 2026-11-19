@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=123512#2025학년도 수강신청 일정 안내 *사전수강신청 첨부파일 필독*",
-    "site": "skku",
-    "title": "2025학년도 수강신청 일정 안내 *사전수강신청 첨부파일 필독*",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=123512",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=115784#성균관대학교 약학/의과대학행정실 행정조교 모집(마감)",
-    "site": "skku",
-    "title": "성균관대학교 약학/의과대학행정실 행정조교 모집(마감)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=115784",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=108893#2023 하반기 Statista 온라인 이용교육 신청 안내(~9/6)",
-    "site": "skku",
-    "title": "2023 하반기 Statista 온라인 이용교육 신청 안내(~9/6)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=108893",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=103579#2023학년도 1학기 학생예비군 전입 신고 안내",
-    "site": "skku",
-    "title": "2023학년도 1학기 학생예비군 전입 신고 안내",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=103579",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=77610#문과대학 10개학과 행정조교 모집",
-    "site": "skku",
-    "title": "문과대학 10개학과 행정조교 모집",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=77610",
-    "posted_date": null,
-    "first_seen": "2026-09-22",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=79540#성균관대학교 법학전문대학원 행정조교 모집 안내(~3/25)",
     "site": "skku",
     "title": "성균관대학교 법학전문대학원 행정조교 모집 안내(~3/25)",
@@ -4497,6 +4452,51 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-12",
     "first_seen": "2026-11-18",
+    "notified": true
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice.do#(재)전기공사공제조합장학회 2027년도 제22기 장학생 선발 안내",
+    "site": "eee",
+    "title": "(재)전기공사공제조합장학회 2027년도 제22기 장학생 선발 안내",
+    "url": "https://eee.skku.edu/eee/notice.do",
+    "posted_date": "2026-11-03",
+    "first_seen": "2026-11-19",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2027년도 유하푸른장학재단 10기 장학생 선발 안내",
+    "site": "skku",
+    "title": "2027년도 유하푸른장학재단 10기 장학생 선발 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": "2026-11-11",
+    "first_seen": "2026-11-19",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2026학년도 한국고등교육재단 제6기 문우림 장학생 선발 안내",
+    "site": "skku",
+    "title": "2026학년도 한국고등교육재단 제6기 문우림 장학생 선발 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": "2026-11-11",
+    "first_seen": "2026-11-19",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2027년 엔지니어링인재육성재단 제2기 장학생 모집 안내",
+    "site": "skku",
+    "title": "2027년 엔지니어링인재육성재단 제2기 장학생 모집 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": "2026-10-20",
+    "first_seen": "2026-11-19",
+    "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice06.do#2026학년도 한국교육재단 한국사무소 장학생 선발 안내",
+    "site": "skku",
+    "title": "2026학년도 한국교육재단 한국사무소 장학생 선발 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do",
+    "posted_date": "2026-11-09",
+    "first_seen": "2026-11-19",
     "notified": true
   }
 ]
