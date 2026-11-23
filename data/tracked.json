@@ -1664,5 +1664,37 @@
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
+  },
+  {
+    "title": "전북대학교 전력반도체 커스터마이징 과정 (재직자 대상)",
+    "organizer": "한국반도체산업협회(KSIA) 반도체인프라활용현장인력양성사업 - 전북대학교",
+    "category": "교육",
+    "description": "반도체 산업 재직자 대상 전력반도체 커스터마이징 실무 교육과정",
+    "target": "반도체 산업 재직자 (인원제한 없음)",
+    "url": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0040&WO_SEQ=153",
+    "period": "2026-08-26 ~ 2027-03-31",
+    "deadline": "2027-03-31",
+    "source_query_group": "direct",
+    "url_verified": true,
+    "id": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0040&WO_SEQ=153",
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23",
+    "status": "open"
+  },
+  {
+    "title": "[산업체 재직자] 반도체 12인치 ArF-immersion Scanner Lithography 용 응용소재 특성의 이해",
+    "organizer": "나노종합기술원(NNFC)",
+    "category": "교육",
+    "description": "산업체 재직자 대상 12인치 ArF-immersion 리소그래피 응용소재 교육(12/10~12/12)",
+    "target": "산업체 재직자",
+    "url": "https://www.nnfc.re.kr/prog/bbsArticle/BBSMSTR_000000000001/view.do?nttId=B000000005242Yg3cR4",
+    "period": "2026-12-10 ~ 2026-12-12",
+    "deadline": null,
+    "source_query_group": "direct",
+    "url_verified": true,
+    "id": "https://www.nnfc.re.kr/prog/bbsArticle/BBSMSTR_000000000001/view.do?nttId=B000000005242Yg3cR4",
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23",
+    "status": "open"
   }
 ]
