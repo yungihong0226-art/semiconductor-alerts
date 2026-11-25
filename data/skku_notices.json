@@ -4479,7 +4479,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-16",
     "first_seen": "2026-11-25",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집] [운용재] 2026년 기술고시반 신입실원 상시모집 안내",
@@ -4488,7 +4488,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-19",
     "first_seen": "2026-11-25",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집][성균관대학교 청정에너지ICT연구소] 이공계열 학사 이상 행정직원 모집(1명)",
@@ -4497,6 +4497,6 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-10-22",
     "first_seen": "2026-11-25",
-    "notified": false
+    "notified": true
   }
 ]

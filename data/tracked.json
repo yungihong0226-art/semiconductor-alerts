@@ -357,7 +357,7 @@
     "deadline": "2026-12-31",
     "source_query_group": "institution",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open"
   },
   {
@@ -1037,7 +1037,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "institution",
     "url_fix_attempts": 2,
@@ -1118,7 +1118,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-20",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "roundup"
   },
@@ -1133,7 +1133,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-21",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "general",
     "url_verified": true
@@ -1149,7 +1149,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-23",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "school",
     "url_verified": true
@@ -1165,7 +1165,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-23",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "school",
     "url_verified": true
@@ -1181,7 +1181,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1197,7 +1197,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1213,7 +1213,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1229,7 +1229,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1261,7 +1261,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1277,7 +1277,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-24",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1293,7 +1293,7 @@
     "deadline": null,
     "id": "https://www.theise.org/?kboard_id=20&mod=document&uid=786",
     "first_seen": "2026-09-25",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "institution",
     "url_verified": true
@@ -1341,7 +1341,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-10-01",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1628,7 +1628,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-11-12",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "school",
     "url_verified": true
@@ -1644,7 +1644,7 @@
     "period": "2026-11-02 ~ 2026-11-30",
     "deadline": "2026-11-30",
     "first_seen": "2026-11-17",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "general",
     "url_verified": true
@@ -1652,15 +1652,15 @@
   {
     "id": "https://linkareer.com/activity/352775",
     "title": "반도체 Reliability Engineer(신뢰성 평가) 채용연계형 인턴 채용",
-    "organizer": "확인필요(반도체 제조사)",
+    "organizer": "ASE코리아(천안사업장)",
     "category": "인턴십",
     "description": "반도체 신뢰성 평가 직무 인턴(1명, 12개월, 정규직 전환 검토) 상시 채용",
-    "target": "확인필요",
+    "target": "고졸 이상, 전공 무관 (재학·휴학 여부 확인필요)",
     "url": "https://linkareer.com/activity/352775",
     "period": null,
     "deadline": null,
     "first_seen": "2026-11-17",
-    "last_checked": "2026-11-22",
+    "last_checked": "2026-11-25",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1678,7 +1678,7 @@
     "url_verified": true,
     "id": "https://infra.ksia.or.kr/user/Wo/WoUser0101V.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0039&TOP_MENU_CODE=MENU0040&WO_SEQ=153",
     "first_seen": "2026-11-23",
-    "last_checked": "2026-11-23",
+    "last_checked": "2026-11-25",
     "status": "open"
   },
   {
@@ -1694,7 +1694,7 @@
     "url_verified": true,
     "id": "https://www.nnfc.re.kr/prog/bbsArticle/BBSMSTR_000000000001/view.do?nttId=B000000005242Yg3cR4",
     "first_seen": "2026-11-23",
-    "last_checked": "2026-11-23",
+    "last_checked": "2026-11-25",
     "status": "open"
   }
 ]
