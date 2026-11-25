@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=F3CE0EF67FBCA210D824B9FE2143297FTSPISA",
-    "site": "eee",
-    "title": "[학생인재개발팀/대학일자리플러스센터] 2026 하반기 AI 취업 지원 서비스 나임(NAIM) 안내",
-    "url": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=F3CE0EF67FBCA210D824B9FE2143297FTSPISA",
-    "posted_date": "2026-09-30",
-    "first_seen": "2026-10-01",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138885&itemId=9177EE5C932EF9CA2738E3D650B01DAAXJVSRM",
-    "site": "eee",
-    "title": "2026학년도 2학기 대학원 한마당 안내",
-    "url": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138885&itemId=9177EE5C932EF9CA2738E3D650B01DAAXJVSRM",
-    "posted_date": "2026-09-30",
-    "first_seen": "2026-10-01",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=B5023477AA64C78EBBDD77B9DA091FC1JFZAZJ",
-    "site": "eee",
-    "title": "[학생인재개발팀/대학일자리플러스센터] 10월 집단상담-면접 첫 걸음",
-    "url": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=B5023477AA64C78EBBDD77B9DA091FC1JFZAZJ",
-    "posted_date": "2026-09-30",
-    "first_seen": "2026-10-01",
-    "notified": true
-  },
-  {
     "id": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=44F73011B39F6EC8970FF6F4F53BD261TTPKIM",
     "site": "eee",
     "title": "[학생인재개발팀/대학일자리플러스센터] (자과캠) [한화솔루션 케미칼부문] 2026년 채용 설명회",
@@ -4498,5 +4471,32 @@
     "posted_date": "2026-11-06",
     "first_seen": "2026-11-24",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집] 성균관대학교 2027 신규 국내 특허협약사무소 모집 공고(~11/30 오후 4시)",
+    "site": "skku",
+    "title": "[채용/모집] 성균관대학교 2027 신규 국내 특허협약사무소 모집 공고(~11/30 오후 4시)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-16",
+    "first_seen": "2026-11-25",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집] [운용재] 2026년 기술고시반 신입실원 상시모집 안내",
+    "site": "skku",
+    "title": "[채용/모집] [운용재] 2026년 기술고시반 신입실원 상시모집 안내",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-19",
+    "first_seen": "2026-11-25",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용/모집][성균관대학교 청정에너지ICT연구소] 이공계열 학사 이상 행정직원 모집(1명)",
+    "site": "skku",
+    "title": "[채용/모집][성균관대학교 청정에너지ICT연구소] 이공계열 학사 이상 행정직원 모집(1명)",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-10-22",
+    "first_seen": "2026-11-25",
+    "notified": false
   }
 ]
