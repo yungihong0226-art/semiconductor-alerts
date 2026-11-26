@@ -4452,7 +4452,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": "2026-11-26",
     "first_seen": "2026-11-26",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice02.do?mode=download&articleNo=137564&attachNo=115802",
@@ -4461,7 +4461,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice02.do?mode=download&articleNo=137564&attachNo=115802",
     "posted_date": null,
     "first_seen": "2026-11-26",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://eee.skku.edu/eee/notice_job.do#[취업] LG디스플레이 하반기 신입사원 채용",
@@ -4470,7 +4470,7 @@
     "url": "https://eee.skku.edu/eee/notice_job.do",
     "posted_date": null,
     "first_seen": "2026-11-26",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice03.do?mode=download&articleNo=129924&attachNo=108017",
@@ -4479,7 +4479,7 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice03.do?mode=download&articleNo=129924&attachNo=108017",
     "posted_date": "2025-09-11",
     "first_seen": "2026-11-26",
-    "notified": false
+    "notified": true
   },
   {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균융합원 응용AI융합학부 자체직원 채용",
@@ -4488,6 +4488,6 @@
     "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
     "posted_date": null,
     "first_seen": "2026-11-26",
-    "notified": false
+    "notified": true
   }
 ]
