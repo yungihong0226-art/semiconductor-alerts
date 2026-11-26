@@ -1,59 +1,5 @@
 [
   {
-    "id": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=44F73011B39F6EC8970FF6F4F53BD261TTPKIM",
-    "site": "eee",
-    "title": "[학생인재개발팀/대학일자리플러스센터] (자과캠) [한화솔루션 케미칼부문] 2026년 채용 설명회",
-    "url": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=44F73011B39F6EC8970FF6F4F53BD261TTPKIM",
-    "posted_date": "2026-09-30",
-    "first_seen": "2026-10-01",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138886&itemId=0B4E22F002FC87EFDABCEAA543BB7B5DIFCQZC",
-    "site": "eee",
-    "title": "2026학년도 Adobe 소프트웨어(Shared Device License) 이용 안내",
-    "url": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138886&itemId=0B4E22F002FC87EFDABCEAA543BB7B5DIFCQZC",
-    "posted_date": "2026-09-30",
-    "first_seen": "2026-10-01",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=97D9AA30D2F760DAB5B2284990ED2748NCTOVV",
-    "site": "eee",
-    "title": "[학생인재개발팀/대학일자리플러스센터] 2026 한국투자증권 CEO 채용설명회",
-    "url": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=97D9AA30D2F760DAB5B2284990ED2748NCTOVV",
-    "posted_date": "2026-09-30",
-    "first_seen": "2026-10-01",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=D1106D465D27889B27E98D8145595F2FHWHBVW",
-    "site": "eee",
-    "title": "[학생인재개발팀/대학일자리플러스센터] 2026 하반기 바이오헬스산업 일자리 아카데미",
-    "url": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138882&itemId=D1106D465D27889B27E98D8145595F2FHWHBVW",
-    "posted_date": "2026-09-30",
-    "first_seen": "2026-10-01",
-    "notified": true
-  },
-  {
-    "id": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138883&itemId=B92581107D8C72B8F2E1D17545BC278DLPTIXR",
-    "site": "eee",
-    "title": "[현대자동차그룹] K-뉴딜 아카데미 HINT(HMG Incubation of New Talent) 교육생 모집",
-    "url": "https://eee.skku.edu/eee/notice_total.do?mode=view&link=null&viewBoardId=138883&itemId=B92581107D8C72B8F2E1D17545BC278DLPTIXR",
-    "posted_date": "2026-09-30",
-    "first_seen": "2026-10-01",
-    "notified": true
-  },
-  {
-    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#2026학년도 하나금융나눔재단 국내 하나장학생 모집 (마감 10/6(화) 09:00)",
-    "site": "skku",
-    "title": "2026학년도 하나금융나눔재단 국내 하나장학생 모집 (마감 10/6(화) 09:00)",
-    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
-    "posted_date": "2026-10-02",
-    "first_seen": "2026-10-03",
-    "notified": true
-  },
-  {
     "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#[채용] 소노케어랩 의료기기 개발 담당자 채용공고",
     "site": "skku",
     "title": "[채용] 소노케어랩 의료기기 개발 담당자 채용공고",
@@ -4498,5 +4444,50 @@
     "posted_date": "2026-10-22",
     "first_seen": "2026-11-25",
     "notified": true
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#AI 대전환과 일의 미래 포럼",
+    "site": "skku",
+    "title": "AI 대전환과 일의 미래 포럼",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": "2026-11-26",
+    "first_seen": "2026-11-26",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice02.do?mode=download&articleNo=137564&attachNo=115802",
+    "site": "skku",
+    "title": "2026학년도 도전학기 운영계획",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice02.do?mode=download&articleNo=137564&attachNo=115802",
+    "posted_date": null,
+    "first_seen": "2026-11-26",
+    "notified": false
+  },
+  {
+    "id": "https://eee.skku.edu/eee/notice_job.do#[취업] LG디스플레이 하반기 신입사원 채용",
+    "site": "eee",
+    "title": "[취업] LG디스플레이 하반기 신입사원 채용",
+    "url": "https://eee.skku.edu/eee/notice_job.do",
+    "posted_date": null,
+    "first_seen": "2026-11-26",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice03.do?mode=download&articleNo=129924&attachNo=108017",
+    "site": "skku",
+    "title": "2026학년도 전기 일반대학원 일반전형 모집요강",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice03.do?mode=download&articleNo=129924&attachNo=108017",
+    "posted_date": "2025-09-11",
+    "first_seen": "2026-11-26",
+    "notified": false
+  },
+  {
+    "id": "https://www.skku.edu/skku/campus/skk_comm/notice01.do#성균융합원 응용AI융합학부 자체직원 채용",
+    "site": "skku",
+    "title": "성균융합원 응용AI융합학부 자체직원 채용",
+    "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do",
+    "posted_date": null,
+    "first_seen": "2026-11-26",
+    "notified": false
   }
 ]

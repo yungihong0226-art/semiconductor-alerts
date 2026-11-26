@@ -1,21 +1,21 @@
 # 반도체 공모전/교육/지원사업/인턴십/서포터즈 & 성균관대 공지사항 트래커
 
-마지막 업데이트: 2026-11-25 09:21 KST
+마지막 업데이트: 2026-11-26 09:40 KST
 
-**전체 진행중: 19건** (공모전 0건 · 교육 16건 · 지원사업 2건 · 인턴십 1건 · 서포터즈 0건)
+**전체 진행중: 20건** (공모전 0건 · 교육 17건 · 지원사업 2건 · 인턴십 1건 · 서포터즈 0건)
 
-⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캐퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
+⚠️ 이 목록은 웹 검색과 주요 기관 직접 확인 기반이며, 교수님 추천·학과 게시판·에브리타임같은 교내 채널은 포함되지 않습니다. 아래 플랫폼/기관도 주기적으로 직접 확인하세요: [위비티](https://www.wevity.com) | [씨굿](https://www.thinkcontest.com) | [링커리어](https://linkareer.com) | [올콘](https://www.all-con.co.kr) | [캠퍼스픽](https://www.campuspick.com) | [KSIA교육](https://infra.ksia.or.kr/user/Wo/WoUser0101.do?SCH_PRM_GB=002&TAB_ID=1&CURRENT_MENU_CODE=MENU0040&TOP_MENU_CODE=MENU0040) | [서울대ISRC](https://isrc.snu.ac.kr/edu/) | [나노종합기술원](https://www.nnfc.re.kr/bbs/BBSMSTR_000000000001/list.do) | [IDEC교육](https://academy.idec.or.kr/track/apply/list/)
 
-## 교육 (16건)
+## 교육 (17건)
 
-#### 텔레칩스 차량용 반도체 임베디드 스쿨 6기 교육생 모집 (D-5)
+#### 텔레칩스 차량용 반도체 임베디드 스쿨 6기 교육생 모집 (D-4)
 - 주최: 한국전파진흥협회(RAPA) / 텔레칩스
 - 모집기간: 2026-11-02 ~ 2026-11-30
 - 모집대상: 국민내일배움카드 발급 가능자, 4년제 대졸(예정) 미취업자·전기전자컴퓨터 전공 우대
 - 설명: 차량용 반도체 임베디드SW 실무교육 6기 교육생 모집(K-디지털 트레이닝)
 - 링크: https://edu.rapa.or.kr/recruitment/1257
 
-#### 전북대학교 전력반도체 커스터마이징 과정 (재직자 대상) (D-126)
+#### 전북대학교 전력반도체 커스터마이징 과정 (재직자 대상) (D-125)
 - 주최: 한국반도체산업협회(KSIA) 반도체인프라활용현장인력양성사업 - 전북대학교
 - 모집기간: 2026-08-26 ~ 2027-03-31
 - 모집대상: 반도체 산업 재직자 (인원제한 없음)
@@ -120,9 +120,16 @@
 - 설명: 산업체 재직자 대상 12인치 ArF-immersion 리소그래피 응용소재 교육(12/10~12/12)
 - 링크: https://www.nnfc.re.kr/prog/bbsArticle/BBSMSTR_000000000001/view.do?nttId=B000000005242Yg3cR4
 
+#### 2027년 반도체 분야 취업준비생 모집 (기숙사·식사 무료제공) (마감일 미정)
+- 주최: 확인필요
+- 모집기간: 확인필요
+- 모집대상: 확인필요
+- 설명: 반도체 취업연계 교육생 모집, 기숙사·식사 무료 제공
+- 링크: https://linkareer.com/activity/356734
+
 ## 지원사업 (2건)
 
-#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-36)
+#### 2026년 반도체융합전공 역량강화 지원 프로그램 (D-35)
 - 주최: 전남대학교 반도체특성화대학사업단
 - 모집기간: 2026-04-15 ~ 2026-12-31
 - 모집대상: 전남대 반도체융합전공 재학생
@@ -146,7 +153,7 @@
 - 링크: https://linkareer.com/activity/352775
 
 ---
-오늘의 institution_rotation_index: 0 (연세대 반도체특성화대학 사업단, 고려대 반도체공학, 삼성전자 미래기술육성재단, 한양대 반도체공학과, 경기도 반도체산업전문인력양성사업, 나노기술연구협의회 나노기술교육과정, UST 동계/하계 연구인턴십)
+오늘의 institution_rotation_index: 1 (서울대 반도체공동연구소, 동국대 반도체부트캠프사업단, 홍익대 반도체부트캠프사업단, 단국대 첨단산업인재양성부트캠프, 인하공업전문대학 부트캠프, GIST 동계/하계 인턴십, DGIST 대학원 동계/하계 인턴 프로그램)
 
 ## 성균관대 공지사항
 
@@ -170,6 +177,7 @@
 
 ### 성균관대 종합공지 (skku.edu)
 
+- [AI 대전환과 일의 미래 포럼](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-26
 - [[채용/모집] [운용재] 2026년 기술고시반 신입실원 상시모집 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-19
 - [삼성SDI-SKKU 이차전지산학협력연구센터 행정직원 모집(~11/20)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-16
 - [성균관대학교 배터리학과 행정직원 모집(~11/20)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-16
@@ -183,5 +191,3 @@
 - [자연과학대학 수학과사무실 행정업무 조교 채용 (~11/18(수)까지)](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-13
 - [2026 제2회 성균관대학교 삼성융합의과학원 국제심포지엄 안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-13
 - [[채용/모집] 자연과학대학 행정조교 채용 (~11/26(목))](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-13
-- [성균관대학교 교직원(정규직) 2차 면접 합격자 발표](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-13
-- [[성균관대·POSTECH 공동주최] 행정혁신포럼「AI시대의 대학행정」안내](https://www.skku.edu/skku/campus/skk_comm/notice01.do) — 2026-11-12

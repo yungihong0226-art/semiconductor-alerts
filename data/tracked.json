@@ -1660,7 +1660,7 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-11-17",
-    "last_checked": "2026-11-25",
+    "last_checked": "2026-11-26",
     "status": "open",
     "source_query_group": "aggregator",
     "url_verified": true
@@ -1696,5 +1696,21 @@
     "first_seen": "2026-11-23",
     "last_checked": "2026-11-25",
     "status": "open"
+  },
+  {
+    "id": "https://linkareer.com/activity/356734",
+    "title": "2027년 반도체 분야 취업준비생 모집 (기숙사·식사 무료제공)",
+    "organizer": "확인필요",
+    "category": "교육",
+    "description": "반도체 취업연계 교육생 모집, 기숙사·식사 무료 제공",
+    "target": "확인필요",
+    "url": "https://linkareer.com/activity/356734",
+    "period": null,
+    "deadline": null,
+    "first_seen": "2026-11-26",
+    "last_checked": "2026-11-26",
+    "status": "open",
+    "source_query_group": "general",
+    "url_verified": true
   }
 ]
