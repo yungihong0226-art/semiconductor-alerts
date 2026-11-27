@@ -357,8 +357,9 @@
     "deadline": "2026-12-31",
     "source_query_group": "institution",
     "first_seen": "2026-09-02",
-    "last_checked": "2026-11-25",
-    "status": "open"
+    "last_checked": "2026-11-27",
+    "status": "open",
+    "url_verified": true
   },
   {
     "id": "https://popens.postech.ac.kr/recruitment_guide/",
@@ -1118,9 +1119,10 @@
     "period": null,
     "deadline": null,
     "first_seen": "2026-09-20",
-    "last_checked": "2026-11-25",
+    "last_checked": "2026-11-27",
     "status": "open",
-    "source_query_group": "roundup"
+    "source_query_group": "roundup",
+    "url_verified": true
   },
   {
     "id": "https://setec.koreatech.ac.kr/bbs/bbs/board.php?bo_table=gongji&wr_id=405",
